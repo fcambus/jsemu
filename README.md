@@ -2,6 +2,9 @@
 
 A list of emulators written in the JavaScript programming language.
 
+This list started as a compilation of JavaScript emulators posted to Echo JS over the years. If you know about any missing emulators, please consider adding them to the collection : the source for this page is available on [GitHub](https://github.com/fcambus/jsemu). Thank you in advance.
+
+Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.com/).
 
 ## Amstrad
 
@@ -79,7 +82,7 @@ A list of emulators written in the JavaScript programming language.
 
 ## Miscellaneous
 
-- ElkJS - Javascript based Acorn Electron Emulator - ([Source](https://github.com/dmcoles/elkjs))
+- ElkJS - Javascript based Acorn Electron Emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb))
 - [NanoWasp](http://www.nanowasp.org/) - A MicroBee Emulator
@@ -90,6 +93,9 @@ jor1k/))
 - [jslm32](http://www.ubercomp.com/jslm32/src/) - Javascript LatticeMico32 Emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 - [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
 
+## Additional Information
 
+This resource collection is maintained by Frederic Cambus
 
-
+- Site : http://www.cambus.net
+- Twitter: http://twitter.com/fcambus
