@@ -25,13 +25,13 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 - [JSC64](http://www.kingsquare.nl/jsc64) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
-- [VIC-20 Emulator](http://mdawson.net/vic20chrome/vic20.php) - Javascript VIC-20 emulator
+- [VIC-20 Emulator](http://mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
 - [VICE.js](http://retroplay.co) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
 
 ## DEC
 
 - [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator
-- [pdp11-js](https://pdp11-js.googlecode.com/git/unixv6.html) - PDP-11 Emulator with UNIX V6
+- [pdp11-js](https://pdp11-js.googlecode.com/git/unixv6.html) - PDP-11 emulator with UNIX V6
 
 ## Nintendo
 
@@ -39,7 +39,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [CycloaJS](http://ledyba.org/utl/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
 - [GBA.js](http://jpfau.github.io/gbajs/) - Game Boy Advance in the Browser
  ([Source](https://github.com/jpfau/gbajs/))
-- [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color Emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
+- [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
 - [IodineGBA](http://grantgalitz.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/grantgalitz/IodineGBA))
 - [JSNES](http://fir.sh/projects/jsnes/) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
@@ -82,13 +82,13 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Miscellaneous
 
-- ElkJS - JavaScript based Acorn Electron Emulator ([Source](https://github.com/dmcoles/elkjs))
+- ElkJS - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb))
-- [NanoWasp](http://www.nanowasp.org/) - A MicroBee Emulator
+- [NanoWasp](http://www.nanowasp.org/) - A MicroBee emulator
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
 - [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
-- [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX Emulator 100% written in JavaScript
+- [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
 - [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 - [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
 
