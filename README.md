@@ -41,4 +41,17 @@ A list of emulators written in the JavaScript programming language.
 - [MC-10 Emulator](http://mc-10.com/) - Emulator for the MC-10 microcomputer by RadioShack
 - [JSC64](http://www.kingsquare.nl/jsc64) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
+- [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
+- fam - JavaScript NES emulator ([Source](https://github.com/bashi/fam/))
+- jsGB - A GameBoy emulator in JavaScript ([Source](https://github.com/Two9A/jsGB))
+- [XNES](http://tjwei.github.io/xnes/) - Experimental Javascript Super Nitendo Emulators  ([Source](https://github.com/tjwei/xnes))
+- [VIC-20 Emulator](http://mdawson.net/vic20chrome/vic20.php) - Javascript VIC-20 emulator
+- [PDP-11 emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator
+- [Apple \]\[js](http://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript ([Source]())
+- [Apple2JS](http://www.megidish.net/apple2js/) - A JavaScript emulator for the Apple II([Source]())
+- [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
+- jsbochs - Bochs PC Emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
+- [PCE](http://www.hampa.ch/pce/) - PC Emulators in JavaScript (Atari ST, IBM PC 5150, Macintosh, RC759 Piccoline)
+- [pdp11-js](https://pdp11-js.googlecode.com/git/unixv6.html) - PDP-11 Emulator with UNIX V6
+- [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb))
 
