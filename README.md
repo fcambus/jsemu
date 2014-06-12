@@ -14,6 +14,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Apple
 
 - [Apple \]\[js](http://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
+- [a2](http://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator.
 - [Apple2JS](http://www.megidish.net/apple2js/) - A JavaScript emulator for the Apple II
 
 ## Atari
