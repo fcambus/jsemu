@@ -27,4 +27,18 @@ A list of emulators written in the JavaScript programming language.
 - [Roland](http://roland.retrolandia.net) - An Amstrad CPC emulator written in JavaScript
 - [Qaop/JS](http://torinak.com/qaop) - ZX Spectrum emulator ([Source]())
 - [JS/Linux](http://bellard.org/jslinux/) - Javascript PC Emulator
+- [jTandy](http://jtandy.retrolandia.net) - Another JavaScript TRS-80 emulator
+- [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 Emulator for Node.js and the browser ([Source](https://github.com/asmblah/jemul8))
+- [Miracle](http://xania.org/miracle/miracle.html) - Sega Master System emulator 
+- [jBacteria](http://jbacteria.retrolandia.net/) - The smallest JavaScript spectrum emulator  ([Source]())
+- [JSSpeccy](http://jsspeccy.zxdemo.org) - A ZX Spectrum emulator in Javascript ([Source](https://github.com/gasman/jsspeccy2))
+- [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
+- [jsA8E](http://zerstoerung.de/jsa8e/) - JavaScript version of the A8E Atari 800 XL Emulator
+- [NanoWasp](http://www.nanowasp.org/) - A MicroBee Emulator
+- [ZX80 Emulator](http://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
+- [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX Emulator 100% written in JavaScript
+- [1964js](https://code.google.com/p/1964js/) - JavaScript port of official 1964 N64 emulator for Windows
+- [MC-10 Emulator](http://mc-10.com/) - Emulator for the MC-10 microcomputer by RadioShack
+- [JSC64](http://www.kingsquare.nl/jsc64) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
+- [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
 
