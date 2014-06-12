@@ -13,12 +13,12 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Apple
 
-- [Apple \]\[js](http://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript ([Source]())
-- [Apple2JS](http://www.megidish.net/apple2js/) - A JavaScript emulator for the Apple II([Source]())
+- [Apple \]\[js](http://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
+- [Apple2JS](http://www.megidish.net/apple2js/) - A JavaScript emulator for the Apple II
 
 ## Atari
 
-- [EstyJS](https://estyjs.azurewebsites.net) - A pretty fast and functional JavaScript Atari ST emulator - ([Source](https://github.com/dmcoles/estyjs))
+- [EstyJS](https://estyjs.azurewebsites.net) - A pretty fast and functional JavaScript Atari ST emulator ([Source](https://github.com/dmcoles/estyjs))
 - [jsA8E](http://zerstoerung.de/jsa8e/) - JavaScript version of the A8E Atari 800 XL Emulator
 
 ## Commodore
@@ -30,12 +30,12 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## DEC
 
-- [PDP-11 emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator
+- [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator
 - [pdp11-js](https://pdp11-js.googlecode.com/git/unixv6.html) - PDP-11 Emulator with UNIX V6
 
 ## Nintendo
 
-- [1964js](https://code.google.com/p/1964js/) - JavaScript port of official 1964 N64 emulator for Windows
+- [1964js](https://code.google.com/p/1964js/) - JavaScript port of the 1964 N64 emulator for Windows
 - [CycloaJS](http://ledyba.org/utl/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
 - [GBA.js](http://jpfau.github.io/gbajs/) - Game Boy Advance in the Browser
  ([Source](https://github.com/jpfau/gbajs/))
@@ -43,11 +43,11 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [IodineGBA](http://grantgalitz.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/grantgalitz/IodineGBA))
 - [JSNES](http://fir.sh/projects/jsnes/) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
-- [XNES](http://tjwei.github.io/xnes/) - Experimental Javascript Super Nitendo Emulators  ([Source](https://github.com/tjwei/xnes))
+- [XNES](http://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo Emulators  ([Source](https://github.com/tjwei/xnes))
 - fam - JavaScript NES emulator ([Source](https://github.com/bashi/fam/))
 - jsGB - A GameBoy emulator in JavaScript ([Source](https://github.com/Two9A/jsGB))
-- [mupen64plus](http://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
-- [n64js](http://hulkholden.github.io/n64js/) - An N64 Emulator in Javascript ([Source](https://github.com/hulkholden/n64js))
+- [mupen64plus](http://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the Web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
+- [n64js](http://hulkholden.github.io/n64js/) - An N64 Emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
 
 ## PC Emulators
 
@@ -87,8 +87,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb))
 - [NanoWasp](http://www.nanowasp.org/) - A MicroBee Emulator
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
-- [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K Javascript Emulator Running Linux With Network Support ([Source](https://github.com/s-macke/
-jor1k/))
+- [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K Javascript Emulator Running Linux With Network Support ([Source](https://github.com/s-macke/jor1k/))
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX Emulator 100% written in JavaScript
 - [jslm32](http://www.ubercomp.com/jslm32/src/) - Javascript LatticeMico32 Emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 - [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
