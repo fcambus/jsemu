@@ -43,20 +43,20 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [IodineGBA](http://grantgalitz.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/grantgalitz/IodineGBA))
 - [JSNES](http://fir.sh/projects/jsnes/) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
-- [XNES](http://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo Emulators  ([Source](https://github.com/tjwei/xnes))
+- [XNES](http://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulators  ([Source](https://github.com/tjwei/xnes))
 - fam - JavaScript NES emulator ([Source](https://github.com/bashi/fam/))
 - jsGB - A GameBoy emulator in JavaScript ([Source](https://github.com/Two9A/jsGB))
 - [mupen64plus](http://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the Web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
-- [n64js](http://hulkholden.github.io/n64js/) - An N64 Emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
+- [n64js](http://hulkholden.github.io/n64js/) - An N64 emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
 
 ## PC Emulators
 
-- [JS/Linux](http://bellard.org/jslinux/) - Javascript PC Emulator
-- [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS Emulator ([Source](http://sourceforge.net/projects/jsdosbox/files/))
-- [PCjs](http://www.pcjs.org) - IBM PC Model 5150 Emulator
+- [JS/Linux](http://bellard.org/jslinux/) - JavaScript PC emulator
+- [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](http://sourceforge.net/projects/jsdosbox/files/))
+- [PCjs](http://www.pcjs.org) - IBM PC Model 5150 emulator
 - [Virtual x86](http://copy.sh/v24/) - An x86 emulator written in JavaScript ([Source](https://github.com/copy/v86))
-- [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 Emulator for Node.js and the browser ([Source](https://github.com/asmblah/jemul8))
-- jsbochs - Bochs PC Emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
+- [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
+- jsbochs - Bochs PC emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
 
 ## Sega
 
@@ -65,7 +65,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Sinclair
 
-- [JSSpeccy](http://jsspeccy.zxdemo.org) - A ZX Spectrum emulator in Javascript ([Source](https://github.com/gasman/jsspeccy2))
+- [JSSpeccy](http://jsspeccy.zxdemo.org) - A ZX Spectrum emulator in JavaScript ([Source](https://github.com/gasman/jsspeccy2))
 - [Qaop/JS](http://torinak.com/qaop) - ZX Spectrum emulator
 - [ZX80 Emulator](http://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
 - [jBacteria](http://jbacteria.retrolandia.net/) - The smallest JavaScript Spectrum emulator
@@ -77,19 +77,19 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Multi-system Emulators
 
-- [JSMESS](http://jsmess.textfiles.com) - The Javascript MESS ([Source](https://github.com/jsmess/jsmess))
-- [PCE](http://www.hampa.ch/pce/) - PC Emulators in JavaScript (Atari ST, IBM PC 5150, Macintosh, RC759 Piccoline)
+- [JSMESS](http://jsmess.textfiles.com) - The JavaScript MESS (Multi Emulator Super System) ([Source](https://github.com/jsmess/jsmess))
+- [PCE](http://www.hampa.ch/pce/) - PC emulators in JavaScript (Atari ST, IBM PC 5150, Macintosh, RC759 Piccoline)
 
 ## Miscellaneous
 
-- ElkJS - Javascript based Acorn Electron Emulator ([Source](https://github.com/dmcoles/elkjs))
+- ElkJS - JavaScript based Acorn Electron Emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb))
 - [NanoWasp](http://www.nanowasp.org/) - A MicroBee Emulator
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
-- [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K Javascript Emulator Running Linux With Network Support ([Source](https://github.com/s-macke/jor1k/))
+- [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX Emulator 100% written in JavaScript
-- [jslm32](http://www.ubercomp.com/jslm32/src/) - Javascript LatticeMico32 Emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
+- [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 - [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
 
 ## Additional Information
