@@ -13,7 +13,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Apple
 
-- [Apple \]\[js](http://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
+- [Apple IIjs](http://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
 - [a2](http://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator.
 - [Apple2JS](http://www.megidish.net/apple2js/) - A JavaScript emulator for the Apple II
 
@@ -83,9 +83,11 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Miscellaneous
 
+- [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
 - ElkJS - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb))
+- [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/soywiz/jspspemu))
 - [NanoWasp](http://www.nanowasp.org/) - A MicroBee emulator
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
 - [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
