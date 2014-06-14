@@ -62,7 +62,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Sega
 
 - [jsSMS](http://gmarty.github.io/jsSMS/) - JavaScript Sega Master System & Game Gear emulator ([Source](https://github.com/gmarty/jsSMS))
-- [Miracle](http://xania.org/miracle/miracle.html) - Sega Master System emulator 
+- [Miracle](http://xania.org/miracle/miracle.html) - Sega Master System emulator ([Source](https://github.com/mattgodbolt/Miracle))
 
 ## Sinclair
 
