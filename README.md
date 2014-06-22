@@ -42,7 +42,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
  ([Source](https://github.com/jpfau/gbajs/))
 - [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
 - [IodineGBA](http://grantgalitz.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/grantgalitz/IodineGBA))
-- [JS-VBA-M](http://dl.dropboxusercontent.com/u/20328726/vbamjs/) - JavaScript port of VisualBoyAdvance-M, a Game Boy Color / Advance emulator
+- [JS-VBA-M](http://dl.dropboxusercontent.com/u/20328726/vbamjs/index.html) - JavaScript port of VisualBoyAdvance-M, a Game Boy Color / Advance emulator
 - [JSNES](http://fir.sh/projects/jsnes/) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
 - [XNES](http://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulators  ([Source](https://github.com/tjwei/xnes))
@@ -75,6 +75,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Tandy
 
 - [MC-10 Emulator](http://mc-10.com/) - Emulator for the TRS-80 MC-10 microcomputer
+- [TRS-80 Model III Emulator](http://people.cs.ubc.ca/~pphillip/trs80.html) a Javascript emulator for the TRS-80 Model III
 - [jTandy](http://jtandy.retrolandia.net) - Another JavaScript TRS-80 emulator
 
 ## Multi-system Emulators
@@ -90,6 +91,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - ElkJS - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb))
+- [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/soywiz/jspspemu))
 - [NanoWasp](http://www.nanowasp.org/) - A MicroBee emulator
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
