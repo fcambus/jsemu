@@ -42,6 +42,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
  ([Source](https://github.com/jpfau/gbajs/))
 - [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
 - [IodineGBA](http://grantgalitz.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/grantgalitz/IodineGBA))
+- [JS-VBA-M](http://dl.dropboxusercontent.com/u/20328726/vbamjs/) - JavaScript port of VisualBoyAdvance-M, a Game Boy Color / Advance emulator
 - [JSNES](http://fir.sh/projects/jsnes/) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
 - [XNES](http://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulators  ([Source](https://github.com/tjwei/xnes))
@@ -92,6 +93,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/soywiz/jspspemu))
 - [NanoWasp](http://www.nanowasp.org/) - A MicroBee emulator
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
+- Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virt.js/))
 - [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
 - [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
