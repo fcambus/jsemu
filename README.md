@@ -38,8 +38,8 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 - [1964js](https://code.google.com/p/1964js/) - JavaScript port of the 1964 N64 emulator for Windows
 - [CycloaJS](http://ledyba.org/utl/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
-- [GBA.js](http://jpfau.github.io/gbajs/) - Game Boy Advance in the Browser
- ([Source](https://github.com/jpfau/gbajs/))
+- [GBA.js](http://endrift.github.io/gbajs/) - Game Boy Advance in the Browser
+ ([Source](https://github.com/endrift/gbajs))
 - [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
 - [IodineGBA](http://grantgalitz.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/grantgalitz/IodineGBA))
 - [JS-VBA-M](http://dl.dropboxusercontent.com/u/20328726/vbamjs/index.html) - JavaScript port of VisualBoyAdvance-M, a Game Boy Color / Advance emulator
