@@ -41,7 +41,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [GBA.js](http://endrift.github.io/gbajs/) - Game Boy Advance in the Browser
  ([Source](https://github.com/endrift/gbajs))
 - [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
-- [IodineGBA](http://grantgalitz.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/grantgalitz/IodineGBA))
+- [IodineGBA](http://taisel.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/taisel/IodineGBA))
 - [JS-VBA-M](http://dl.dropboxusercontent.com/u/20328726/vbamjs/index.html) - JavaScript port of VisualBoyAdvance-M, a Game Boy Color / Advance emulator
 - [JSNES](http://fir.sh/projects/jsnes/) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
