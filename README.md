@@ -87,6 +87,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Miscellaneous
 
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
+- [Angel](http://riscv.org/angel/) - JavaScript RISC-V ISA simulator booting linux in a web-browser ([Source](https://github.com/riscv/riscv-angel))
 - ARM-js - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
 - [ASM80](http://www.asm80.com) - Online assembler for 8-bit microprocessors
 - [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://code.google.com/p/retro-b5500/)) 
