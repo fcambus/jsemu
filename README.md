@@ -119,3 +119,11 @@ This resource collection is maintained by Frederic Cambus
 
 - Site : http://www.cambus.net
 - Twitter: http://twitter.com/fcambus
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Frederic Cambus](http://www.cambus.net) has waived all copyright and related or neighboring rights to this work.
+
+
