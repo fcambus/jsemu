@@ -76,6 +76,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 - [MC-10 Emulator](http://mc-10.com/) - Emulator for the TRS-80 MC-10 microcomputer
 - [TRS-80 Model III Emulator](http://people.cs.ubc.ca/~pphillip/trs80.html) a Javascript emulator for the TRS-80 Model III
+- [JS Mocha](http://www.haplessgenius.com/mocha/) - The HTML5 CoCo 2 Emulator
 - [jTandy](http://jtandy.retrolandia.net) - Another JavaScript TRS-80 emulator
 
 ## Multi-system Emulators
