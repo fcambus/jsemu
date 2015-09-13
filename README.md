@@ -82,7 +82,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Multi-system Emulators
 
 - [JSMESS](http://jsmess.textfiles.com) - The JavaScript MESS (Multi Emulator Super System) ([Source](https://github.com/jsmess/jsmess))
-- [PCE](http://www.hampa.ch/pce/) - PC emulators in JavaScript (Atari ST, IBM PC 5150, Macintosh, RC759 Piccoline)
+- [PCE](https://github.com/jsdf/pce) - PC emulators in JavaScript (Atari ST, IBM PC 5150, Macintosh, RC759 Piccoline)
 - [RetroArch](http://toadking.com/retroarch/) - JavaScript port of RetroArch (bundles Gambatte (Gameboy), Genesis Plus GX, Handy (Lynx), Snes9x Next, VBA Next (GameBoy Advance), Tyrquake and FinalBurn Alpha)
 
 ## Miscellaneous
