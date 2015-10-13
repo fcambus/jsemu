@@ -31,6 +31,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## DEC
 
+- [Javascript PDP 11](http://skn.noip.me/pdp11/pdp11.html) - PDP-11/70 emulator with simulated front panel and a choice of operating systems.
 - [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator
 - [pdp11-js](https://pdp11-js.googlecode.com/git/unixv6.html) - PDP-11 emulator with UNIX V6
 
