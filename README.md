@@ -111,6 +111,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
 - [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
+- [Sinclair Scientific](http://righto.com/sinclair) and [TI-1500](http://righto.com/ti) calculator simulations, at the microcode level and including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virt.js/))
 - [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU
