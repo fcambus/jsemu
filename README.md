@@ -101,6 +101,8 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - ElkJS - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
 - [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
+- [HP-35 bug-compatible](http://biged.github.com/Sandbox/HP35/default.htm) microcode level emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
+- [HP-35 workalike](https://neil.fraser.name/software/hp-35/) high-level JavaScript emulator by Neil Fraser
 - [IBM 5110 Emulator](http://members.aon.at/~nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JavaScript 8080 Emulator](http://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
