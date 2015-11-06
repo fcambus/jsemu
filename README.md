@@ -116,6 +116,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
 - [Sinclair Scientific](http://righto.com/sinclair) and [TI-1500](http://righto.com/ti) calculator simulations, at the microcode level and including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
+- [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information.
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virt.js/))
 - [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
 - [Visual 6800](http://www.visual6502.org/JSSim/expert-6800.html?steps=10) - JavaScript simulator for the Motorola 6800 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
