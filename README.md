@@ -87,6 +87,13 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [PCE](https://github.com/jsdf/pce) - PC emulators in JavaScript (Atari ST, [IBM PC 5150](https://jamesfriend.com.au/pce-js/ibmpc-win/), [Macintosh](https://jamesfriend.com.au/pce-js), RC759 Piccoline)
 - [RetroArch](http://toadking.com/retroarch/) - JavaScript port of RetroArch (bundles Gambatte (Gameboy), Genesis Plus GX, Handy (Lynx), Snes9x Next, VBA Next (GameBoy Advance), Tyrquake and FinalBurn Alpha)
 
+## Calculator emulators
+
+- [HP-35 bug-compatible](http://biged.github.com/Sandbox/HP35/default.htm) microcode level emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
+- [HP-35 workalike](https://neil.fraser.name/software/hp-35/) high-level JavaScript emulator by Neil Fraser
+- [Sinclair Scientific](http://righto.com/sinclair) and [TI-1500](http://righto.com/ti) calculator simulations, at the microcode level and including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
+- [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
+
 ## Miscellaneous
 
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
@@ -102,8 +109,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - ElkJS - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
 - [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
-- [HP-35 bug-compatible](http://biged.github.com/Sandbox/HP35/default.htm) microcode level emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
-- [HP-35 workalike](https://neil.fraser.name/software/hp-35/) high-level JavaScript emulator by Neil Fraser
 - [IBM 5110 Emulator](http://members.aon.at/~nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JavaScript 8080 Emulator](http://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
@@ -114,8 +119,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
 - [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
-- [Sinclair Scientific](http://righto.com/sinclair) and [TI-1500](http://righto.com/ti) calculator simulations, at the microcode level and including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
-- [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
 - [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information.
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virt.js/))
 - [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
