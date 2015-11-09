@@ -6,6 +6,11 @@ This list started as a compilation of JavaScript emulators posted to Echo JS ove
 
 Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.com/).
 
+## Acorn
+
+- [ElkJS](http://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
+- [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](http://xania.org/Emulation))
+
 ## Amstrad
 
 - [CPCBox](http://www.cpcbox.com) - Amstrad CPC emulator in JavaScript
@@ -121,13 +126,11 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
 - [C88](http://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931))
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
-- ElkJS - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
 - [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
 - [IBM 5110 Emulator](http://members.aon.at/~nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JavaScript 8080 Emulator](http://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
-- [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb))
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/soywiz/jspspemu))
 - [NanoWasp](http://www.nanowasp.org) - A MicroBee emulator
