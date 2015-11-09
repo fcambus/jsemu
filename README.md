@@ -89,10 +89,23 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Calculator emulators
 
-- [HP-35 bug-compatible](http://biged.github.com/Sandbox/HP35/default.htm) microcode level emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
-- [HP-35 workalike](https://neil.fraser.name/software/hp-35/) high-level JavaScript emulator by Neil Fraser
-- [Sinclair Scientific](http://righto.com/sinclair) and [TI-1500](http://righto.com/ti) calculator simulations, at the microcode level and including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
+### Microcode-level calculators
+
+- [HP-35](http://biged.github.com/Sandbox/HP35/default.htm) - bug-compatible emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
+- [HP-35, HP-45, HP-55, HP-65, HP-80](http://home.citycable.ch/pierrefleur/HP-Classic/HP-Classic.html) - collection of HP Classics, based on Feniello's work, by Francois Roulet
+- [HP-45](http://members.aon.at/nkehrer/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
+- [HP-67](http://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - by Greg Sydney-Smith
+- [Sinclair Scientific](http://righto.com/sinclair) and [TI-1500](http://righto.com/ti) - calculator simulations including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
 - [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
+
+### Workalike calculators
+
+- [HP-11C](https://epxx.co/ctb/hp11c.html), [HP-12C Platinum](https://epxx.co/ctb/hp12c-platinum.html), [HP-16C](https://epxx.co/ctb/hp16c.html) - by Elvis Pfützenreuter
+- [HP-15C](http://hp15c.com/web/hp15c.html) - by Greg Hewgill. ([Source](https://github.com/ghewgill/hp15c))
+- [HP-21](http://www.sydneysmith.com/products/gss-hp21/run/index.html#) and [HP-29](http://www.sydneysmith.com/products/gss-hp29/run/index.html#) by Greg Sydney-Smith (See [here](http://www.sydneysmith.com/wordpress/hp21/) and [here](http://www.sydneysmith.com/wordpress/hp29/))
+- [HP-25](http://www.jcczone.net/hp-25.html) - by John Clenance
+- [HP-35](https://neil.fraser.name/software/hp-35/) - JavaScript emulator by Neil Fraser
+- [HP-35 SOS](http://hansklav.home.xs4all.nl/rpn/hp35sos.html) - modified HP-35 with stack overflow sensing LED, by Hans Klaver, based on Fraser's work
 
 ## Miscellaneous
 
