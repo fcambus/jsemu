@@ -144,6 +144,11 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 - [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
 
+## See also (lists of JavaScript emulators elsewhere)
+
+- [A Big List of Browser-Based Emulators](http://archive.vg/blog/a-big-list-of-browser-based-emulators-and-ports-of-classic-games) by Richard Moss
+- [Qaop/JS – Emulator links](http://torinak.com/qaop/links) by Jan Bobrowski
+
 ## Additional Information
 
 This resource collection is maintained by Frederic Cambus
