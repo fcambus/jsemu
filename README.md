@@ -9,6 +9,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Acorn
 
 - [ElkJS](http://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
+- [Acorn Atom Emulator](http://phils-place.co.uk/HTeMuLator/atom/) - by Phil Mainwaring. Type "OLD" for an Easter Egg
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](http://xania.org/Emulation))
 
 ## Amstrad
@@ -128,6 +129,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
 - [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
+- [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
 - [IBM 5110 Emulator](http://members.aon.at/~nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JavaScript 8080 Emulator](http://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
