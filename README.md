@@ -89,7 +89,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Multi-system Emulators
 
-- [JSMESS](http://jsmess.textfiles.com) - The JavaScript MESS (Multi Emulator Super System) ([Source](https://github.com/jsmess/jsmess))
+- [JSMESS examples](https://archive.org/details/historicalsoftware) - The JavaScript MESS (Multi Emulator Super System) ([Source](https://github.com/jsmess/jsmess)) ([Notes](https://github.com/jsmess/jsmess/wiki))
 - [PCE](https://github.com/jsdf/pce) - PC emulators in JavaScript (Atari ST, [IBM PC 5150](https://jamesfriend.com.au/pce-js/ibmpc-win/), [Macintosh](https://jamesfriend.com.au/pce-js), RC759 Piccoline)
 - [RetroArch](http://toadking.com/retroarch/) - JavaScript port of RetroArch (bundles Gambatte (Gameboy), Genesis Plus GX, Handy (Lynx), Snes9x Next, VBA Next (GameBoy Advance), Tyrquake and FinalBurn Alpha)
 - [RetroWeb](http://retroweb.maclab.org/articles/Introduction) - collection of Javascript emulators and boot media, including Apple-IIe (VisiCalc), Macintosh (System 1.0), Atari 1040ST, Commodore 64, Amiga 500 (Workbench 1.3), IBM PC Model 5150 (PC-DOS, CP/M-86, Cassette Basic), IBM PC XT (DOS, GEM 1.2, VisiCalc, Windows 1.01, 8088 Corruption demo), RC759 Piccoline (Eliza, Bil-simulation, Concurrent CP/M-86), TRS-80.
