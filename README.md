@@ -76,6 +76,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Sinclair
 
+- [Enterprise-128 JavaScript Emulator] - by Gábor Lénárt, based on JSSpeccy
 - [JSSpeccy](http://jsspeccy.zxdemo.org) - A ZX Spectrum emulator in JavaScript ([Source](https://github.com/gasman/jsspeccy2))
 - [Qaop/JS](http://torinak.com/qaop) - ZX Spectrum emulator
 - [ZX80 Emulator](http://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
