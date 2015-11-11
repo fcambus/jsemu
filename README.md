@@ -22,6 +22,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Apple IIjs](http://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
 - [a2](http://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator.
 - [Apple2JS](http://www.megidish.net/apple2js/) - A JavaScript emulator for the Apple II
+- [Yet Another Apple 2+ in JavaScript](http://www.thomasskibo.com/6502/apple2/) - by Thomas Skibo
 
 ## Atari
 
@@ -31,6 +32,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Commodore
 
 - [Commodore LCD emulator](http://commodore-lcd.lgb.hu/jsemu/) - by Gabor Lenart
+- [Commodore PET](http://www.thomasskibo.com/6502/pet2001/) - by Thomas Skibo
 - [JSC64](http://www.kingsquare.nl/jsc64) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
 - [VIC-20 Emulator](http://mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
@@ -77,6 +79,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Sinclair
 
 - [JSSpeccy](http://jsspeccy.zxdemo.org) - A ZX Spectrum emulator in JavaScript ([Source](https://github.com/gasman/jsspeccy2))
+- [JtyOne Online ZX81 Emulator](http://www.zx81stuff.org.uk/zx81/jtyone.html) - by Simon Holdsworth
 - [Qaop/JS](http://torinak.com/qaop) - ZX Spectrum emulator
 - [ZX80 Emulator](http://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
 - [jBacteria](http://jbacteria.retrolandia.net/) - The smallest JavaScript Spectrum emulator
@@ -148,7 +151,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
 - [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 - [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
-- [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e))
 
 ## See also (lists of JavaScript emulators elsewhere)
 
