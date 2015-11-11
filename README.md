@@ -19,6 +19,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Apple
 
+- [Apple 1js](https://www.scullinsteel.com/apple1/) - by Will Scullin
 - [Apple IIjs](http://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
 - [a2](http://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator.
 - [Apple2JS](http://www.megidish.net/apple2js/) - A JavaScript emulator for the Apple II
@@ -34,6 +35,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Commodore LCD emulator](http://commodore-lcd.lgb.hu/jsemu/) - by Gabor Lenart
 - [Commodore PET](http://www.thomasskibo.com/6502/pet2001/) - by Thomas Skibo
 - [JSC64](http://www.kingsquare.nl/jsc64) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
+- [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
 - [VIC-20 Emulator](http://mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
 - [VICE.js](http://retroplay.co) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
@@ -127,11 +129,14 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [ASM80](http://www.asm80.com) - Online assembler for 8-bit microprocessors
 - [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://code.google.com/p/retro-b5500/)) 
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
+- [COSMAS Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [C1Pjs](http://www.pcjs.org/docs/c1pjs/) - JavaScript simulation of the Challenger 1P
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
 - [C88](http://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931))
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
+- [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](http://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf))
 - [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
+- [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData/205/webUI/D205.html) - by Paul Kimpel
 - [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
 - [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
 - [IBM 5110 Emulator](http://members.aon.at/~nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
