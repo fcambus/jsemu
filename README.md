@@ -158,6 +158,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
 - [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 - [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
+- [WebMSX](http://webmsx.org/) - WebMSX, or simply WMSX, is a new MSX emulator designed for the Web
 - [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e))
 
 ## See also (lists of JavaScript emulators elsewhere)
