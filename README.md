@@ -38,7 +38,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
 - [VIC-20 Emulator](http://mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
-- [VICE.js](http://retroplay.co) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
+- [VICE.js](http://vice.janicek.co/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
 
 ## DEC
 
