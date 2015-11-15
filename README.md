@@ -20,7 +20,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Apple
 
 - [Apple 1js](https://www.scullinsteel.com/apple1/) - by Will Scullin
-- [Apple IIjs](http://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
+- [Apple IIjs](https://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
 - [a2](http://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator.
 - [Apple2JS](http://www.megidish.net/apple2js/) - A JavaScript emulator for the Apple II
 - [Yet Another Apple 2+ in JavaScript](http://www.thomasskibo.com/6502/apple2/) - by Thomas Skibo
@@ -49,14 +49,14 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Nintendo
 
-- [1964js](https://code.google.com/p/1964js/) - JavaScript port of the 1964 N64 emulator for Windows
+- [1964js](https://github.com/schibo/1964js) - JavaScript port of the 1964 N64 emulator for Windows
 - [CycloaJS](http://ledyba.org/utl/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
 - [GBA.js](http://endrift.github.io/gbajs/) - Game Boy Advance in the Browser
  ([Source](https://github.com/endrift/gbajs))
 - [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
 - [IodineGBA](http://taisel.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/taisel/IodineGBA))
-- [JS-VBA-M](http://dl.dropboxusercontent.com/u/20328726/vbamjs/index.html) - JavaScript port of VisualBoyAdvance-M, a Game Boy Color / Advance emulator
-- [JSNES](http://fir.sh/projects/jsnes/) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
+- [JS-VBA-M](https://dl.dropboxusercontent.com/u/20328726/vbamjs/index.html) - JavaScript port of VisualBoyAdvance-M, a Game Boy Color / Advance emulator
+- [JSNES](https://fir.sh/projects/jsnes/) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
 - [XNES](http://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulators  ([Source](https://github.com/tjwei/xnes))
 - fam - JavaScript NES emulator ([Source](https://github.com/bashi/fam/))
@@ -69,7 +69,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JS/Linux](http://bellard.org/jslinux/) - JavaScript PC emulator
 - [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](http://sourceforge.net/projects/jsdosbox/files/))
 - [PCjs](http://www.pcjs.org) - IBM PC Model 5150 emulator
-- [Virtual x86](http://copy.sh/v24/) - An x86 emulator written in JavaScript ([Source](https://github.com/copy/v86))
+- [Virtual x86](http://copy.sh/v86/) - An x86 emulator written in JavaScript ([Source](https://github.com/copy/v86))
 - [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
 - jsbochs - Bochs PC emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
 
@@ -97,7 +97,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Multi-system Emulators
 
 - [JSMESS examples](https://archive.org/details/historicalsoftware) - The JavaScript MESS (Multi Emulator Super System) ([Source](https://github.com/jsmess/jsmess)) ([Notes](https://github.com/jsmess/jsmess/wiki))
-- [PCE](https://github.com/jsdf/pce) - PC emulators in JavaScript (Atari ST, [IBM PC 5150](https://jamesfriend.com.au/pce-js/ibmpc-win/), [Macintosh](https://jamesfriend.com.au/pce-js), RC759 Piccoline)
+- [PCE](https://github.com/jsdf/pce) - PC emulators in JavaScript (Atari ST, [IBM PC 5150](https://jamesfriend.com.au/pce-js//ibmpc-win/), [Macintosh](https://jamesfriend.com.au/pce-js), RC759 Piccoline)
 - [RetroArch](http://toadking.com/retroarch/) - JavaScript port of RetroArch (bundles Gambatte (Gameboy), Genesis Plus GX, Handy (Lynx), Snes9x Next, VBA Next (GameBoy Advance), Tyrquake and FinalBurn Alpha)
 - [RetroWeb](http://retroweb.maclab.org/articles/Introduction) - collection of Javascript emulators and boot media, including Apple-IIe (VisiCalc), Macintosh (System 1.0), Atari 1040ST, Commodore 64, Amiga 500 (Workbench 1.3), IBM PC Model 5150 (PC-DOS, CP/M-86, Cassette Basic), IBM PC XT (DOS, GEM 1.2, VisiCalc, Windows 1.01, 8088 Corruption demo), RC759 Piccoline (Eliza, Bil-simulation, Concurrent CP/M-86), TRS-80.
 
@@ -105,12 +105,12 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ### Microcode-level calculators
 
-- [HP-35](http://biged.github.com/Sandbox/HP35/default.htm) - bug-compatible emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
+- [HP-35](http://biged.github.io/Sandbox/HP35/default.htm) - bug-compatible emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
 - [HP-35, HP-45, HP-55, HP-65, HP-80](http://home.citycable.ch/pierrefleur/HP-Classic/HP-Classic.html) - collection of HP Classics, based on Feniello's work, by Francois Roulet
 - [HP-45](http://members.aon.at/nkehrer/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
 - [HP-65](http://www.sydneysmith.com/wordpress/hp65/) and [HP-67](http://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
 - [Sinclair Scientific](http://righto.com/sinclair) and [TI-1500](http://righto.com/ti) - calculator simulations including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
-- [TI-92 Plus emulator](http://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
+- [TI-92 Plus emulator](https://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
 
 ### Workalike calculators
 
@@ -127,7 +127,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Angel](http://riscv.org/angel/) - JavaScript RISC-V ISA simulator booting linux in a web-browser ([Source](https://github.com/riscv/riscv-angel))
 - [ARM-js](http://biged.github.io/arm-js/arm-js.html) - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
 - [ASM80](http://www.asm80.com) - Online assembler for 8-bit microprocessors
-- [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://code.google.com/p/retro-b5500/)) 
+- [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) 
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
 - [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [C1Pjs](http://www.pcjs.org/docs/c1pjs/) - JavaScript simulation of the Challenger 1P
@@ -144,13 +144,13 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JavaScript 8080 Emulator](http://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
 - [jsH89](http://heathkit.garlanger.com/emulator/jsH89/) - Heathkit H89 emulator (runs CP/M) by Mark Garlanger
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
-- [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/soywiz/jspspemu))
+- [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
 - [NanoWasp](http://www.nanowasp.org) - A MicroBee emulator
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
 - [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
 - [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information.
-- Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virt.js/))
+- Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
 - [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
 - [Visual 6800](http://www.visual6502.org/JSSim/expert-6800.html?steps=10) - JavaScript simulator for the Motorola 6800 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
 - [Visulator](http://thlorenz.com/visulator/) - x86 machine emulator that visualizes how each instruction is processed ([Source](https://github.com/thlorenz/visulator))
@@ -172,7 +172,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 This resource collection is maintained by Frederic Cambus
 
 - Site : http://www.cambus.net
-- Twitter: http://twitter.com/fcambus
+- Twitter: https://twitter.com/fcambus
 
 ## License
 
