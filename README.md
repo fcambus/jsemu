@@ -134,6 +134,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
 - [C88](http://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931))
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
+- [Digi-Comp 1](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1) - educational plastic computer from 1963. Emulator by Larry Groebe and Kevin Williams
 - [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](http://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf))
 - [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData/205/webUI/D205.html) - by Paul Kimpel
