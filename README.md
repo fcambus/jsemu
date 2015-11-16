@@ -150,6 +150,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
 - [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
+- [Turbo Pascal](https://github.com/lkesteloot/turbopascal) - A web-based Pascal compiler that runs a subset of Turbo Pascal 5.5 code
 - [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information.
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
 - [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
