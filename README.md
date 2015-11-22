@@ -101,6 +101,10 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
 - jsbochs - Bochs PC emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
 
+## Bare CPUs
+
+## Early machines
+
 ## Calculator emulators
 
 ### Microcode-level calculators
