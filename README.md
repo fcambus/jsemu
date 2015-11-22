@@ -103,7 +103,33 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Bare CPUs
 
+- [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
+- [Angel](http://riscv.org/angel/) - JavaScript RISC-V ISA simulator booting linux in a web-browser ([Source](https://github.com/riscv/riscv-angel))
+- [ARM-js](http://biged.github.io/arm-js/arm-js.html) - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
+- [ASM80](http://www.asm80.com) - Online assembler for 8-bit microprocessors by Martin Malý. Includes emulation of several machines: 8080, Z80, 6502, 6809. ([Sources](https://github.com/maly))
+- [Basic MIPS functional simulator](http://morriswmz.jit.su/static/simple-mips.html) and [Basic MIPS pipelined simulator](http://morriswmz.jit.su/static/simple-mips-pipelined.html) by Mianzhi Wang (morriswmz). ([Source](https://github.com/morriswmz/SimpleMIPS.js))
+- [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
+- [Imaginary 6502](http://www.mdawson.net/asm6502/6502asm.php) - 6502 Emulator and Assembler
+- [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
+- [JavaScript 8080 Emulator](http://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
+- [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
+- [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
+- [Visual 6800](http://www.visual6502.org/JSSim/expert-6800.html?steps=10) - JavaScript simulator for the Motorola 6800 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
+- [Visulator](http://thlorenz.com/visulator/) - x86 machine emulator that visualizes how each instruction is processed ([Source](https://github.com/thlorenz/visulator))
+- [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
+- [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
+
 ## Early machines
+
+- [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) 
+- [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
+- [C88](http://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931))
+- [Digi-Comp 1](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1) - educational plastic computer from 1963. Emulator by Larry Groebe and Kevin Williams
+- [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](http://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf))
+- [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData/205/webUI/D205.html) - by Paul Kimpel
+- [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information.
+- [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e))
+- [Z3 machine's adder](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/addition/addition.htm) - ripple-carry electromechanical adder simulated in JavaScript, by Henry Raymond, Patrick Seewald and Vijeinath Tissaveerasingham. [Explanation](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/simu.htm)
 
 ## Calculator emulators
 
@@ -127,48 +153,24 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Miscellaneous
 
-- [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
-- [Angel](http://riscv.org/angel/) - JavaScript RISC-V ISA simulator booting linux in a web-browser ([Source](https://github.com/riscv/riscv-angel))
-- [ARM-js](http://biged.github.io/arm-js/arm-js.html) - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
-- [ASM80](http://www.asm80.com) - Online assembler for 8-bit microprocessors by Martin Malý. Includes emulation of several machines: 8080, Z80, 6502, 6809. ([Sources](https://github.com/maly))
-- [Basic MIPS functional simulator](http://morriswmz.jit.su/static/simple-mips.html) and [Basic MIPS pipelined simulator](http://morriswmz.jit.su/static/simple-mips-pipelined.html) by Mianzhi Wang (morriswmz). ([Source](https://github.com/morriswmz/SimpleMIPS.js))
-- [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) 
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
 - [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [C1Pjs](http://www.pcjs.org/docs/c1pjs/) - JavaScript simulation of the Challenger 1P
-- [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
-- [C88](http://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931))
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
-- [Digi-Comp 1](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1) - educational plastic computer from 1963. Emulator by Larry Groebe and Kevin Williams
-- [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](http://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf))
-- [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
-- [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData/205/webUI/D205.html) - by Paul Kimpel
 - [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
 - [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
 - [IBM 5110 Emulator](http://members.aon.at/nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
-- [Imaginary 6502](http://www.mdawson.net/asm6502/6502asm.php) - 6502 Emulator and Assembler
-- [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
-- [JavaScript 8080 Emulator](http://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
 - [jsH89](http://heathkit.garlanger.com/emulator/jsH89/) - Heathkit H89 emulator (runs CP/M) by Mark Garlanger
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
 - [NanoWasp](http://www.nanowasp.org) - A MicroBee emulator
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
-- [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
 - [Turbo Pascal](https://github.com/lkesteloot/turbopascal) - A web-based Pascal compiler that runs a subset of Turbo Pascal 5.5 code
-- [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information.
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
-- [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
-- [Visual 6800](http://www.visual6502.org/JSSim/expert-6800.html?steps=10) - JavaScript simulator for the Motorola 6800 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
-- [Visulator](http://thlorenz.com/visulator/) - x86 machine emulator that visualizes how each instruction is processed ([Source](https://github.com/thlorenz/visulator))
-- [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
-- [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 - [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
 - [WebMSX](http://webmsx.org/) - WebMSX, or simply WMSX, is a new MSX emulator designed for the Web
-- [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e))
-- [Z3 machine's adder](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/addition/addition.htm) - ripple-carry electromechanical adder simulated in JavaScript, by Henry Raymond, Patrick Seewald and Vijeinath Tissaveerasingham. [Explanation](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/simu.htm)
 
 ## See also (lists of JavaScript emulators elsewhere)
 
