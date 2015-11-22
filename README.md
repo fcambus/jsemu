@@ -64,15 +64,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [mupen64plus](http://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the Web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
 - [n64js](http://hulkholden.github.io/n64js/) - An N64 emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
 
-## PC Emulators
-
-- [JS/Linux](http://bellard.org/jslinux/) - JavaScript PC emulator
-- [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](http://sourceforge.net/projects/jsdosbox/files/))
-- [PCjs](http://www.pcjs.org) - IBM PC Model 5150 emulator
-- [Virtual x86](http://copy.sh/v86/) - An x86 emulator written in JavaScript ([Source](https://github.com/copy/v86))
-- [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
-- jsbochs - Bochs PC emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
-
 ## Sega
 
 - [jsSMS](http://gmarty.github.io/jsSMS/) - JavaScript Sega Master System & Game Gear emulator ([Source](https://github.com/gmarty/jsSMS))
@@ -100,6 +91,15 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [PCE](https://github.com/jsdf/pce) - PC emulators in JavaScript (Atari ST, [IBM PC 5150](https://jamesfriend.com.au/pce-js/ibmpc-win/), [Macintosh](https://jamesfriend.com.au/pce-js/), RC759 Piccoline)
 - [RetroArch](http://toadking.com/retroarch/) - JavaScript port of RetroArch (bundles Gambatte (Gameboy), Genesis Plus GX, Handy (Lynx), Snes9x Next, VBA Next (GameBoy Advance), Tyrquake and FinalBurn Alpha)
 - [RetroWeb](http://retroweb.maclab.org/articles/Introduction) - collection of Javascript emulators and boot media, including Apple-IIe (VisiCalc), Macintosh (System 1.0), Atari 1040ST, Commodore 64, Amiga 500 (Workbench 1.3), IBM PC Model 5150 (PC-DOS, CP/M-86, Cassette Basic), IBM PC XT (DOS, GEM 1.2, VisiCalc, Windows 1.01, 8088 Corruption demo), RC759 Piccoline (Eliza, Bil-simulation, Concurrent CP/M-86), TRS-80.
+
+## PC Emulators
+
+- [JS/Linux](http://bellard.org/jslinux/) - JavaScript PC emulator
+- [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](http://sourceforge.net/projects/jsdosbox/files/))
+- [PCjs](http://www.pcjs.org) - IBM PC Model 5150 emulator
+- [Virtual x86](http://copy.sh/v86/) - An x86 emulator written in JavaScript ([Source](https://github.com/copy/v86))
+- [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
+- jsbochs - Bochs PC emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
 
 ## Calculator emulators
 
