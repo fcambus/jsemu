@@ -130,6 +130,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData/205/webUI/D205.html) - by Paul Kimpel
 - [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information.
 - [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e))
+- [Z1 machine's adder in 3D](http://zuse-z1.zib.de/simulations/z1/adders/wgl/) JavaScript/WebGL interactive simulation of the mechanical adder of Zuse's first machine. By Jakob Mischek ([Source](https://github.com/daign/zuse-z1.js))
 - [Z3 machine's adder](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/addition/addition.htm) - ripple-carry electromechanical adder simulated in JavaScript, by Henry Raymond, Patrick Seewald and Vijeinath Tissaveerasingham. [Explanation](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/simu.htm)
 
 ## Calculator emulators
