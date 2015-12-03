@@ -36,7 +36,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Commodore LCD emulator](http://commodore-lcd.lgb.hu/jsemu/) - by Gabor Lenart
 - [Commodore PET](http://www.thomasskibo.com/6502/pet2001/) - by Thomas Skibo
 - [JSC64](http://www.kingsquare.nl/jsc64) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
-- [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers
+- [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
 - [VIC-20 Emulator](http://mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
 - [VICE.js](http://vice.janicek.co/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
