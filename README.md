@@ -104,6 +104,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Bare CPUs
 
+- [8008 running SCELBAL](http://www.xlnsresearch.com/scelbal.htm) by Mark G. Arnold. ("SCELBAL is the only open-source, floating-point, high-level language ever implemented on the 8008")
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
 - [Angel](http://riscv.org/angel/) - JavaScript RISC-V ISA simulator booting linux in a web-browser ([Source](https://github.com/riscv/riscv-angel))
 - [ARM-js](http://biged.github.io/arm-js/arm-js.html) - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
