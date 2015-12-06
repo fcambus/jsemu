@@ -124,16 +124,16 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Early machines
 
-- [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) 
-- [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html)
-- [C88](http://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931))
-- [Digi-Comp 1](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1) - educational plastic computer from 1963. Emulator by Larry Groebe and Kevin Williams
-- [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](http://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf))
-- [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData/205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205))
-- [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information.
-- [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e))
-- [Z1 machine's adder in 3D](http://zuse-z1.zib.de/simulations/z1/adders/wgl/) JavaScript/WebGL interactive simulation of the mechanical adder of Zuse's first machine. By Jakob Mischek ([Source](https://github.com/daign/zuse-z1.js))
-- [Z3 machine's adder](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/addition/addition.htm) - ripple-carry electromechanical adder simulated in JavaScript, by Henry Raymond, Patrick Seewald and Vijeinath Tissaveerasingham. [Explanation](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/simu.htm)
+- [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) (1964)
+- [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html) (1969)
+- [C88](http://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931)) (1948)
+- [Digi-Comp 1](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1) - educational plastic computer from 1963. Emulator by Larry Groebe and Kevin Williams. (1963)
+- [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](http://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf)) (1949)
+- [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData/205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
+- [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information. (1936)
+- [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e)) (1951)
+- [Z1 machine's adder in 3D](http://zuse-z1.zib.de/simulations/z1/adders/wgl/) JavaScript/WebGL interactive simulation of the mechanical adder of Zuse's first machine. By Jakob Mischek ([Source](https://github.com/daign/zuse-z1.js)) (1938)
+- [Z3 machine's adder](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/addition/addition.htm) - ripple-carry electromechanical adder simulated in JavaScript, by Henry Raymond, Patrick Seewald and Vijeinath Tissaveerasingham. [Explanation](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/simu.htm) (1941)
 
 ## Calculator emulators
 
