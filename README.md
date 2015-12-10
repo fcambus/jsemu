@@ -172,6 +172,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [NanoWasp](http://www.nanowasp.org) - A MicroBee emulator
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
+- [KM-Z80 web](http://hp.vector.co.jp/authors/VA016157/kmz80web10/kmz80web.html) emulator for Sharp MZ-80K, by Katsumi Morimatsu. GOTO $1200 to start KM-BASIC. ([More information](http://hp.vector.co.jp/authors/VA016157/kmz80web10/))
 - [Turbo Pascal](https://github.com/lkesteloot/turbopascal) - A web-based Pascal compiler that runs a subset of Turbo Pascal 5.5 code
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
