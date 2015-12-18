@@ -170,7 +170,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
 - [NanoWasp](http://www.nanowasp.org) - A MicroBee emulator
-- [Nascom 2 emulator](http://thorn.ws/jsnascom/jsnascom.html) by Tommy Thorn. (J to start Basic)
+- [Nascom 2 emulator](http://thorn.ws/jsnascom/jsnascom.html) by Tommy Thorn. (J to start Basic) ([Source](https://github.com/tommythorn/jsnascom))
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
 - [KM-Z80 web](http://hp.vector.co.jp/authors/VA016157/kmz80web10/kmz80web.html) emulator for Sharp MZ-80K, by Katsumi Morimatsu. GOTO $1200 to start KM-BASIC. ([More information](http://hp.vector.co.jp/authors/VA016157/kmz80web10/))
