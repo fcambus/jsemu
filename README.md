@@ -120,6 +120,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
 - [Visual 6800](http://www.visual6502.org/JSSim/expert-6800.html?steps=10) - JavaScript simulator for the Motorola 6800 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
 - [Visulator](http://thlorenz.com/visulator/) - x86 machine emulator that visualizes how each instruction is processed ([Source](https://github.com/thlorenz/visulator))
+- [YAMD](http://yamd.xuanji.li) - Yet Another MIPS Debugger ([Source](https://github.com/zodiac/yamd))
 - [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
 - [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 
