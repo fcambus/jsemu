@@ -168,6 +168,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
 - [IBM 5110 Emulator](http://members.aon.at/nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
 - [jsH89](http://heathkit.garlanger.com/emulator/jsH89/) - Heathkit H89 emulator (runs CP/M) by Mark Garlanger
+- [JS99'er](http://js99er.net/) - TI-99/4A emulator written in JavaScript ([Source](https://github.com/Rasmus-M/Js99er))
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
 - [NanoWasp](http://www.nanowasp.org) - A MicroBee emulator
