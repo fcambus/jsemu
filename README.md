@@ -136,6 +136,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData/205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
 - [Digi-Comp 1](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1) - educational plastic computer from 1963. Emulator by Larry Groebe and Kevin Williams. (1963)
 - [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) (1964)
+- [Apollo Guidance Computer](http://svtsim.com/moonjs/agc.html) - Moonjs a port by Shahriar Iravanian of Ronald Burkey's Virtual AGC. (1966)
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html) (1969)
 
 ## Calculator emulators
