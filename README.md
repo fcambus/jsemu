@@ -139,6 +139,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) (1964)
 - [Apollo Guidance Computer](http://svtsim.com/moonjs/agc.html) - Moonjs a port by Shahriar Iravanian of Ronald Burkey's Virtual AGC. (1966)
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html) (1969)
+- [Kenbak-1](http://www.neocomputer.org/kenbak/kenbak1-JS.html) - John Blankenbaker's TTL-based 256byte personal computer. [More information](http://www.neocomputer.org/kenbak/) (1970)
 
 ## Calculator emulators
 
