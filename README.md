@@ -163,10 +163,11 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Miscellaneous
 
-- [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
-- [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [C1Pjs](http://www.pcjs.org/docs/c1pjs/) - JavaScript simulation of the Challenger 1P
 - [CFT](http://www.bedroomlan.org/hardware/cft/microcode-emulator) - JavaScript simulation of Alexios Chouchoulas' 16-bit homebrew TTL machine. ([More information](http://www.bedroomlan.org/hardware/cft/) including documentation and a video.)
+- [Chip-8 virtual machine](http://biged.github.io/Chip-8-Emulator) by Alexander Dickson - see [blog entry](http://blog.alexanderdickson.com/javascript-chip-8-emulator)
+- [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
+- [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
 - [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
