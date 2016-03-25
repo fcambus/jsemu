@@ -108,7 +108,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [8008 running SCELBAL](http://www.xlnsresearch.com/scelbal.htm) by Mark G. Arnold. ("SCELBAL is the only open-source, floating-point, high-level language ever implemented on the 8008")
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
 - [Angel](http://riscv.org/angel/) - JavaScript RISC-V ISA simulator booting linux in a web-browser ([Source](https://github.com/riscv/riscv-angel))
-- [Angular 2 6502](https://github.com/JeremyLikness/6502emulator) written with TypeScript and Angular 2, by Jeremy Likness
+- [Angular 2 6502](https://github.com/JeremyLikness/6502emulator#readme) written with TypeScript and Angular 2, by Jeremy Likness
 - [ARM-js](http://biged.github.io/arm-js/arm-js.html) - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
 - [ASM80](http://www.asm80.com) - Online assembler for 8-bit microprocessors by Martin Malý. Includes emulation of several machines: 8080, Z80, 6502, 6809. ([Sources](https://github.com/maly))
 - [Basic MIPS functional simulator](http://morriswmz.jit.su/static/simple-mips.html) and [Basic MIPS pipelined simulator](http://morriswmz.jit.su/static/simple-mips-pipelined.html) by Mianzhi Wang (morriswmz). ([Source](https://github.com/morriswmz/SimpleMIPS.js))
