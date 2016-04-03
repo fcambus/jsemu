@@ -36,6 +36,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Commodore LCD emulator](http://commodore-lcd.lgb.hu/jsemu/) - by Gabor Lenart
 - [Commodore PET](http://www.thomasskibo.com/6502/pet2001/) - by Thomas Skibo
 - [JSC64](http://www.kingsquare.nl/jsc64) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
+- [c64js](http://www.c64js.com) - Commodore 64 emulator written in JavaScript by Mikael Borgbrant ([Source](https://github.com/mborgbrant/c64js))
 - [jsSID](http://hermit.sidrip.com/jsSID.html) - SID player with minimal necessary C64 emulation ([Source](https://github.com/hermitsoft/jsSID))
 - [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
