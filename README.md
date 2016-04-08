@@ -6,7 +6,7 @@ This list started as a compilation of JavaScript emulators posted to Echo JS ove
 
 Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.com/).
 
-## Acorn
+## Acornca
 
 - [ElkJS](http://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Acorn Atom Emulator](http://phils-place.co.uk/HTeMuLator/atom/) - by Phil Mainwaring. Type "OLD" for an Easter Egg
@@ -145,6 +145,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Apollo Guidance Computer](http://svtsim.com/moonjs/agc.html) - Moonjs a port by Shahriar Iravanian of Ronald Burkey's Virtual AGC. (1966)
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html) (1969)
 - [Kenbak-1](http://www.neocomputer.org/kenbak/kenbak1-JS.html) - John Blankenbaker's TTL-based 256byte personal computer. [More information](http://www.neocomputer.org/kenbak/) (1970)
+- [Ordinapoche](http://nguyen.univ-tln.fr/share/Archi/ordinapoche.html) - A paper computer from France, invented 1969, popularised in 1981 and 1985. ([More](http://nguyen.univ-tln.fr/ordinapoche.html))
 
 ## Calculator emulators
 
