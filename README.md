@@ -6,7 +6,7 @@ This list started as a compilation of JavaScript emulators posted to Echo JS ove
 
 Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.com/).
 
-## Acornca
+## Acorn
 
 - [ElkJS](http://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Acorn Atom Emulator](http://phils-place.co.uk/HTeMuLator/atom/) - by Phil Mainwaring. Type "OLD" for an Easter Egg
