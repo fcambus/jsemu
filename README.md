@@ -145,7 +145,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Apollo Guidance Computer](http://svtsim.com/moonjs/agc.html) - Moonjs a port by Shahriar Iravanian of Ronald Burkey's Virtual AGC. (1966)
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html) (1969)
 - [Kenbak-1](http://www.neocomputer.org/kenbak/kenbak1-JS.html) - John Blankenbaker's TTL-based 256byte personal computer. [More information](http://www.neocomputer.org/kenbak/) (1970)
-- [Ordinapoche](http://nguyen.univ-tln.fr/share/Archi/ordinapoche.html) - A paper computer from France, invented 1969, popularised in 1981 and 1985. ([More](http://nguyen.univ-tln.fr/ordinapoche.html))
+- [Ordinapoche](http://nguyen.univ-tln.fr/share/Archi/ordinapoche.html) - A paper computer from France, invented 1969, popularised in 1981 and 1985. ([More here](http://nguyen.univ-tln.fr/ordinapoche.html) and [see also the 1981 magazine](http://www.abandonware-magazines.org/affiche_mag.php?mag=85&num=3809&album=oui))
 
 ## Calculator emulators
 
