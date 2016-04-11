@@ -174,6 +174,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Chip-8 virtual machine](http://biged.github.io/Chip-8-Emulator) by Alexander Dickson - see [blog entry](http://blog.alexanderdickson.com/javascript-chip-8-emulator)
 - [Chip-8 virtual machine](http://pachisystems.com/JSEmu/chip8.html) by Brian Milton ([Source](https://github.com/PachiSystems/JSEmu) may target several CPUs)
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
+- [Compukit UK101](http://www.avoncliff.com/uk101) - by Tim Baldwin
 - [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
