@@ -116,6 +116,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [ASM80](http://www.asm80.com) - Online assembler for 8-bit microprocessors by Martin Malý. Includes emulation of several machines: 8080, Z80, 6502, 6809. ([Sources](https://github.com/maly))
 - [Basic MIPS functional simulator](http://morriswmz.jit.su/static/simple-mips.html) and [Basic MIPS pipelined simulator](http://morriswmz.jit.su/static/simple-mips-pipelined.html) by Mianzhi Wang (morriswmz). ([Source](https://github.com/morriswmz/SimpleMIPS.js))
 - [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
+- [EduMIPS64](http://www.edumips.org/edumips64.html) - [educational MIPS64 CPU](http://www.edumips.org/), ported from Java by Andrea Spadaccini using GWT (see blog [here](http://edumips64.blogspot.co.uk/2016/06/towards-javascript-port-of-edumips64.html).) ([Source](https://github.com/lupino3/edumips64))
 - [Imaginary 6502](http://www.mdawson.net/asm6502/6502asm.php) - 6502 Emulator and Assembler
 - [Intel 4004 emulator](http://e4004.szyc.org/) - by Maciej Szyc. Includes assembler and disassembler.
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
