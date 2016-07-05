@@ -187,6 +187,8 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JS99'er](http://js99er.net/) - TI-99/4A emulator written in JavaScript ([Source](https://github.com/Rasmus-M/Js99er))
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
+- [Little Man Computer](http://matt.krutar.org/LMC4/) a minimal CPU for teaching - emulator by Matthew Krutar. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
+- [Little Man Computer](http://peterhigginson.co.uk/LMC) a minimal CPU for teaching - emulator by Peter Higginson. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
 - [NanoWasp](http://www.nanowasp.org) - A MicroBee emulator
 - [Nascom 2 emulator](http://thorn.ws/jsnascom/jsnascom.html) by Tommy Thorn. (J to start Basic) ([Source](https://github.com/tommythorn/jsnascom))
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
@@ -196,6 +198,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
 - [jupiler](http://jupiler.retrolandia.net/) - Jupiter Ace emulator written in JavaScript
+- [Visual Computer](http://www1.idc.ac.il/vic/software/computer/) a minimal CPU for teaching by Shimon Schocken. ([Web site](https://sites.google.com/site/schocken/thevisualcomputer))
 - [WebMSX](http://webmsx.org/) - WebMSX, or simply WMSX, is a new MSX emulator designed for the Web ([Source](https://github.com/ppeccin/webmsx))
 
 ## See also (lists of JavaScript emulators elsewhere)
