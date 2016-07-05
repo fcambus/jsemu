@@ -148,6 +148,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html) (1969)
 - [Kenbak-1](http://www.neocomputer.org/kenbak/kenbak1-JS.html) - John Blankenbaker's TTL-based 256byte personal computer. [More information](http://www.neocomputer.org/kenbak/) (1970)
 - [Ordinapoche](http://nguyen.univ-tln.fr/share/Archi/ordinapoche.html) - A paper computer from France, invented 1969, popularised in 1981 and 1985. ([More here](http://nguyen.univ-tln.fr/ordinapoche.html) and [see also the 1981 magazine](http://www.abandonware-magazines.org/affiche_mag.php?mag=85&num=3809&album=oui))
+- [NRI 832 Emulator](http://www.robsons.org.uk/nri832/index.html?code=0BE00CE0E3C9E04C83E0E70705) by Paul Robson. (See [blog](http://nri832.blogspot.co.uk/2012/07/javascript-nri832-now-running.html) for source.) (1971)
 
 ## Calculator emulators
 
@@ -188,7 +189,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
 - [NanoWasp](http://www.nanowasp.org) - A MicroBee emulator
 - [Nascom 2 emulator](http://thorn.ws/jsnascom/jsnascom.html) by Tommy Thorn. (J to start Basic) ([Source](https://github.com/tommythorn/jsnascom))
-- [NRI 832 Emulator](http://www.robsons.org.uk/nri832/index.html?code=0BE00CE0E3C9E04C83E0E70705) by Paul Robson. (See [blog](http://nri832.blogspot.co.uk/2012/07/javascript-nri832-now-running.html) for source.)
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
 - [KM-Z80 web](http://hp.vector.co.jp/authors/VA016157/kmz80web10/kmz80web.html) emulator for Sharp MZ-80K, by Katsumi Morimatsu. GOTO $1200 to start KM-BASIC. ([More information](http://hp.vector.co.jp/authors/VA016157/kmz80web10/))
