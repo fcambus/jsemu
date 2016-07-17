@@ -154,7 +154,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ### Microcode-level calculators
 
-- [HP-35](http://biged.github.io/Sandbox/HP35/default.htm) - bug-compatible emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
+- [HP-35](http://ashleyf.github.io/HP35/) - bug-compatible emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
 - [HP-35, HP-45, HP-55, HP-65, HP-80](http://home.citycable.ch/pierrefleur/HP-Classic/HP-Classic.html) - collection of HP Classics, based on Feniello's work, by Francois Roulet
 - [HP-45](http://members.aon.at/nkehrer/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
 - [HP-65](http://www.sydneysmith.com/wordpress/hp65/) and [HP-67](http://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
