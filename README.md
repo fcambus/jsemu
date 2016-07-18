@@ -201,6 +201,11 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Visual Computer](http://www1.idc.ac.il/vic/software/computer/) a minimal CPU for teaching by Shimon Schocken. ([Web site](https://sites.google.com/site/schocken/thevisualcomputer))
 - [WebMSX](http://webmsx.org/) - WebMSX, or simply WMSX, is a new MSX emulator designed for the Web ([Source](https://github.com/ppeccin/webmsx))
 
+## Adventure Game Engines
+
+- [ZZTJS](https://github.com/bstreiff/zztjs) - ZZT game engine in JavaScript
+- [ngPAWS](https://github.com/Utodev/ngPAWS) - Professional Adventure Writer (PAW) Web interpreter
+
 ## See also (lists of JavaScript emulators elsewhere)
 
 - [A Big List of Browser-Based Emulators](http://archive.vg/blog/a-big-list-of-browser-based-emulators-and-ports-of-classic-games) by Richard Moss
