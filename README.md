@@ -204,6 +204,8 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Adventure Game Engines
 
 - [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
+- [IFVMS](https://github.com/curiousdannii/ifvms.js) - Infocom/Inform Web interpreter
+- [Parchment](https://github.com/curiousdannii/parchment) - Infocom/Inform Web interpreter
 - [ZZTJS](https://github.com/bstreiff/zztjs) - ZZT game engine in JavaScript
 - [ngPAWS](https://github.com/Utodev/ngPAWS) - Professional Adventure Writer (PAW) Web interpreter
 
