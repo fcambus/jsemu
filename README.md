@@ -169,7 +169,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [HP-25](http://www.jcczone.net/hp-25.html) - by John Clenance
 - [HP-35](https://neil.fraser.name/software/hp-35/) - JavaScript emulator by Neil Fraser
 - [HP-35 SOS](http://hansklav.home.xs4all.nl/rpn/hp35sos.html) - modified HP-35 with stack overflow sensing LED, by Hans Klaver, based on Fraser's work
-- [HP-48](http://www.poleyland.com/hp48/index.html) - JavaScript implementation of the most commonly used HP-48 functionnalities. More info [here](http://www.poleyland.com/hp48/help.html), by Josh Poley
+- [HP-48](http://www.poleyland.com/hp48/index.html) - JavaScript implementation of the most commonly used HP-48 functions. More info [here](http://www.poleyland.com/hp48/help.html), by Josh Poley
 
 ## Miscellaneous
 
