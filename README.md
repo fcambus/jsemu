@@ -69,6 +69,11 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [mupen64plus](http://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the Web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
 - [n64js](http://hulkholden.github.io/n64js/) - An N64 emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
 
+## Robotron / VEB Mikroelektronik
+
+- [KC85\_Emu](http://lanale.de/kc85_emu/KC85_Emu.html) - KC85/3 and KC85/4 emulator by Alexander Lang
+- [YAKC](http://floooh.github.io/virtualkc/) - Yet Another KC emulator by A.Weissflog (KC85/2..4, KC87, Z9001, Z1013)
+
 ## Sega
 
 - [jsSMS](http://gmarty.github.io/jsSMS/) - JavaScript Sega Master System & Game Gear emulator ([Source](https://github.com/gmarty/jsSMS))
