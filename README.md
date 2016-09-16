@@ -87,6 +87,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Qaop/JS](http://torinak.com/qaop) - ZX Spectrum emulator
 - [ZX80 Emulator](http://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
 - [jBacteria](http://jbacteria.retrolandia.net/) - The smallest JavaScript Spectrum emulator
+- [Science of Cambridge MK14 simulator](http://www.dougrice.plus.com/dev/seg_mk14.htm) - by Doug Rice, based on Paul Robson's offline emulator.
 
 ## Tandy
 
