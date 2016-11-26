@@ -191,6 +191,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [IBM 5110 Emulator](http://members.aon.at/nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
 - [jsH89](http://heathkit.garlanger.com/emulator/jsH89/) - Heathkit H89 emulator (runs CP/M) by Mark Garlanger
 - [JS99'er](http://js99er.net/) - TI-99/4A emulator written in JavaScript ([Source](https://github.com/Rasmus-M/Js99er))
+- JSGS - Experimental JavaScript implementation of the Pico-8 fantasy console ([Source](https://github.com/burakcan/jsgs))
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
 - [Little Man Computer](http://matt.krutar.org/LMC4/) a minimal CPU for teaching - emulator by Matthew Krutar. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
