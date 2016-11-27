@@ -199,6 +199,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [NanoWasp](http://www.nanowasp.org) - A MicroBee emulator
 - [Nascom 2 emulator](http://thorn.ws/jsnascom/jsnascom.html) by Tommy Thorn. (J to start Basic) ([Source](https://github.com/tommythorn/jsnascom))
 - [One Instruction Set Computer (OISC)](https://www.cs.drexel.edu/~bls96/oisc/OISC.html) by Peter Crampton, presented by Brian L. Stuart. ([Explanation](https://www.cs.drexel.edu/~bls96/oisc/))
+- [Orao](http://orao.hrvoje.org/) - Orao emulator by Hrvoje Cavrak ([More information](https://github.com/hrvach/OraoJs))
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [RockyJS](https://pebble.github.io/rockyjs/) - Pebble watch interpreter/emulator
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
