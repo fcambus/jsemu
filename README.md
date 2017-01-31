@@ -11,11 +11,13 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [ElkJS](http://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [Acorn Atom Emulator](http://phils-place.co.uk/HTeMuLator/atom/) - by Phil Mainwaring. Type "OLD" for an Easter Egg
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](http://xania.org/Emulation))
+- See also [YAKC](http://floooh.github.io/virtualkc/)
 
 ## Amstrad
 
 - [CPCBox](http://www.cpcbox.com) - Amstrad CPC emulator in JavaScript
 - [Roland](http://roland.retrolandia.net) - An Amstrad CPC emulator written in JavaScript
+- See also [YAKC](http://floooh.github.io/virtualkc/)
 
 ## Apple
 
@@ -74,7 +76,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Robotron / VEB Mikroelektronik
 
 - [KC85\_Emu](http://lanale.de/kc85_emu/KC85_Emu.html) - KC85/3 and KC85/4 emulator by Alexander Lang
-- [YAKC](http://floooh.github.io/virtualkc/) - Yet Another KC emulator by A.Weissflog (KC85/2..4, KC87, Z9001, Z1013)
+- [YAKC](http://floooh.github.io/virtualkc/) - Yet Another KC emulator by A.Weissflog (KC85/2..4, KC87, Z9001, Z1013, also Amstrad CPC, Sinclair Spectrum and Acorn Atom.)
 
 ## Sega
 
@@ -90,6 +92,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [ZX80 Emulator](http://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
 - [jBacteria](http://jbacteria.retrolandia.net/) - The smallest JavaScript Spectrum emulator
 - [Science of Cambridge MK14 simulator](http://www.dougrice.plus.com/dev/seg_mk14.htm) - by Doug Rice, based on Paul Robson's offline emulator.
+- See also [YAKC](http://floooh.github.io/virtualkc/)
 
 ## Tandy
 
