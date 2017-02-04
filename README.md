@@ -2,7 +2,10 @@
 
 A list of emulators written in the JavaScript programming language.
 
-This list started as a compilation of JavaScript emulators posted to Echo JS over the years. If you know about any missing emulators, please consider adding them to the collection : the source for this page is available on [GitHub](https://github.com/fcambus/jsemu). Thank you in advance.
+This list started as a compilation of JavaScript emulators posted to Echo JS
+over the years. If you know about any missing emulators, please consider
+adding them to the collection: the source for this page is available on
+[GitHub](https://github.com/fcambus/jsemu). Thank you in advance.
 
 Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.com/).
 
@@ -230,7 +233,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Additional Information
 
-This resource collection is maintained by Frederic Cambus
+This resource collection is maintained by Frederic Cambus.
 
 - Site: https://www.cambus.net
 - Twitter: https://twitter.com/fcambus
