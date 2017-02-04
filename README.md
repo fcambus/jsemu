@@ -110,7 +110,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## PC Emulators
 
 - [JS/Linux](http://bellard.org/jslinux/) - JavaScript PC emulator
-- [JsDOSBox](https://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](http://sourceforge.net/projects/jsdosbox/files/))
+- [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](https://sourceforge.net/projects/jsdosbox/files/))
 - [PCjs](http://www.pcjs.org) - IBM PC Model 5150 emulator
 - [Virtual x86](http://copy.sh/v86/) - An x86 emulator written in JavaScript ([Source](https://github.com/copy/v86))
 - [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
