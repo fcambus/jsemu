@@ -41,8 +41,8 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [jsSID](http://hermit.sidrip.com/jsSID.html) - SID player with minimal necessary C64 emulation ([Source](https://github.com/hermitsoft/jsSID))
 - [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
-- [VIC-20 Emulator](http://mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
-- [VICE.js](http://vice.janicek.co/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
+- [VIC-20 Emulator](https://www.mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
+- [VICE.js](https://vice.janicek.co/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
 
 ## DEC
 
@@ -55,7 +55,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Nintendo
 
 - [1964js](https://github.com/schibo/1964js) - JavaScript port of the 1964 N64 emulator for Windows
-- [CycloaJS](http://ledyba.org/utl/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
+- [CycloaJS](https://ledyba.org/utl/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
 - [GBA.js](http://endrift.github.io/gbajs/) - Game Boy Advance in the Browser
  ([Source](https://github.com/endrift/gbajs))
 - [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
@@ -78,7 +78,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Sega
 
-- [jsSMS](http://gmarty.github.io/jsSMS/) - JavaScript Sega Master System & Game Gear emulator ([Source](https://github.com/gmarty/jsSMS))
+- [jsSMS](https://gmarty.github.io/jsSMS/) - JavaScript Sega Master System & Game Gear emulator ([Source](https://github.com/gmarty/jsSMS))
 - [Miracle](http://xania.org/miracle/miracle.html) - Sega Master System emulator ([Source](https://github.com/mattgodbolt/Miracle))
 
 ## Sinclair
@@ -108,7 +108,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## PC Emulators
 
 - [JS/Linux](http://bellard.org/jslinux/) - JavaScript PC emulator
-- [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](http://sourceforge.net/projects/jsdosbox/files/))
+- [JsDOSBox](https://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](http://sourceforge.net/projects/jsdosbox/files/))
 - [PCjs](http://www.pcjs.org) - IBM PC Model 5150 emulator
 - [Virtual x86](http://copy.sh/v86/) - An x86 emulator written in JavaScript ([Source](https://github.com/copy/v86))
 - [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
@@ -118,7 +118,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 - [8008 running SCELBAL](http://www.xlnsresearch.com/scelbal.htm) by Mark G. Arnold. ("SCELBAL is the only open-source, floating-point, high-level language ever implemented on the 8008")
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
-- [Angel](http://riscv.org/angel/) - JavaScript RISC-V ISA simulator booting linux in a web-browser ([Source](https://github.com/riscv/riscv-angel))
+- [Angel](https://riscv.org/angel/) - JavaScript RISC-V ISA simulator booting linux in a web-browser ([Source](https://github.com/riscv/riscv-angel))
 - [Angular 2 6502](https://github.com/JeremyLikness/6502emulator#readme) written with TypeScript and Angular 2, by Jeremy Likness
 - [ARM-js](http://biged.github.io/arm-js/arm-js.html) - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
 - [ASM80](http://www.asm80.com) - Online assembler for 8-bit microprocessors by Martin Malý. Includes emulation of several machines: 8080, Z80, 6502, 6809. ([Sources](https://github.com/maly))
@@ -163,7 +163,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ### Microcode-level calculators
 
-- [HP-35](http://ashleyf.github.io/HP35/) - bug-compatible emulator by Ashley Feniello [explained here](http://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
+- [HP-35](http://ashleyf.github.io/HP35/) - bug-compatible emulator by Ashley Feniello [explained here](https://blogs.msdn.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
 - [HP-35, HP-45, HP-55, HP-65, HP-80](http://home.citycable.ch/pierrefleur/HP-Classic/HP-Classic.html) - collection of HP Classics, based on Feniello's work, by Francois Roulet
 - [HP-45](http://members.aon.at/nkehrer/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
 - [HP-65](http://www.sydneysmith.com/wordpress/hp65/) and [HP-67](http://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
@@ -183,7 +183,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Miscellaneous
 
 - [C1Pjs](http://www.pcjs.org/docs/c1pjs/) - JavaScript simulation of the Challenger 1P
-- [CFT](http://www.bedroomlan.org/hardware/cft/microcode-emulator) - JavaScript simulation of Alexios Chouchoulas' 16-bit homebrew TTL machine. ([More information](http://www.bedroomlan.org/hardware/cft/) including documentation and a video.)
+- [CFT](https://www.bedroomlan.org/hardware/cft/microcode-emulator) - JavaScript simulation of Alexios Chouchoulas' 16-bit homebrew TTL machine. ([More information](https://www.bedroomlan.org/hardware/cft/) including documentation and a video.)
 - [Chip-8 virtual machine](http://biged.github.io/Chip-8-Emulator) by Alexander Dickson - see [blog entry](http://blog.alexanderdickson.com/javascript-chip-8-emulator)
 - [Chip-8 virtual machine](http://pachisystems.com/JSEmu/chip8.html) by Brian Milton ([Source](https://github.com/PachiSystems/JSEmu) may target several CPUs)
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
@@ -225,20 +225,20 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## See also (lists of JavaScript emulators elsewhere)
 
-- [A Big List of Browser-Based Emulators](http://archive.vg/blog/a-big-list-of-browser-based-emulators-and-ports-of-classic-games) by Richard Moss
+- [A Big List of Browser-Based Emulators](https://archive.vg/blog/a-big-list-of-browser-based-emulators-and-ports-of-classic-games) by Richard Moss
 - [Qaop/JS – Emulator links](http://torinak.com/qaop/links) by Jan Bobrowski
 
 ## Additional Information
 
 This resource collection is maintained by Frederic Cambus
 
-- Site : http://www.cambus.net
+- Site: https://www.cambus.net
 - Twitter: https://twitter.com/fcambus
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Frederic Cambus](http://www.cambus.net) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has waived all copyright and related or neighboring rights to this work.
 
 
