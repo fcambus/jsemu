@@ -59,7 +59,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 - [1964js](https://github.com/schibo/1964js) - JavaScript port of the 1964 N64 emulator for Windows
 - [CycloaJS](https://ledyba.org/utl/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
-- [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
 - [GBA.js](http://endrift.github.io/gbajs/) - Game Boy Advance in the Browser ([Source](https://github.com/endrift/gbajs))
 - [IodineGBA](http://taisel.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/taisel/IodineGBA))
 - [gba.ninja](https://gba.ninja/) - JavaScript port of VisualBoyAdvance-M, a GameBoy Advance emulator ([Source](https://github.com/simon-paris/gba.ninja))
@@ -67,7 +66,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [NESNES](http://koen.kivits.com/nesnes/) - JavaScript NES emulator, also available as a [web component](https://github.com/koenkivits/x-nes) ([Source](https://github.com/koenkivits/nesnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
 - [XNES](http://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulators  ([Source](https://github.com/tjwei/xnes))
-- fam - JavaScript NES emulator ([Source](https://github.com/bashi/fam/))
 - jsGB - A GameBoy emulator in JavaScript ([Source](https://github.com/Two9A/jsGB))
 - [mupen64plus](http://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the Web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
 - [n64js](http://hulkholden.github.io/n64js/) - An N64 emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
