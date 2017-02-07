@@ -130,6 +130,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JavaScript 8080 Emulator](https://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
 - [RISCVEMU](http://bellard.org/riscvemu/js/) - RISC-V emulator boots 64-bit Linux. By Fabrice Bellard.
 - [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
+- [Unicorn.js](https://alexaltea.github.io/unicorn.js/) - The Unicorn emulator framework, now available for JavaScript ([Source](https://github.com/AlexAltea/unicorn.js))
 - [Visual ARM1](http://visual6502.org/sim/varm/armgl.html) - JavaScript/WebGL for ARM's first CPU, modelling 25000 transistors at switch level and animating the original chip layout - in 3D. See [the blog post](http://blog.visual6502.org/2015/11/the-visual-arm1.html)
 - [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
 - [Visual 6800](http://www.visual6502.org/JSSim/expert-6800.html?steps=10) - JavaScript simulator for the Motorola 6800 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
