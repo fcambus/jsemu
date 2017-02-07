@@ -26,7 +26,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Apple IIjs](https://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
 - [a2](http://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator.
 - [Apple2JS](http://megidish.net/apple2js/) - A JavaScript emulator for the Apple II
-- [Yet Another Apple 2+ in JavaScript](http://skibo.net/6502/apple2/) - by Thomas Skibo
+- [Yet Another Apple 2+ in JavaScript](http://www.skibo.net/6502/apple2/) - by Thomas Skibo
 
 ## Atari
 
@@ -38,14 +38,14 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Commodore
 
 - [Commodore LCD emulator](http://commodore-lcd.lgb.hu/jsemu/) - by Gabor Lenart
-- [Commodore PET](http://skibo.net/6502/pet2001/) - by Thomas Skibo
+- [Commodore PET](http://www.skibo.net/6502/pet2001/) - by Thomas Skibo
 - [JSC64](http://www.kingsquare.nl/jsc64) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
 - [c64js](http://www.c64js.com) - Commodore 64 emulator written in JavaScript by Mikael Borgbrant ([Source](https://github.com/mborgbrant/c64js))
 - [jsSID](http://hermit.sidrip.com/jsSID.html) - SID player with minimal necessary C64 emulation ([Source](https://github.com/hermitsoft/jsSID))
 - [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
 - [VIC-20 Emulator](https://www.mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
-- [VICE.js](https://vice.janicek.co/c64) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
+- [VICE.js](https://vice.janicek.co/c64/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
 
 ## DEC
 
@@ -127,10 +127,10 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - Basic MIPS functional simulator and [Basic MIPS pipelined simulator](http://cdn.imgtec.com/MIPSSimulator/pipeline.html) by Mianzhi Wang (morriswmz). ([Source](https://github.com/morriswmz/SimpleMIPS.js))
 - [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
 - [EduMIPS64](http://www.edumips.org/edumips64.html) - [educational MIPS64 CPU](http://www.edumips.org/), ported from Java by Andrea Spadaccini using GWT (see blog [here](http://edumips64.blogspot.co.uk/2016/06/towards-javascript-port-of-edumips64.html).) ([Source](https://github.com/lupino3/edumips64))
-- [Imaginary 6502](http://www.mdawson.net/asm6502/6502asm.php) - 6502 Emulator and Assembler
+- [Imaginary 6502](https://www.mdawson.net/asm6502/6502asm.php) - 6502 Emulator and Assembler
 - [Intel 4004 emulator](http://e4004.szyc.org/) - by Maciej Szyc. Includes assembler and disassembler.
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
-- [JavaScript 8080 Emulator](http://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
+- [JavaScript 8080 Emulator](https://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
 - [RISCVEMU](http://bellard.org/riscvemu/js/) - RISC-V emulator boots 64-bit Linux. By Fabrice Bellard.
 - [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
 - [Visual ARM1](http://visual6502.org/sim/varm/armgl.html) - JavaScript/WebGL for ARM's first CPU, modelling 25000 transistors at switch level and animating the original chip layout - in 3D. See [the blog post](http://blog.visual6502.org/2015/11/the-visual-arm1.html)
@@ -165,7 +165,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ### Microcode-level calculators
 
-- [HP-35](http://ashleyf.github.io/HP35/) - bug-compatible emulator by Ashley Feniello [explained here](https://blogs.msdn.microsoft.com/b/ashleyf/archive/2010/09/25/microcode-level-hp-35-emulator-in-javascript.aspx) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
+- [HP-35](http://ashleyf.github.io/HP35/) - bug-compatible emulator by Ashley Feniello [explained here](https://blogs.msdn.microsoft.com/ashleyf/2010/09/25/microcode-level-hp-35-emulator-in-javascript/) using [Eric Smith](http://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
 - [HP-35, HP-45, HP-55, HP-65, HP-80](http://home.citycable.ch/pierrefleur/HP-Classic/HP-Classic.html) - collection of HP Classics, based on Feniello's work, by Francois Roulet
 - [HP-45](http://members.aon.at/nkehrer/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
 - [HP-65](http://www.sydneysmith.com/wordpress/hp65/) and [HP-67](http://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
