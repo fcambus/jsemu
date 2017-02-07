@@ -24,7 +24,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 - [Apple 1js](https://www.scullinsteel.com/apple1/) - by Will Scullin
 - [Apple IIjs](https://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
-- [a2](http://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator.
+- [a2](http://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator
 - [Apple2JS](http://megidish.net/apple2js/) - A JavaScript emulator for the Apple II
 - [Yet Another Apple 2+ in JavaScript](http://www.skibo.net/6502/apple2/) - by Thomas Skibo
 
@@ -59,9 +59,8 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 - [1964js](https://github.com/schibo/1964js) - JavaScript port of the 1964 N64 emulator for Windows
 - [CycloaJS](https://ledyba.org/utl/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
-- [GBA.js](http://endrift.github.io/gbajs/) - Game Boy Advance in the Browser
- ([Source](https://github.com/endrift/gbajs))
 - [GameBoy Online](http://grantgalitz.github.io/GameBoy-Online/) -  JavaScript GameBoy Color emulator ([Source](https://github.com/grantgalitz/GameBoy-Online))
+- [GBA.js](http://endrift.github.io/gbajs/) - Game Boy Advance in the Browser ([Source](https://github.com/endrift/gbajs))
 - [IodineGBA](http://taisel.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/taisel/IodineGBA))
 - [gba.ninja](https://gba.ninja/) - JavaScript port of VisualBoyAdvance-M, a GameBoy Advance emulator ([Source](https://github.com/simon-paris/gba.ninja))
 - [JSNES](https://fir.sh/projects/jsnes/) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
