@@ -236,7 +236,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 This resource collection is maintained by Frederic Cambus.
 
 - Site: https://www.cambus.net
-- Twitter: https://twitter.com/fcambus
 
 ## License
 
