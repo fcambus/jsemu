@@ -61,6 +61,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 - [1964js](https://github.com/schibo/1964js) - JavaScript port of the 1964 N64 emulator for Windows
 - [CycloaJS](https://ledyba.org/utl/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
+- [em-fceux](https://bitbucket.org/tsone/em-fceux) - an Emscripten port of FCEUX, an emulator of NES, Famicom, Famicom Disk System (FDS), and Dendy consoles. [Demo site](https://tsone.kapsi.fi/em-fceux/)
 - [GBA.js](http://endrift.github.io/gbajs/) - Game Boy Advance in the Browser ([Source](https://github.com/endrift/gbajs))
 - [IodineGBA](http://taisel.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/taisel/IodineGBA))
 - [gba.ninja](https://gba.ninja/) - JavaScript port of VisualBoyAdvance-M, a GameBoy Advance emulator ([Source](https://github.com/simon-paris/gba.ninja))
@@ -109,6 +110,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## PC Emulators
 
+- [Em-DOSBox](https://github.com/dreamlayers/em-dosbox) - An Emscripten port of DOSBox ([Demo](http://playdosgamesonline.com/))
 - [JS/Linux](http://bellard.org/jslinux/) - JavaScript PC emulator
 - [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](https://sourceforge.net/projects/jsdosbox/files/))
 - [PCjs](http://www.pcjs.org) - IBM PC Model 5150 emulator
