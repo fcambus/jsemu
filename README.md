@@ -191,6 +191,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [CFT](https://www.bedroomlan.org/hardware/cft/microcode-emulator) - JavaScript simulation of Alexios Chouchoulas' 16-bit homebrew TTL machine. ([More information](https://www.bedroomlan.org/hardware/cft/) including documentation and a video.)
 - [Chip-8 virtual machine](http://biged.github.io/Chip-8-Emulator/) by Alexander Dickson - see [blog entry](http://blog.alexanderdickson.com/javascript-chip-8-emulator)
 - [Chip-8 virtual machine](http://pachisystems.com/JSEmu/chip8.html) by Brian Milton ([Source](https://github.com/PachiSystems/JSEmu) may target several CPUs)
+- [Chip8 1k](http://xem.github.io/chip8/) - a code-golfed chip 8 emulator in 1k by Maxime Euzière and others
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
 - [Compukit UK101](http://www.avoncliff.com/uk101/) - by David Stevenson
 - [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
