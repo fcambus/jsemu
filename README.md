@@ -85,7 +85,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Sinclair
 
-- [Enterprise-128 JavaScript Emulator](http://ep.lgb.hu/jsep/demo/?autostart=yes) - by Gábor Lénárt "LGB", based on JSSpeccy
 - [JSSpeccy](http://jsspeccy.zxdemo.org) - A ZX Spectrum emulator in JavaScript ([Source](https://github.com/gasman/jsspeccy2))
 - [JtyOne Online ZX81 Emulator](http://www.zx81stuff.org.uk/zx81/jtyone.html) - by Simon Holdsworth
 - [Qaop/JS](http://torinak.com/qaop) - ZX Spectrum emulator
@@ -197,6 +196,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Dodo Playground](https://play.dodolabs.io/?code=51447f62) - IDE and simulator for 6502-based Dodo homebrew game system by Peter Noyes
+- [Enterprise-128 JavaScript Emulator](http://ep.lgb.hu/jsep/demo/?autostart=yes) - by Gábor Lénárt "LGB", based on JSSpeccy
 - [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
 - [IBM 5110 Emulator](http://members.aon.at/nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
 - [jsH89](http://heathkit.garlanger.com/emulator/jsH89/) - Heathkit H89 emulator (runs CP/M) by Mark Garlanger
