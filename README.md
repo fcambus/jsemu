@@ -193,6 +193,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Chip8 1k](http://xem.github.io/chip8/) - a code-golfed chip 8 emulator in 1k by Maxime Euzière and others
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
 - [Compukit UK101](http://www.avoncliff.com/uk101/) - by David Stevenson
+- [ContrAltoJS](http://www.loomcom.com/contraltojs/) - Pure JavaScript implementation of the ContrAlto Xerox Alto emulator ([Source](https://github.com/sethm/ContrAltoJS))
 - [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Dodo Playground](https://play.dodolabs.io/?code=51447f62) - IDE and simulator for 6502-based Dodo homebrew game system by Peter Noyes
