@@ -171,7 +171,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [HP-35, HP-45, HP-55, HP-65, HP-80](http://home.citycable.ch/pierrefleur/HP-Classic/HP-Classic.html) - collection of HP Classics, based on Feniello's work, by Francois Roulet
 - [HP-45](http://members.aon.at/nkehrer/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
 - [HP-65](http://www.sydneysmith.com/wordpress/hp65/) and [HP-67](http://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
-- [мк-61](http://mk-61.moy.su/emulator.html) - the programmable Elektronika MK-61, also the Б3-34, МК-54, and МК-56 calculators, the Феликс-М (Felix M) arithmometer, a slide rule and an abacus. By Felix Lazarev, Andrey_emu, Sergey Tarasov and others.
+- [мк-61](http://mk-61.moy.su/emulator.html) - Elektronika's programmable calculators MK-61, Б3-34, МК-54, and МК-56, also the Феликс-М (Felix M) arithmometer, a slide rule and an abacus. By Felix Lazarev, Andrey_emu, Sergey Tarasov and others.
 - [Sinclair Scientific](http://www.righto.com/sinclair) and [TI-1500](http://www.righto.com/ti) - calculator simulations including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
 - [TI-92 Plus emulator](https://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
 
