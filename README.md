@@ -132,6 +132,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Intel 4004 emulator](http://e4004.szyc.org/) - by Maciej Szyc. Includes assembler and disassembler.
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JavaScript 8080 Emulator](https://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
+- [Mipsdis](http://blog.loadzero.com/demo/mipsdis/demo.html) - MIPS disassembler that runs in the browser
 - [RISCVEMU](http://bellard.org/riscvemu/js/) - RISC-V emulator boots 64-bit Linux. By Fabrice Bellard.
 - [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
 - [Unicorn.js](https://alexaltea.github.io/unicorn.js/) - The Unicorn emulator framework, now available for JavaScript ([Source](https://github.com/AlexAltea/unicorn.js))
