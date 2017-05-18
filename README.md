@@ -208,6 +208,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
 - [Little Man Computer](http://matt.krutar.org/LMC4/) a minimal CPU for teaching - emulator by Matthew Krutar. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
+- [Little Man Computer](http://paulhankin.github.io/lmc/lmc.html) a minimal CPU for teaching - emulator by Paul Hankin. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
 - [Little Man Computer](http://peterhigginson.co.uk/LMC/) a minimal CPU for teaching - emulator by Peter Higginson. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
 - [Machine in a machine](http://js1k.com/2010-first/details/455) - Turing Machine Implementation in 1k from the [JS1k competition](http://js1k.com/)
 - [Marmmodore-1K](http://js1k.com/2016-elemental/details/2415) - minimal 8-bit computer in 1k by Felipe Alfonso
