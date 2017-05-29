@@ -222,6 +222,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [RockyJS](https://pebble.github.io/rockyjs/) - Pebble watch interpreter/emulator
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
+- [SAP-1](http://ellisgl.github.io/SAP-1-CPU/) JavaScript emulation of the Simple As Possible TTL machine from Malvino's book, Digital Computer Electronics. By Kenneth Ellis McCall. ([Source](https://github.com/ellisgl/SAP-1-CPU))
 - [Turbo Pascal](https://github.com/lkesteloot/turbopascal) - A web-based Pascal compiler that runs a subset of Turbo Pascal 5.5 code
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
 - [Visual Computer](http://www1.idc.ac.il/vic/software/computer/) a minimal CPU for teaching by Shimon Schocken. ([Web site](https://sites.google.com/site/schocken/thevisualcomputer))
