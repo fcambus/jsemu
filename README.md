@@ -95,6 +95,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Tandy
 
+- [CloudT TRS-80 Model 100 Emulator](https://bitchin100.com/CloudT/#/M100Display) - by John R. Hogerhuis ([Announcement](https://www.mail-archive.com/m100@lists.bitchin100.com/msg02714.html))
 - [MC-10 Emulator](http://mc-10.com/) - Emulator for the TRS-80 MC-10 microcomputer
 - [TRS-80 Model III Emulator](http://people.cs.ubc.ca/~pphillip/trs80.html) a Javascript emulator for the TRS-80 Model III
 - [JS Mocha](http://www.haplessgenius.com/mocha/) - The HTML5 CoCo 2 Emulator
