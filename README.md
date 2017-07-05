@@ -84,7 +84,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Miracle](http://xania.org/miracle/miracle.html) - Sega Master System emulator ([Source](https://github.com/mattgodbolt/Miracle))
 
 ## Sony
-- [PSeudo](https://dkoliris.github.io/pseudo/) - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) ([Source](https://github.com/dkoliris/pseudo))
+- [PSeudo](http://vuemaps.com/pseudo) - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) ([Source](https://github.com/dkoliris/pseudo))
 
 ## Sinclair
 
