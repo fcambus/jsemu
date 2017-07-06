@@ -93,6 +93,9 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Science of Cambridge MK14 simulator](http://www.dougrice.plus.com/dev/seg_mk14.htm) - by Doug Rice, based on Paul Robson's offline emulator.
 - See also [YAKC](http://floooh.github.io/virtualkc/)
 
+## Sony
+- [PSeudo](http://vuemaps.com/pseudo) - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) ([Source](https://github.com/dkoliris/pseudo))
+
 ## Tandy
 
 - [CloudT TRS-80 Model 100 Emulator](https://bitchin100.com/CloudT/#/M100Display) - by John R. Hogerhuis ([Announcement](https://www.mail-archive.com/m100@lists.bitchin100.com/msg02714.html))
