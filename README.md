@@ -83,9 +83,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [jsSMS](https://gmarty.github.io/jsSMS/) - JavaScript Sega Master System & Game Gear emulator ([Source](https://github.com/gmarty/jsSMS))
 - [Miracle](http://xania.org/miracle/miracle.html) - Sega Master System emulator ([Source](https://github.com/mattgodbolt/Miracle))
 
-## Sony
-- [PSeudo](http://vuemaps.com/pseudo) - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) ([Source](https://github.com/dkoliris/pseudo))
-
 ## Sinclair
 
 - [JSSpeccy](http://jsspeccy.zxdemo.org) - A ZX Spectrum emulator in JavaScript ([Source](https://github.com/gasman/jsspeccy2))
@@ -95,6 +92,9 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [jBacteria](http://jbacteria.retrolandia.net/) - The smallest JavaScript Spectrum emulator
 - [Science of Cambridge MK14 simulator](http://www.dougrice.plus.com/dev/seg_mk14.htm) - by Doug Rice, based on Paul Robson's offline emulator.
 - See also [YAKC](http://floooh.github.io/virtualkc/)
+
+## Sony
+- [PSeudo](http://vuemaps.com/pseudo) - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) ([Source](https://github.com/dkoliris/pseudo))
 
 ## Tandy
 
