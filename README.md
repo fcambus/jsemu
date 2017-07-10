@@ -163,6 +163,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Digi-Comp 1](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1) - educational plastic computer from 1963. Emulator by Larry Groebe and Kevin Williams. (1963)
 - [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) (1964)
 - [Apollo Guidance Computer](http://svtsim.com/moonjs/agc.html) - Moonjs a port by Shahriar Iravanian of Ronald Burkey's Virtual AGC. (1966)
+- [BESM-6](http://www.mailcom.com/besm6/runitnew.cgi) - with examples in Algol, Fortran, and assembler. By Leonid A. Broukhis and Michael Yaroslavtsev. More [here](http://www.mailcom.com/besm6/). (1968)
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html) (1969)
 - [Kenbak-1](http://www.neocomputer.org/kenbak/kenbak1-JS.html) - John Blankenbaker's TTL-based 256byte personal computer. [More information](http://www.neocomputer.org/kenbak/) (1970)
 - [Ordinapoche](http://nguyen.univ-tln.fr/share/Archi/ordinapoche.html) - A paper computer from France, invented 1969, popularised in 1981 and 1985. ([More here](http://nguyen.univ-tln.fr/ordinapoche.html) and [see also the 1981 magazine](http://www.abandonware-magazines.org/affiche_mag.php?mag=85&num=3809&album=oui))
