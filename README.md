@@ -158,7 +158,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [C88](http://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931)) (1948)
 - [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](http://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf)) (1949)
 - [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e)) (1951)
-- [UNIVAC I emulator](http://e-tradition.net/bytes/virtualunivac/) - JavaScript emulator by Nobert Landsteiner (1951)
+- [UNIVAC I emulator](http://e-tradition.net/bytes/virtualunivac/) - JavaScript emulator by Norbert Landsteiner (1951)
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData-205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
 - [Mailüfterl](http://members.aon.at/nkehrer/mailuefterl/mailuefterl.html) - JavaScript emulator by Norbert Kehrer (1958)
 - [Setun (Russian)](http://trinary.ru/projects/setunws/) and [English (archived)](https://web.archive.org/web/20170114102246/http://en.trinary.ru/projects/setunws/) - JavaScript emulator by Обухов Александр. Ternary machine from Soviet Union (1958)
