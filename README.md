@@ -192,6 +192,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [HP-35](https://neil.fraser.name/software/hp-35/) - JavaScript emulator by Neil Fraser
 - [HP-35 SOS](http://hansklav.home.xs4all.nl/rpn/hp35sos.html) - modified HP-35 with stack overflow sensing LED, by Hans Klaver, based on Fraser's work
 - [HP-48](http://www.poleyland.com/hp48/index.html) - JavaScript implementation of the most commonly used HP-48 functions. More info [here](http://www.poleyland.com/hp48/help.html), by Josh Poley
+- [Olivetti Programma 101](https://biged.github.io/P101/p101viewport.html) - JavaScript emulation of the first commercial programmable desktop computer, by "Fabioamd87". [Source on GitHub](https://github.com/Fabioamd87/P101)
 
 ## Miscellaneous
 
