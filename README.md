@@ -132,6 +132,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - Basic MIPS functional simulator and [Basic MIPS pipelined simulator](http://cdn.imgtec.com/MIPSSimulator/pipeline.html) by Mianzhi Wang (morriswmz). ([Source](https://github.com/morriswmz/SimpleMIPS.js))
 - [Easy6502](http://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
 - [EduMIPS64](http://www.edumips.org/edumips64.html) - [educational MIPS64 CPU](http://www.edumips.org/), ported from Java by Andrea Spadaccini using GWT (see blog [here](http://edumips64.blogspot.co.uk/2016/06/towards-javascript-port-of-edumips64.html).) ([Source](https://github.com/lupino3/edumips64))
+- [FRISCjs](http://ivanzuzak.info/FRISCjs/webapp/) - an 8-register educational RISC from the University of Zagreb, with both assembler and front panel, by Ivan Žužak. [Source](https://github.com/izuzak/FRISCjs)
 - [Imaginary 6502](https://www.mdawson.net/asm6502/6502asm.php) - 6502 Emulator and Assembler
 - [Intel 4004 emulator](http://e4004.szyc.org/) - by Maciej Szyc. Includes assembler and disassembler.
 - [Intel 8080 CPU Emulator](http://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
