@@ -48,6 +48,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
 - [VIC-20 Emulator](https://www.mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
 - [VICE.js](https://vice.janicek.co/c64/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
+- [xc65](http://c65.lgb.hu/web-xemu/xc65.html) - "Unusable Commodore 65 emulator" by Gábor Lénárt (aka LGB) powered by emscripten - actually appears to be usable. See also [this page](http://c65.lgb.hu/emulator/)
 
 ## DEC
 
