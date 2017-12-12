@@ -16,6 +16,9 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](http://xania.org/Emulation))
 - See also [YAKC](http://floooh.github.io/virtualkc/)
 
+## Altair
+- [MITS Altair Simulator](http://s2js.com/altair/) Front panel simulation of the 8080-based Altair, by Ian Davies, built on 8080.js
+
 ## Amstrad
 
 - [CPCBox](http://www.cpcbox.com) - Amstrad CPC emulator in JavaScript
