@@ -53,6 +53,9 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [VICE.js](https://vice.janicek.co/c64/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
 - [xc65](http://c65.lgb.hu/web-xemu/xc65.html) - "Unusable Commodore 65 emulator" by Gábor Lénárt (aka LGB) powered by emscripten - actually appears to be usable. See also [this page](http://c65.lgb.hu/emulator/)
 
+## Data General
+- [Novas Are Forever](http://www.novasareforever.org/novajs/index.php) - by Wild Hare Computer Systems, for the 50th anniversary.
+
 ## DEC
 
 - [PDP-1 running the SpaceWar game](http://www.masswerk.at/spacewar/) and the [Minskytron demo](http://www.masswerk.at/minskytron/) - by Norbert Landsteiner
