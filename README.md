@@ -218,6 +218,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Dodo Playground](https://play.dodolabs.io/?code=51447f62) - IDE and simulator for 6502-based Dodo homebrew game system by Peter Noyes
 - [Enterprise-128 JavaScript Emulator](http://ep.lgb.hu/jsep/demo/?autostart=yes) - by Gábor Lénárt "LGB", based on JSSpeccy
+- [Hack emulator (nand2tetris)](https://github.com/diversen/hack-emulator-js) - by diversen
 - [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
 - [IBM 5110 Emulator](http://members.aon.at/nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
 - [JS99'er](http://js99er.net/) - TI-99/4A emulator written in JavaScript ([Source](https://github.com/Rasmus-M/Js99er))
