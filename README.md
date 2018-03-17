@@ -171,7 +171,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData-205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
 - [Mailüfterl](http://members.aon.at/nkehrer/mailuefterl/mailuefterl.html) - JavaScript emulator by Norbert Kehrer (1958)
 - [Setun (Russian)](http://trinary.ru/projects/setunws/) and [English (archived)](https://web.archive.org/web/20170114102246/http://en.trinary.ru/projects/setunws/) - JavaScript emulator by Обухов Александр. Ternary machine from Soviet Union (1958)
-- [Digi-Comp 1](http://digicomp-1.appspot.com) [previously](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1) - educational plastic computer from 1963. Emulator by Larry Groebe and Kevin Williams. (1963)
+- [Digi-Comp 1](http://digicomp-1.appspot.com) ([previously](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1)) - educational plastic computer from 1963. Emulator by Larry Groebe and Kevin Williams. (1963)
 - [Burroughs B5500 emulator](http://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) (1964)
 - [Apollo Guidance Computer](http://svtsim.com/moonjs/agc.html) - Moonjs a port by Shahriar Iravanian of Ronald Burkey's Virtual AGC. (1966)
 - [BESM-6](http://www.mailcom.com/besm6/runitnew.cgi) - with examples in Algol, Fortran, and assembler. By Leonid A. Broukhis and Michael Yaroslavtsev. More [here](http://www.mailcom.com/besm6/). (1968)
