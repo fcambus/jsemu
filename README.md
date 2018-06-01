@@ -170,6 +170,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e)) (1951)
 - [UNIVAC I emulator](http://e-tradition.net/bytes/virtualunivac/) - JavaScript emulator by Norbert Landsteiner (1951)
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData-205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
+- [TX-0](https://www.wizforest.com/tech/tx-0/#) emulator by @wizforest, including several programs from the time. ([Instructions](https://www.wizforest.com/tech/tx-0/manual.html)) (1956)
 - [Mailüfterl](http://members.aon.at/nkehrer/mailuefterl/mailuefterl.html) - JavaScript emulator by Norbert Kehrer (1958)
 - [Setun (Russian)](http://trinary.ru/projects/setunws/) and [English (archived)](https://web.archive.org/web/20170114102246/http://en.trinary.ru/projects/setunws/) - JavaScript emulator by Обухов Александр. Ternary machine from Soviet Union (1958)
 - [Digi-Comp 1](http://digicomp-1.appspot.com) ([previously](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1)) - educational sliding-rods plastic computer. Emulator by Larry Groebe and Kevin Williams. (1963)
