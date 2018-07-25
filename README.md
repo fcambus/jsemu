@@ -194,6 +194,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [мк-61](http://mk-61.moy.su/emulator.html) - Elektronika's programmable calculators MK-61, Б3-34, МК-54, and МК-56, also the Феликс-М (Felix M) arithmometer, a slide rule and an abacus. By Felix Lazarev, Andrey_emu, Sergey Tarasov and others.
 - [Sinclair Scientific](http://www.righto.com/sinclair) and [TI-1500](http://www.righto.com/ti) - calculator simulations including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
 - [TI-92 Plus emulator](https://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
+- [Javascript TI-89 / TI-92+ / TI-V200 / TI-89T emulator](https://tiplanet.org/emu68k_fork/) - by Patrick Davidson and Lionel Debroux
 
 ### Workalike calculators
 
