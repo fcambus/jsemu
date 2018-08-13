@@ -207,10 +207,11 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [HP-35 SOS](http://hansklav.home.xs4all.nl/rpn/hp35sos.html) - modified HP-35 with stack overflow sensing LED, by Hans Klaver, based on Fraser's work
 - [HP-48](http://www.poleyland.com/hp48/index.html) - JavaScript implementation of the most commonly used HP-48 functions. More info [here](http://www.poleyland.com/hp48/help.html), by Josh Poley
 - [Olivetti Programma 101](https://biged.github.io/P101/p101viewport.html) - JavaScript emulation of the first commercial programmable desktop computer, by "Fabioamd87". [Source on GitHub](https://github.com/Fabioamd87/P101)
+- [TI-57 Programmable Calculator](https://www.pcjs.org/devices/ti57/machine/) by Jeff Parsons (PCjs)
 
 ## Miscellaneous
 
-- [C1Pjs](http://www.pcjs.org/docs/c1pjs/) - JavaScript simulation of the Challenger 1P
+- [C1Pjs](http://www.pcjs.org/docs/c1pjs/) - JavaScript simulation of the Challenger 1P (PCjs)
 - [Canon Cat (in JSMess)](https://archive.org/details/canoncat) - Jef Raskin's Forth-capable 68000-based word processor. ([Instructions](https://github.com/mamedev/mame/blob/master/src/mame/drivers/cat.cpp#L16) and [more info](http://www.canoncat.net/))
 - [CFT](https://www.bedroomlan.org/hardware/cft/microcode-emulator) - JavaScript simulation of Alexios Chouchoulas' 16-bit homebrew TTL machine. ([More information](https://www.bedroomlan.org/hardware/cft/) including documentation and a video.)
 - [Chip-8 virtual machine](http://biged.github.io/Chip-8-Emulator/) by Alexander Dickson - see [blog entry](http://blog.alexanderdickson.com/javascript-chip-8-emulator)
