@@ -194,6 +194,8 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [HP-55](http://www.sydneysmith.com/products/hp55u/run/), [HP-65](http://www.sydneysmith.com/wordpress/hp65/) and [HP-67](http://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
 - [мк-61](http://mk-61.moy.su/emulator.html) - Elektronika's programmable calculators MK-61, Б3-34, МК-54, and МК-56, also the Феликс-М (Felix M) arithmometer, a slide rule and an abacus. By Felix Lazarev, Andrey_emu, Sergey Tarasov and others.
 - [Sinclair Scientific](http://www.righto.com/sinclair) and [TI-1500](http://www.righto.com/ti) - calculator simulations including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
+- [TI-55](https://www.pcjs.org/devices/ti55/) by Jeff Parsons (PCjs)
+- [TI-57 Programmable Calculator](https://www.pcjs.org/devices/ti57/machine/) by Jeff Parsons (PCjs)
 - [TI-92 Plus emulator](https://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
 - [Javascript TI-89 / TI-92+ / TI-V200 / TI-89T emulator](https://tiplanet.org/emu68k_fork/) - by Patrick Davidson and Lionel Debroux
 
@@ -207,7 +209,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [HP-35 SOS](http://hansklav.home.xs4all.nl/rpn/hp35sos.html) - modified HP-35 with stack overflow sensing LED, by Hans Klaver, based on Fraser's work
 - [HP-48](http://www.poleyland.com/hp48/index.html) - JavaScript implementation of the most commonly used HP-48 functions. More info [here](http://www.poleyland.com/hp48/help.html), by Josh Poley
 - [Olivetti Programma 101](https://biged.github.io/P101/p101viewport.html) - JavaScript emulation of the first commercial programmable desktop computer, by "Fabioamd87". [Source on GitHub](https://github.com/Fabioamd87/P101)
-- [TI-57 Programmable Calculator](https://www.pcjs.org/devices/ti57/machine/) by Jeff Parsons (PCjs)
 
 ## Miscellaneous
 
