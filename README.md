@@ -81,6 +81,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [jsGBC](https://ardean.github.io/jsGBC-web/) - GameBoy Color Emulator written in JavaScript ([Source](https://github.com/ardean/jsGBC))
 - [mupen64plus](http://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the Web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
 - [n64js](http://hulkholden.github.io/n64js/) - An N64 emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
+-[pinky](https://koute.github.io/pinky-web/) - A Rust based NES emulator ported to the web via WebAssembly ([Source] (https://github.com/koute/pinky/tree/master/pinky-web))
 
 ## Robotron / VEB Mikroelektronik
 
