@@ -15,7 +15,6 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Acorn Atom Emulator](http://phils-place.co.uk/HTeMuLator/atom/) - by Phil Mainwaring. Type "OLD" for an Easter Egg
 - [ElkJS](http://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](http://xania.org/Emulation))
-- See also [YAKC](http://floooh.github.io/virtualkc/) multi-system emulator
 
 ## Altair
 - [MITS Altair Simulator](http://s2js.com/altair/) Front panel simulation of the 8080-based Altair, by Ian Davies, built on 8080.js
@@ -24,7 +23,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 - [CPCBox](http://www.cpcbox.com) - Amstrad CPC emulator in JavaScript
 - [Roland](http://roland.retrolandia.net) - An Amstrad CPC emulator written in JavaScript
-- See also [YAKC](http://floooh.github.io/virtualkc/)
+- [CPC Tiny Emu](https://floooh.github.io/tiny8bit/cpc.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 
 ## Apple
 
@@ -47,6 +46,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [Commodore PET](http://www.skibo.net/6502/pet2001/) - by Thomas Skibo
 - [JSC64](http://www.kingsquare.nl/jsc64) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
 - [c64js](http://www.c64js.com) - Commodore 64 emulator written in JavaScript by Mikael Borgbrant ([Source](https://github.com/mborgbrant/c64js))
+- [C64 Tiny Emu](https://floooh.github.io/tiny8bit/c64.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [jsSID](http://hermit.sidrip.com/jsSID.html) - SID player with minimal necessary C64 emulation ([Source](https://github.com/hermitsoft/jsSID))
 - [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
@@ -86,7 +86,12 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Robotron / VEB Mikroelektronik
 
 - [KC85\_Emu](http://lanale.de/kc85_emu/KC85_Emu.html) - KC85/3 and KC85/4 emulator by Alexander Lang
-- [YAKC](http://floooh.github.io/virtualkc/) - Yet Another KC emulator by A.Weissflog (KC85/2..4, KC87, Z9001, Z1013, also Amstrad CPC, Sinclair Spectrum and Acorn Atom.)
+- KC85/2 family emulators by Andre Weissflog ([source](https://github.com/floooh/chips-test)):
+    * [KC85/2 Tiny Emu](https://floooh.github.io/tiny8bit/kc85.html?type=kc85_2)
+    * [KC85/3 Tiny Emu](https://floooh.github.io/tiny8bit/kc85.html?type=kc85_3)
+    * [KC85/4 Tiny Emu](https://floooh.github.io/tiny8bit/kc85.html?type=kc85_4)
+- [Z1013 Tiny Emu](https://floooh.github.io/tiny8bit/z1013.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
+- [KC87 Tiny Emu](https://floooh.github.io/tiny8bit/z9001.html?type=kc87) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 
 ## Sega
 
@@ -101,7 +106,8 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [ZX80 Emulator](http://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
 - [jBacteria](http://jbacteria.retrolandia.net/) - The smallest JavaScript Spectrum emulator
 - [Science of Cambridge MK14 simulator](http://www.dougrice.plus.com/dev/seg_mk14.htm) - by Doug Rice, based on Paul Robson's offline emulator.
-- See also [YAKC](http://floooh.github.io/virtualkc/)
+- [ZX Spectrum 48K Tiny Emy](https://floooh.github.io/tiny8bit/zx.html?type=zx48k) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
+- [ZX Spectrum 128 Tiny Emu](https://floooh.github.io/tiny8bit/zx.html?type=zx128) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 
 ## Sony
 - [PSeudo](http://vuemaps.com/pseudo) - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) ([Source](https://github.com/dkoliris/pseudo))
@@ -120,6 +126,8 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [PCE](https://github.com/jsdf/pce) - PC emulators in JavaScript (Atari ST, [IBM PC 5150](https://jamesfriend.com.au/pce-js/ibmpc-win/), [Macintosh](https://jamesfriend.com.au/pce-js/), RC759 Piccoline)
 - [RetroArch](http://toadking.com/retroarch/) - JavaScript port of RetroArch (bundles Gambatte (Gameboy), Genesis Plus GX, Handy (Lynx), Snes9x Next, VBA Next (GameBoy Advance), Tyrquake and FinalBurn Alpha)
 - [RetroWeb](http://retroweb.maclab.org) - collection of Javascript emulators and boot media, including Apple-IIe (VisiCalc), Macintosh (System 1.0), Atari 1040ST, Commodore 64, Amiga 500 (Workbench 1.3), IBM PC Model 5150 (PC-DOS, CP/M-86, Cassette Basic), IBM PC XT (DOS, GEM 1.2, VisiCalc, Windows 1.01, 8088 Corruption demo), RC759 Piccoline (Eliza, Bil-simulation, Concurrent CP/M-86), TRS-80.
+- [YAKC](https://floooh.github.io/virtualkc/) - Z1013, Z9001, KC85/2 family, Speccy, CPC, Acorn Atom, C64, with integrated debugging UI ([source](https://github.com/floooh/yakc))
+- [Tiny Emulators](https://floooh.github.io/tiny8bit/) -  based on the same chip- and system-emulator source code as YAKC, but as minimal WASM apps without fluff ([source](https://github.com/floooh/chips-test))
 
 ## PC Emulators
 
