@@ -11,7 +11,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 
 ## Acorn
 
-- [Acorn Atom](https://floooh.github.io/tiny8bit/atom.html) - by Andre Weissflog ([Source](https://github.com/floooh/chips))
+- [Atom Tiny Emu](https://floooh.github.io/tiny8bit/atom.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [Acorn Atom Emulator](http://phils-place.co.uk/HTeMuLator/atom/) - by Phil Mainwaring. Type "OLD" for an Easter Egg
 - [ElkJS](http://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](http://xania.org/Emulation))
