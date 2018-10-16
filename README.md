@@ -179,7 +179,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [C88](http://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931)) (1948)
 - [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](http://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf)) (1949)
 - [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e)) (1951)
-- [UNIVAC I emulator](http://e-tradition.net/bytes/virtualunivac/) - JavaScript emulator by Norbert Landsteiner (1951)
+- [UNIVAC I emulator](https://www.masswerk.at/virtualunivac/) - JavaScript emulator by Norbert Landsteiner (1951)
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData-205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
 - [TX-0](https://www.wizforest.com/tech/tx-0/#) emulator by @wizforest, including several programs from the time. ([Instructions](https://www.wizforest.com/tech/tx-0/manual.html)) (1956)
 - [Mailüfterl](http://members.aon.at/nkehrer/mailuefterl/mailuefterl.html) - JavaScript emulator by Norbert Kehrer (1958)
