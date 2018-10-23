@@ -110,7 +110,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [ZX Spectrum 128 Tiny Emu](https://floooh.github.io/tiny8bit/zx.html?type=zx128) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 
 ## Sony
-- [PSeudo](http://vuemaps.com/pseudo) - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) ([Source](https://github.com/dkoliris/pseudo))
+- PSeudo - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) ([Source](https://github.com/dkoliris/pseudo))
 
 ## Tandy
 
