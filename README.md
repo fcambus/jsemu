@@ -28,6 +28,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## Apple
 
 - [Apple 1js](https://www.scullinsteel.com/apple1/) - by Will Scullin
+- [Apple2e](https://inindev.github.io/apple2e/) - Apple IIe emulator by John Clark ([Source](https://github.com/inindev/apple2e))
 - [Apple IIjs](https://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
 - [a2](http://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator
 - [Apple2JS](http://megidish.net/apple2js/) - A JavaScript emulator for the Apple II
