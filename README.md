@@ -159,6 +159,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [RISC Relay Computer](http://www.enscope.nl/rrca/) - Relay based computer project with a 16 bit RISC CPU. Emulator includes an assembler and source for a calculator program. By RJH. See [website](http://www.enscope.nl/rrc).
 - [RISCVEMU](http://bellard.org/riscvemu/js/) - RISC-V emulator boots 64-bit Linux. By Fabrice Bellard.
 - [Simple 8-bit Assembler Simulator](http://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
+- uARM.wasm - ARMv5TE emulator running Linux in browsers ([Source](https://github.com/TonyLianLong/uARM.wasm))
 - [Unicorn.js](https://alexaltea.github.io/unicorn.js/) - The Unicorn emulator framework, now available for JavaScript ([Source](https://github.com/AlexAltea/unicorn.js))
 - [Visual ARM1](http://visual6502.org/sim/varm/armgl.html) - JavaScript/WebGL for ARM's first CPU, modelling 25000 transistors at switch level and animating the original chip layout - in 3D. See [the blog post](http://blog.visual6502.org/2015/11/the-visual-arm1.html)
 - [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
