@@ -61,6 +61,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 ## DEC
 
 - [PDP-1 running the SpaceWar game](http://www.masswerk.at/spacewar/) and the [Minskytron demo](http://www.masswerk.at/minskytron/) - by Norbert Landsteiner
+- [PDP-8](https://programmer209.wordpress.com/2011/01/30/pdp-8-assembly-language-part-2/) and [PDP-11](https://programmer209.wordpress.com/2011/08/14/pdp-11-assembly-language-simulator/) simulators with assembly language interfaces (explanatory articles with full source, not live site) - by programmer209
 - [PDP-8I emulator](http://www.drakesmith.net/pdp8i.html) running FOCAL,1969 - by "Warlockd"
 - [Javascript PDP 11](http://skn.noip.me/pdp11/pdp11.html) - PDP-11/70 emulator with simulated front panel and a choice of operating systems. By Paul Nankervis
 - [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator running UNIX Sixth Edition. By Julius Schmidt
