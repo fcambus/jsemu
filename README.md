@@ -243,6 +243,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Dodo Playground](https://play.dodolabs.io/?code=51447f62) - IDE and simulator for 6502-based Dodo homebrew game system by Peter Noyes
 - [Enterprise-128 JavaScript Emulator](http://ep.lgb.hu/jsep/demo/?autostart=yes) - by Gábor Lénárt "LGB", based on JSSpeccy
+- [ESP8266 Game Engine](https://corax89.github.io/esp8266Game/index.html) - a console-game-oriented virtual machine running on ESP8266, by Corax. ([Source](https://github.com/corax89/esp8266_game_engine))
 - [Hack](https://diversen.github.io/hack-emulator-js/) - emulator of the computer from [nand2tetris](http://nand2tetris.org), by diversen. ([Source](https://github.com/diversen/hack-emulator-js).)
 - [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
 - [IBM 5110 Emulator](http://members.aon.at/nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
