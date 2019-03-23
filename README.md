@@ -170,6 +170,7 @@ Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.
 - [YAMD](http://yamd.xuanji.li) - Yet Another MIPS Debugger ([Source](https://github.com/zodiac/yamd))
 - [jor1k](http://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
 - [jslm32](http://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
+- [ZUSIE](http://www.nablaman.com/relay/sim/zusie.html) - JavaScript simulation of [Fredrik Andersson's homebrew relay machine](http://www.nablaman.com/relay/) inspired by Zuse's machines.
 
 ## Early machines
 
