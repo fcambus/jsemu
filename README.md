@@ -7,8 +7,6 @@ over the years. If you know about any missing emulators, please consider
 adding them to the collection: the source for this page is available on
 [GitHub](https://github.com/fcambus/jsemu). Thank you in advance.
 
-Lastly, if you are into JavaScript, you might enjoy [Echo JS](http://www.echojs.com/).
-
 ## Acorn
 
 - [Atom Tiny Emu](https://floooh.github.io/tiny8bit/atom.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
