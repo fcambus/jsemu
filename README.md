@@ -19,8 +19,7 @@ adding them to the collection: the source for this page is available on
 
 ## Amstrad
 
-- [CPCBox](http://www.cpcbox.com) - Amstrad CPC emulator in JavaScript
-- [Roland](http://roland.retrolandia.net) - An Amstrad CPC emulator written in JavaScript
+- [CPCBox](http://web.archive.org/web/20130302051242/http://www.cpcbox.com/) - Amstrad CPC emulator in JavaScript (archive link)
 - [CPC Tiny Emu](https://floooh.github.io/tiny8bit/cpc.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 
 ## Apple
