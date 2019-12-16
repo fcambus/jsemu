@@ -89,6 +89,7 @@ adding them to the collection: the source for this page is available on
     * [KC85/2 Tiny Emu](https://floooh.github.io/tiny8bit/kc85.html?type=kc85_2)
     * [KC85/3 Tiny Emu](https://floooh.github.io/tiny8bit/kc85.html?type=kc85_3)
     * [KC85/4 Tiny Emu](https://floooh.github.io/tiny8bit/kc85.html?type=kc85_4)
+- [LC-80](https://floooh.github.io/tiny8bit/lc80.html) - single board U880-based trainer from the DDR (warning: auto-plays sound at boot), via emscripten. By Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [Z1013 Tiny Emu](https://floooh.github.io/tiny8bit/z1013.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [KC87 Tiny Emu](https://floooh.github.io/tiny8bit/z9001.html?type=kc87) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 
