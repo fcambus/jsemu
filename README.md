@@ -21,6 +21,7 @@ adding them to the collection: the source for this page is available on
 
 - [CPCBox](http://web.archive.org/web/20130302051242/http://www.cpcbox.com/) - Amstrad CPC emulator in JavaScript (archive link)
 - [CPC Tiny Emu](https://floooh.github.io/tiny8bit/cpc.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
+- [Roland](https://roland.antoniovillena.es/) - An Amstrad CPC emulator written in JavaScript. ([Source](https://sourceforge.net/p/emuscriptoria/code/HEAD/tree/jcpc.js))
 
 ## Apple
 
@@ -252,7 +253,7 @@ adding them to the collection: the source for this page is available on
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
-- [jupiler](http://jupiler.antoniovillena.es/) - Jupiter Ace emulator written in JavaScript ([Source](https://sourceforge.net/p/emuscriptoria/code/HEAD/tree/jupiler.js))
+- [jupiler](https://jupiler.antoniovillena.es/) - Jupiter Ace emulator written in JavaScript ([Source](https://sourceforge.net/p/emuscriptoria/code/HEAD/tree/jupiler.js))
 - [KM-Z80 web](http://hp.vector.co.jp/authors/VA016157/kmz80web10/kmz80web.html) emulator for Sharp MZ-80K, by Katsumi Morimatsu. GOTO $1200 to start KM-BASIC. ([More information](http://hp.vector.co.jp/authors/VA016157/kmz80web10/))
 - [laser500emu](https://nippur72.github.io/laser500emu) emulator for Video Technology (VTech) Laser 350/500/700, by Antonino Porcino.
 - [Little Man Computer](http://matt.krutar.org/LMC4/) a minimal CPU for teaching - emulator by Matthew Krutar. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
