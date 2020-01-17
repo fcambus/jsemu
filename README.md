@@ -133,6 +133,7 @@ adding them to the collection: the source for this page is available on
 ## PC Emulators
 
 - [Em-DOSBox](https://github.com/dreamlayers/em-dosbox) - An Emscripten port of DOSBox ([Demo](http://playdosgamesonline.com/))
+- [js-dos](https://js-dos.com) - WebAssembly port of DOSBox (fork of Em-DOSBox with better js API) ([Demo](https://js-dos.com/#js-dos-622-demo),[Source](https://github.com/caiiiycuk/js-dos))
 - [JS/Linux](http://bellard.org/jslinux/) - JavaScript PC emulator
 - [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](https://sourceforge.net/projects/jsdosbox/files/))
 - [PCjs](http://www.pcjs.org) - IBM PC Model 5150 emulator
