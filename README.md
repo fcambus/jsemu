@@ -10,7 +10,7 @@ adding them to the collection: the source for this page is available on
 ## Acorn
 
 - [Atom Tiny Emu](https://floooh.github.io/tiny8bit/atom.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
-- [Acorn Atom Emulator](http://phils-place.co.uk/HTeMuLator/atom/) - by Phil Mainwaring. Type "OLD" for an Easter Egg
+- [Acorn Atom Emulator](http://econet.network/atom) - by Phil Mainwaring. Software archive [here](http://econet.network/atom/menu.html). (Older version [here](http://phils-place.co.uk/HTeMuLator/atom/): Type "OLD" for an Easter Egg.)
 - [ElkJS](http://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [JSBeeb](http://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](http://xania.org/Emulation))
 
