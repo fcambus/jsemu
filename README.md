@@ -209,7 +209,7 @@ adding them to the collection: the source for this page is available on
 - [jsEmu48](http://jadegame.com/jsemu48/) - emscripten port by Julien Meyer of HP EMU By Daniel Nilsson. ([Source](https://github.com/brizzly/jsEmu48))
 - [HP-55](http://www.sydneysmith.com/products/hp55u/run/), [HP-65](http://www.sydneysmith.com/wordpress/hp65/) and [HP-67](http://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
 - [мк-61](http://mk-61.moy.su/emulator.html) - Elektronika's programmable calculators MK-61, Б3-34, МК-54, and МК-56, also the Феликс-М (Felix M) arithmometer, a slide rule and an abacus. By Felix Lazarev, Andrey_emu, Sergey Tarasov and others.
-- [Sinclair Scientific](http://www.righto.com/sinclair) and [TI-1500](http://www.righto.com/ti) - calculator simulations including full description of the algorithms and the reverse-engineering process. By Ken Shirriff
+- [Sinclair Scientific](http://www.righto.com/sinclair) and [TI-1500](http://www.righto.com/ti) - calculator simulations including full description of the algorithms and the reverse-engineering process. By Ken Shirriff. Further work by Phil Mainwaring shows [Sinclair Cambridge](http://phils-place.co.uk/calculators/?calc=sc), [TI-1500](http://phils-place.co.uk/calculators/?calc=ti) and [Sinclair Scientific](http://phils-place.co.uk/calculators/?calc=sc), each using different customisations of TI's 080x chip.
 - [TI-42 "MBA" Programmable Calculator](https://www.pcjs.org/devices/ti42/machine/) by Jeff Parsons (PCjs)
 - [TI-55](https://www.pcjs.org/devices/ti55/) by Jeff Parsons (PCjs)
 - [TI-57 Programmable Calculator](https://www.pcjs.org/devices/ti57/machine/) by Jeff Parsons (PCjs)
