@@ -63,6 +63,7 @@ adding them to the collection: the source for this page is available on
 - [PDP-8I emulator](http://www.drakesmith.net/pdp8i.html) running FOCAL,1969 - by "Warlockd"
 - [Javascript PDP 11](http://skn.noip.me/pdp11/pdp11.html) - PDP-11/70 emulator with simulated front panel and a choice of operating systems. By Paul Nankervis
 - [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator running UNIX Sixth Edition. By Julius Schmidt
+  - [with teletype](https://pavel-krivanek.github.io/pdp11/) - PDP-11 emulator with teletype interface
 - [pdp11-js](http://takahirox.github.io/pdp11-js/unixv6.html) - PDP-11 emulator with UNIX V6. By Takahiro Aoyagi ([Source](https://github.com/takahirox/pdp11-js))
 
 ## Nintendo
