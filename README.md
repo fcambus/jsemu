@@ -279,6 +279,7 @@ adding them to the collection: the source for this page is available on
 - [Visual Computer](http://www1.idc.ac.il/vic/software/computer/) a minimal CPU for teaching by Shimon Schocken. ([Web site](https://sites.google.com/site/schocken/thevisualcomputer))
 - [WebMSX](http://webmsx.org/) - WebMSX, or simply WMSX, is a new MSX emulator designed for the Web ([Source](https://github.com/ppeccin/webmsx))
 - [Wireworld computer](https://dested.com/projects/wire/) - Javascript port by Salvatore Aiello of the prime-generating computer implemented in the Wireworld cellular automaton, as described [here](http://www.quinapalus.com/wi-index.html).
+- [WPCEmu](https://github.com/neophob/wpc-emu) - Williams Pinball Emulator by Michael Vogt
 
 ## Adventure Game Engines
 
