@@ -38,6 +38,7 @@ adding them to the collection: the source for this page is available on
 - [EstyJS](https://estyjs.azurewebsites.net) - A pretty fast and functional JavaScript Atari ST emulator ([Source](https://github.com/dmcoles/estyjs))
 - [Javatari.js](http://javatari.org) - Atari 2600 emulator by Paulo Augusto Peccin. ([Example cartridges online](http://www.2600online.com/adventure.html)) ([Source](https://github.com/ppeccin/javatari.js))
 - [jsA8E](http://zerstoerung.de/jsa8e/) - JavaScript version of the A8E Atari 800 XL Emulator
+- [JS7800](https://raz0red.github.io/js7800) - JavaScript Atari 7800 Emulator
 
 ## Commodore
 
