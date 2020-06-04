@@ -47,7 +47,6 @@ adding them to the collection: the source for this page is available on
 - [JSC64](https://www.kingsquare.nl/jsc64/) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
 - [c64js](http://www.c64js.com) - Commodore 64 emulator written in JavaScript by Mikael Borgbrant ([Source](https://github.com/mborgbrant/c64js))
 - [C64 Tiny Emu](https://floooh.github.io/tiny8bit/c64.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
-- [jsSID](http://hermit.sidrip.com/jsSID.html) - SID player with minimal necessary C64 emulation ([Source](https://github.com/hermitsoft/jsSID))
 - [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
 - [VIC-20 Emulator](https://www.mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
@@ -148,11 +147,11 @@ adding them to the collection: the source for this page is available on
 - [8008 running SCELBAL](http://www.xlnsresearch.com/scelbal.htm) by Mark G. Arnold. ("SCELBAL is the only open-source, floating-point, high-level language ever implemented on the 8008")
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
 - [8086tiny running FreeDOS](https://www.netpipe.ca/apps/8086tiny/8086tiny.html) - An Emscriptem port of Adrian Cable's 8086tiny. Source, and other emulators ported by Clay Shippy, at [https://github.com/tecan/emscripten-projects](emscripten-projects).
-- [Angel](https://riscv.org/software-tools/riscv-angel/) - JavaScript RISC-V ISA simulator booting linux in a web-browser ([Source](https://github.com/riscv/riscv-angel))
+- [Angel](https://github.com/riscv/riscv-angel) - JavaScript RISC-V ISA simulator booting Linux in a web-browser
 - [Angular 2 6502](https://github.com/JeremyLikness/6502emulator#readme) written with TypeScript and Angular 2, by Jeremy Likness
 - [ARM-js](https://biged.github.io/arm-js/arm-js.html) - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
 - [ASM80](https://www.asm80.com) - Online assembler for 8-bit microprocessors by Martin Malý. Includes emulation of several machines: 8080, Z80, 6502, 6809. ([Sources](https://github.com/maly))
-- Basic MIPS functional simulator and [Basic MIPS pipelined simulator](http://cdn.imgtec.com/MIPSSimulator/pipeline.html) by Mianzhi Wang (morriswmz). ([Source](https://github.com/morriswmz/SimpleMIPS.js))
+- Basic MIPS functional simulator by Mianzhi Wang (morriswmz). ([Source](https://github.com/morriswmz/SimpleMIPS.js))
 - [Easy6502](https://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
 - [EduMIPS64](https://web.edumips.org/) - [Educational MIPS64 CPU](https://www.edumips.org/), ported from Java by Andrea Spadaccini using GWT (see blog [here](http://edumips64.blogspot.com/2016/06/towards-javascript-port-of-edumips64.html).) ([Source](https://github.com/lupino3/edumips64))
 - [FRISCjs](http://ivanzuzak.info/FRISCjs/webapp/) - an 8-register educational RISC from the University of Zagreb, with both assembler and front panel, by Ivan Žužak. [Source](https://github.com/izuzak/FRISCjs)
@@ -199,7 +198,6 @@ adding them to the collection: the source for this page is available on
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html) (1969)
 - [Kenbak-1](http://www.neocomputer.org/kenbak/kenbak1-JS.html) - John Blankenbaker's TTL-based 256byte personal computer. [More information](http://www.neocomputer.org/kenbak/) (1970)
 - [Ordinapoche](http://nguyen.univ-tln.fr/share/Archi/ordinapoche.html) - A paper computer from France, invented 1969, popularised in 1981 and 1985. ([More here](http://nguyen.univ-tln.fr/ordinapoche.html) and [see also the 1981 magazine](https://www.abandonware-magazines.org/affiche_mag.php?mag=85&num=3809&album=oui))
-- [NRI 832 Emulator](http://www.robsons.org.uk/nri832/index.html?code=0BE00CE0E3C9E04C83E0E70705) by Paul Robson. (See [blog](http://nri832.blogspot.co.uk/2012/07/javascript-nri832-now-running.html) for source.) (1971)
 
 ## Calculator emulators
 
