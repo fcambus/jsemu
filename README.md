@@ -105,6 +105,8 @@ adding them to the collection: the source for this page is available on
 - [JtyOne Online ZX81 Emulator](http://www.zx81stuff.org.uk/zx81/jtyone.html) - by Simon Holdsworth
 - [Qaop/JS](http://torinak.com/qaop) - ZX Spectrum emulator
 - [ZX80 Emulator](https://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
+- [EMF ZX80](http://em.ulat.es/machines/SinclairZX80) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx80))
+- [EMF ZX81](http://em.ulat.es/machines/SinclairZX81) - EMF-based ZX81 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx81))
 - [jBacteria](http://jbacteria.retrolandia.net/) - The smallest JavaScript Spectrum emulator
 - [Science of Cambridge MK14 simulator](http://www.dougrice.plus.com/dev/seg_mk14.htm) - by Doug Rice, based on Paul Robson's offline emulator.
 - [ZX Spectrum 48K Tiny Emy](https://floooh.github.io/tiny8bit/zx.html?type=zx48k) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
@@ -145,6 +147,7 @@ adding them to the collection: the source for this page is available on
 
 - [8008 running SCELBAL](http://www.xlnsresearch.com/scelbal.htm) by Mark G. Arnold. ("SCELBAL is the only open-source, floating-point, high-level language ever implemented on the 8008")
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
+- [EMF Arcade Invaders](http://em.ulat.es/machines/TaitoSpaceInvaders) - EMF-based 8080 Emulator with Space Invaders ROM - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-arcade_invaders))
 - [8086tiny running FreeDOS](https://www.netpipe.ca/apps/8086tiny/8086tiny.html) - An Emscriptem port of Adrian Cable's 8086tiny. Source, and other emulators ported by Clay Shippy, at [https://github.com/tecan/emscripten-projects](emscripten-projects).
 - [Angel](https://github.com/riscv/riscv-angel) - JavaScript RISC-V ISA simulator booting Linux in a web-browser
 - [Angular 2 6502](https://github.com/JeremyLikness/6502emulator#readme) written with TypeScript and Angular 2, by Jeremy Likness
@@ -183,6 +186,7 @@ adding them to the collection: the source for this page is available on
 - [JsSSEM](http://edmundgriffiths.com/jsssem.html) - Manchester Small-Scale Experimental Machine emulator (Also check [Computer/zero](http://www.edmundgriffiths.com/czero.html) which is very loosely based on the SSEM, and its [tutorial](http://www.edmundgriffiths.com/degreezero.html)) (1948)
 - [C88](https://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931)) (1948)
 - [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](https://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf)) (1949)
+- [EMF Elliott](http://em.ulat.es/machines/Elliott903) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-elliott-903))
 - [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e)) (1951)
 - [UNIVAC I emulator](https://www.masswerk.at/virtualunivac/) - JavaScript emulator by Norbert Landsteiner (1951)
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData-205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
@@ -236,6 +240,8 @@ adding them to the collection: the source for this page is available on
 - [Chip-8 virtual machine](https://biged.github.io/Chip-8-Emulator/) by Alexander Dickson - see [blog entry](http://blog.alexanderdickson.com/javascript-chip-8-emulator)
 - [Chip-8 virtual machine](http://pachisystems.com/JSEmu/chip8.html) by Brian Milton ([Source](https://github.com/PachiSystems/JSEmu) may target several CPUs)
 - [Chip8 1k](https://xem.github.io/chip8/) - a code-golfed chip 8 emulator in 1k by Maxime Euzière and others
+- [EMF Chip 8](http://em.ulat.es/machines/Chip8) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-chip-8))
+- [EMF Megaprocessor](http://em.ulat.es/machines/Megaprocessor) - EMF-based Megaprocessor Emulator - by Steven Goodwin (@MarquisdeGeek) of the room-sized machine built by James Newman and housed in the Museum of Computing History, in Cambridge, England. ([Source](https://github.com/MarquisdeGeek/emf-emulator-megaprocessor))
 - [Merry8](https://github.com/doodlewind/merry8) - JavaScript Chip-8 emulator by Yifeng Wang
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
 - [Compukit UK101](http://www.avoncliff.com/uk101/) - by David Stevenson
@@ -243,6 +249,8 @@ adding them to the collection: the source for this page is available on
 - [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Dodo Playground](https://play.dodolabs.io/?code=51447f62) - IDE and simulator for 6502-based Dodo homebrew game system by Peter Noyes
+- [EMF Dragon](http://em.ulat.es/machines/Dragon32) - EMF-based Dragon Emulator - by Steven Goodwin (@MarquisdeGeek)
+- [EMF Jupiter Ace](http://em.ulat.es/machines/JupiterAce) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-jupiter-ace))
 - [Enterprise-128 JavaScript Emulator](http://ep.lgb.hu/jsep/demo/?autostart=yes) - by Gábor Lénárt "LGB", based on JSSpeccy
 - [ESP8266 Game Engine](https://corax89.github.io/esp8266Game/index.html) - a console-game-oriented virtual machine running on ESP8266, by Corax. ([Source](https://github.com/corax89/esp8266_game_engine))
 - [Hack](https://diversen.github.io/hack-emulator-js/) - emulator of the computer from [nand2tetris](https://nand2tetris.org), by diversen. ([Source](https://github.com/diversen/hack-emulator-js).)
