@@ -60,7 +60,7 @@ adding them to the collection: the source for this page is available on
 - [PDP-1 running the SpaceWar game](https://www.masswerk.at/spacewar/) and the [Minskytron demo](https://www.masswerk.at/minskytron/) - by Norbert Landsteiner
 - [PDP-8](https://programmer209.wordpress.com/2011/01/30/pdp-8-assembly-language-part-2/) and [PDP-11](https://programmer209.wordpress.com/2011/08/14/pdp-11-assembly-language-simulator/) simulators with assembly language interfaces (explanatory articles with full source, not live site) - by programmer209
 - [PDP-8I emulator](http://www.drakesmith.net/pdp8i.html) running FOCAL,1969 - by "Warlockd"
-- [Javascript PDP 11](https://skn.noip.me/pdp11/pdp11.html) - PDP-11/70 emulator with simulated front panel and a choice of operating systems. By Paul Nankervis
+- [JavaScript PDP 11](https://skn.noip.me/pdp11/pdp11.html) - PDP-11/70 emulator with simulated front panel and a choice of operating systems. By Paul Nankervis
 - [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator running UNIX Sixth Edition. By Julius Schmidt
   - [with teletype](https://pavel-krivanek.github.io/pdp11/) - PDP-11 emulator with teletype interface
 - [pdp11-js](https://takahirox.github.io/pdp11-js/unixv6.html) - PDP-11 emulator with UNIX V6. By Takahiro Aoyagi ([Source](https://github.com/takahirox/pdp11-js))
@@ -120,7 +120,7 @@ adding them to the collection: the source for this page is available on
 
 - [CloudT TRS-80 Model 100 Emulator](https://bitchin100.com/CloudT/#/M100Display) - by John R. Hogerhuis ([Announcement](https://www.mail-archive.com/m100@lists.bitchin100.com/msg02714.html))
 - [MC-10 Emulator](http://mc-10.com/) - Emulator for the TRS-80 MC-10 microcomputer
-- [TRS-80 Model III Emulator](http://trsjs.48k.ca/trs80.html) a Javascript emulator for the TRS-80 Model III, by Peter Phillips
+- [TRS-80 Model III Emulator](http://trsjs.48k.ca/trs80.html) a JavaScript emulator for the TRS-80 Model III, by Peter Phillips
 - [JS Mocha](http://www.haplessgenius.com/mocha/) - The HTML5 CoCo 2 Emulator
 - [jTandy](http://jtandy.retrolandia.net) - Another JavaScript TRS-80 emulator
 
@@ -129,7 +129,7 @@ adding them to the collection: the source for this page is available on
 - [JSMESS examples](https://archive.org/details/historicalsoftware) - The JavaScript MESS (Multi Emulator Super System) ([Source](https://github.com/jsmess/jsmess)) ([Notes](https://github.com/jsmess/jsmess/wiki))
 - [PCE](https://github.com/jsdf/pce) - PC emulators in JavaScript (Atari ST, [IBM PC 5150](https://jamesfriend.com.au/pce-js/ibmpc-win/), [Macintosh](https://jamesfriend.com.au/pce-js/), RC759 Piccoline)
 - [RetroArch](https://toadking.com/retroarch/) - JavaScript port of RetroArch (bundles Gambatte (Gameboy), Genesis Plus GX, Handy (Lynx), Snes9x Next, VBA Next (GameBoy Advance), Tyrquake and FinalBurn Alpha)
-- [RetroWeb](http://retroweb.maclab.org) - collection of Javascript emulators and boot media, including Apple-IIe (VisiCalc), Macintosh (System 1.0), Atari 1040ST, Commodore 64, Amiga 500 (Workbench 1.3), IBM PC Model 5150 (PC-DOS, CP/M-86, Cassette Basic), IBM PC XT (DOS, GEM 1.2, VisiCalc, Windows 1.01, 8088 Corruption demo), RC759 Piccoline (Eliza, Bil-simulation, Concurrent CP/M-86), TRS-80.
+- [RetroWeb](http://retroweb.maclab.org) - collection of JavaScript emulators and boot media, including Apple-IIe (VisiCalc), Macintosh (System 1.0), Atari 1040ST, Commodore 64, Amiga 500 (Workbench 1.3), IBM PC Model 5150 (PC-DOS, CP/M-86, Cassette Basic), IBM PC XT (DOS, GEM 1.2, VisiCalc, Windows 1.01, 8088 Corruption demo), RC759 Piccoline (Eliza, Bil-simulation, Concurrent CP/M-86), TRS-80.
 - [YAKC](https://floooh.github.io/virtualkc/) - Z1013, Z9001, KC85/2 family, Speccy, CPC, Acorn Atom, C64, with integrated debugging UI ([source](https://github.com/floooh/yakc))
 - [Tiny Emulators](https://floooh.github.io/tiny8bit/) -  based on the same chip- and system-emulator source code as YAKC, but as minimal WASM apps without fluff ([source](https://github.com/floooh/chips-test))
 
@@ -219,7 +219,7 @@ adding them to the collection: the source for this page is available on
 - [TI-55](https://www.pcjs.org/devices/ti55/) by Jeff Parsons (PCjs)
 - [TI-57 Programmable Calculator](https://www.pcjs.org/devices/ti57/machine/) by Jeff Parsons (PCjs)
 - [TI-92 Plus emulator](https://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
-- [Javascript TI-89 / TI-92+ / TI-V200 / TI-89T emulator](https://tiplanet.org/emu68k_fork/) - by Patrick Davidson and Lionel Debroux
+- [JavaScript TI-89 / TI-92+ / TI-V200 / TI-89T emulator](https://tiplanet.org/emu68k_fork/) - by Patrick Davidson and Lionel Debroux
 
 ### Workalike calculators
 
@@ -285,7 +285,7 @@ adding them to the collection: the source for this page is available on
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
 - [Visual Computer](http://www1.idc.ac.il/vic/software/computer/) a minimal CPU for teaching by Shimon Schocken. ([Web site](https://sites.google.com/site/schocken/thevisualcomputer))
 - [WebMSX](https://webmsx.org/) - WebMSX, or simply WMSX, is a new MSX emulator designed for the Web ([Source](https://github.com/ppeccin/webmsx))
-- [Wireworld computer](https://dested.com/projects/wire/) - Javascript port by Salvatore Aiello of the prime-generating computer implemented in the Wireworld cellular automaton, as described [here](https://www.quinapalus.com/wi-index.html).
+- [Wireworld computer](https://dested.com/projects/wire/) - JavaScript port by Salvatore Aiello of the prime-generating computer implemented in the Wireworld cellular automaton, as described [here](https://www.quinapalus.com/wi-index.html).
 - [WPCEmu](https://github.com/neophob/wpc-emu) - Williams Pinball Emulator by Michael Vogt
 
 ## Adventure Game Engines
