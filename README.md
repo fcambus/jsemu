@@ -207,12 +207,12 @@ adding them to the collection: the source for this page is available on
 
 ### Microcode-level calculators
 
-- [HP21u](http://www.sydneysmith.com/products/hp21u/run/index.html), [HP25u](http://www.sydneysmith.com/products/hp25u/run/index.html), and [HP29u](http://www.sydneysmith.com/products/hp29u/run/index.html) - by Greg Sydney-Smith
+- [HP21u](https://www.sydneysmith.com/products/hp21u/run/index.html), [HP25u](https://www.sydneysmith.com/products/hp25u/run/index.html), and [HP29u](https://www.sydneysmith.com/products/hp29u/run/index.html) - by Greg Sydney-Smith
 - [HP-35](https://ashleyf.github.io/HP35/) - bug-compatible emulator by Ashley Feniello [explained here](https://blogs.msdn.microsoft.com/ashleyf/2010/09/25/microcode-level-hp-35-emulator-in-javascript/) using [Eric Smith](https://nonpareil.brouhaha.com/)'s and [Jacques Laporte](http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
 - [HP-35, HP-45, HP-55, HP-65, HP-80](http://home.citycable.ch/pierrefleur/HP-Classic/HP-Classic.html) - collection of HP Classics, based on Feniello's work, by Francois Roulet
 - [HP-45](http://members.aon.at/nkehrer/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
-- [jsEmu48](http://jadegame.com/jsemu48/) - emscripten port by Julien Meyer of HP EMU By Daniel Nilsson. ([Source](https://github.com/brizzly/jsEmu48))
-- [HP-55](http://www.sydneysmith.com/products/hp55u/run/), [HP-65](http://www.sydneysmith.com/wordpress/hp65/) and [HP-67](http://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
+- [jsEmu48](https://jadegame.com/jsemu48/) - emscripten port by Julien Meyer of HP EMU By Daniel Nilsson. ([Source](https://github.com/brizzly/jsEmu48))
+- [HP-55](https://www.sydneysmith.com/products/hp55u/run/), [HP-65](https://www.sydneysmith.com/wordpress/hp65/) and [HP-67](https://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
 - [мк-61](http://mk-61.moy.su/emulator.html) - Elektronika's programmable calculators MK-61, Б3-34, МК-54, and МК-56, also the Феликс-М (Felix M) arithmometer, a slide rule and an abacus. By Felix Lazarev, Andrey_emu, Sergey Tarasov and others.
 - [Sinclair Scientific](https://files.righto.com/sinclair) and [TI-1500](https://files.righto.com/ti) - calculator simulations including full description of the algorithms and the reverse-engineering process. By Ken Shirriff. Further work by Phil Mainwaring shows [Sinclair Cambridge](http://phils-place.co.uk/calculators/?calc=sc), [TI-1500](http://phils-place.co.uk/calculators/?calc=ti) and [Sinclair Scientific](http://phils-place.co.uk/calculators/?calc=sc), each using different customisations of TI's 080x chip.
 - [TI-42 "MBA" Programmable Calculator](https://www.pcjs.org/devices/ti42/machine/) by Jeff Parsons (PCjs)
@@ -257,7 +257,7 @@ adding them to the collection: the source for this page is available on
 - [Hack](https://diversen.github.io/hack-emulator-js/) - emulator of the computer from [nand2tetris](https://nand2tetris.org), by diversen. ([Source](https://github.com/diversen/hack-emulator-js).)
 - [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
 - [IBM 5110 Emulator](http://members.aon.at/nkehrer/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
-- [JS99'er](http://js99er.net/) - TI-99/4A emulator written in JavaScript ([Source](https://github.com/Rasmus-M/Js99er))
+- [JS99'er](https://js99er.net/) - TI-99/4A emulator written in JavaScript ([Source](https://github.com/Rasmus-M/Js99er))
 - [jsH89](http://heathkit.garlanger.com/emulator/jsH89/) - Heathkit H89 emulator (runs CP/M) by Mark Garlanger
 - JSGS - Experimental JavaScript implementation of the Pico-8 fantasy console ([Source](https://github.com/burakcan/jsgs))
 - [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
@@ -268,7 +268,7 @@ adding them to the collection: the source for this page is available on
 - [laser500emu](https://nippur72.github.io/laser500emu/) emulator for Video Technology (VTech) Laser 350/500/700, by Antonino Porcino.
 - [Little Man Computer](http://matt.krutar.org/LMC4/) a minimal CPU for teaching - emulator by Matthew Krutar. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
 - [Little Man Computer](https://blog.paulhankin.net/lmc/lmc.html) a minimal CPU for teaching - emulator by Paul Hankin. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
-- [Little Man Computer](http://peterhigginson.co.uk/LMC/) a minimal CPU for teaching - emulator by Peter Higginson. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
+- [Little Man Computer](https://peterhigginson.co.uk/LMC/) a minimal CPU for teaching - emulator by Peter Higginson. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
 - [Machine in a machine](https://js1k.com/2010-first/details/455) - Turing Machine Implementation in 1k from the [JS1k competition](https://js1k.com/)
 - [Marmmodore-1K](https://js1k.com/2016-elemental/details/2415) - minimal 8-bit computer in 1k by Felipe Alfonso
 - [NanoWasp](http://nanowasp.org) - A MicroBee emulator
@@ -279,7 +279,7 @@ adding them to the collection: the source for this page is available on
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
 - [RISC Simulator](https://www.peterhigginson.co.uk/RISC/) - RISC Simulator with Fetch/Execute and register based CPU model, by Peter Higginson
 - [RockyJS](https://pebble.github.io/rockyjs/) - Pebble watch interpreter/emulator
-- [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
+- [Radio-86RK](https://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
 - [Setunka](http://www.edmundgriffiths.com/setunka.html) - Ternary computing for the browser
 - [SAP-1](https://ellisgl.github.io/SAP-1-CPU/) JavaScript emulation of the Simple As Possible TTL machine from Malvino's book, Digital Computer Electronics. By Kenneth Ellis McCall. ([Source](https://github.com/ellisgl/SAP-1-CPU))
 - [Turbo Pascal](https://github.com/lkesteloot/turbopascal) - A web-based Pascal compiler that runs a subset of Turbo Pascal 5.5 code
