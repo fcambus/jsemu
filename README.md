@@ -277,6 +277,7 @@ adding them to the collection: the source for this page is available on
 - [Orao](http://orao.hrvoje.org/) - Orao emulator by Hrvoje Cavrak ([More information](https://github.com/hrvach/OraoJs))
 - [Oricutron](https://torguet.net/oric/Oricutron.html) - An emulator for the ORIC series of home computers, by Peter Gordon ([Source](https://github.com/pete-gordon/oricutron))
 - PC-01 Lviv - An emulator for the PC-01 Lviv (Ukrainian home computer) ([Source](https://github.com/dolgarev/emulator-pc01-lviv))
+- [RISC Simulator](https://www.peterhigginson.co.uk/RISC/) - RISC Simulator with Fetch/Execute and register based CPU model, by Peter Higginson
 - [RockyJS](https://pebble.github.io/rockyjs/) - Pebble watch interpreter/emulator
 - [Radio-86RK](http://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
 - [Setunka](http://www.edmundgriffiths.com/setunka.html) - Ternary computing for the browser
