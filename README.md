@@ -171,6 +171,7 @@ adding them to the collection: the source for this page is available on
 - [Visual ARM1](http://visual6502.org/sim/varm/armgl.html) - JavaScript/WebGL for ARM's first CPU, modelling 25000 transistors at switch level and animating the original chip layout - in 3D. See [the blog post](http://blog.visual6502.org/2015/11/the-visual-arm1.html)
 - [Visual 6502](http://www.visual6502.org/JSSim/) - JavaScript simulator for the 6502 CPU, modelling thousands of transistors at switch level and animating the original chip layout. See also [expert mode](http://www.visual6502.org/JSSim/expert.html?steps=10).
 - [Visual 6800](http://www.visual6502.org/JSSim/expert-6800.html?steps=10) - JavaScript simulator for the Motorola 6800 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
+- [Visual Z80](http://www.visual6502.org/JSSim/expert-z80.html) - JavaScript simulator for the Z80 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
 - [Visulator](http://thlorenz.com/visulator/) - x86 machine emulator that visualizes how each instruction is processed ([Source](https://github.com/thlorenz/visulator))
 - [YAMD](http://yamd.xuanji.li) - Yet Another MIPS Debugger ([Source](https://github.com/zodiac/yamd))
 - [jor1k](https://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
