@@ -107,7 +107,6 @@ adding them to the collection: the source for this page is available on
 - [ZX80 Emulator](https://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
 - [EMF ZX80](http://em.ulat.es/machines/SinclairZX80) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx80))
 - [EMF ZX81](http://em.ulat.es/machines/SinclairZX81) - EMF-based ZX81 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx81))
-- [jBacteria](http://jbacteria.retrolandia.net/) - The smallest JavaScript Spectrum emulator
 - [Science of Cambridge MK14 simulator](http://www.dougrice.plus.com/dev/seg_mk14.htm) - by Doug Rice, based on Paul Robson's offline emulator.
 - [ZX Spectrum 48K Tiny Emy](https://floooh.github.io/tiny8bit/zx.html?type=zx48k) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [ZX Spectrum 128 Tiny Emu](https://floooh.github.io/tiny8bit/zx.html?type=zx128) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
