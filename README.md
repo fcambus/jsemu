@@ -282,6 +282,7 @@ adding them to the collection: the source for this page is available on
 - [Radio-86RK](https://rk86.ru) Radio-86RK emulator in JavaScript (Intel 8080 based 8-bit Russian home computer) ([Source](https://github.com/begoon/rk86-js))
 - [Setunka](http://www.edmundgriffiths.com/setunka.html) - Ternary computing for the browser
 - [SAP-1](https://ellisgl.github.io/SAP-1-CPU/) JavaScript emulation of the Simple As Possible TTL machine from Malvino's book, Digital Computer Electronics. By Kenneth Ellis McCall. ([Source](https://github.com/ellisgl/SAP-1-CPU))
+- [Tejotron](https://www.tejotron.com/) - Virtual breadboard, inspired by Ben Eater's 6502 computer
 - [Turbo Pascal](https://github.com/lkesteloot/turbopascal) - A web-based Pascal compiler that runs a subset of Turbo Pascal 5.5 code
 - [Vector06js](http://sensi.org/scalar/ware/468/) - Vector-06C (AKA Вектор-06Ц) JavaScript emulator by Viacheslav Slavinsky. Also runnable [here](https://svofski.github.io/vector06js/). ([Source](https://github.com/svofski/vector06js).)
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
