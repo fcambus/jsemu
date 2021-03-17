@@ -59,7 +59,6 @@ adding them to the collection: the source for this page is available on
 
 - [PDP-1 running the SpaceWar game](https://www.masswerk.at/spacewar/) and the [Minskytron demo](https://www.masswerk.at/minskytron/) - by Norbert Landsteiner
 - [PDP-8](https://programmer209.wordpress.com/2011/01/30/pdp-8-assembly-language-part-2/) and [PDP-11](https://programmer209.wordpress.com/2011/08/14/pdp-11-assembly-language-simulator/) simulators with assembly language interfaces (explanatory articles with full source, not live site) - by programmer209
-- [PDP-8I emulator](http://www.drakesmith.net/pdp8i.html) running FOCAL,1969 - by "Warlockd"
 - [JavaScript PDP 11](https://skn.noip.me/pdp11/pdp11.html) - PDP-11/70 emulator with simulated front panel and a choice of operating systems. By Paul Nankervis
 - [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator running UNIX Sixth Edition. By Julius Schmidt
   - [with teletype](https://pavel-krivanek.github.io/pdp11/) - PDP-11 emulator with teletype interface
@@ -121,7 +120,6 @@ adding them to the collection: the source for this page is available on
 - [MC-10 Emulator](http://mc-10.com/) - Emulator for the TRS-80 MC-10 microcomputer
 - [TRS-80 Model III Emulator](http://trsjs.48k.ca/trs80.html) a JavaScript emulator for the TRS-80 Model III, by Peter Phillips
 - [JS Mocha](http://www.haplessgenius.com/mocha/) - The HTML5 CoCo 2 Emulator
-- [jTandy](http://jtandy.retrolandia.net) - Another JavaScript TRS-80 emulator
 
 ## Multi-system Emulators
 
@@ -188,7 +186,7 @@ adding them to the collection: the source for this page is available on
 - [C88](https://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931)) (1948)
 - [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](https://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf)) (1949)
 - [EMF Elliott](http://em.ulat.es/machines/Elliott903) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-elliott-903))
-- [WITCH Emulator](http://emulator.witch-e.org/) - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e)) (1951)
+- WITCH Emulator - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e)) (1951)
 - [UNIVAC I emulator](https://www.masswerk.at/virtualunivac/) - JavaScript emulator by Norbert Landsteiner (1951)
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData-205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
 - [TX-0](https://www.wizforest.com/tech/tx-0/#) emulator by @wizforest, including several programs from the time. ([Instructions](https://www.wizforest.com/tech/tx-0/manual.html)) (1956)
