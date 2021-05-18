@@ -113,6 +113,7 @@ adding them to the collection: the source for this page is available on
 ## Sony
 - PSeudo - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) (needs boot ROM image, not supplied) ([Source](https://github.com/dkoluris/pseudo))
 - [PCSXjs](https://tjwei.github.io/pcsxjs/) - Modified PCSX-Reloaded compiled with Emscripten ([Source](https://github.com/tjwei/pcsxjs))
+- [WASMpsx](https://github.com/Unzor/WASMpsx) - Easily embeddable fork of PCSXjs
 
 ## Tandy
 
