@@ -30,6 +30,8 @@ adding them to the collection: the source for this page is available on
 - [Apple IIjs](https://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
 - [a2](https://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator
 - [Apple2JS](https://github.com/gmegidish/apple2js) - A JavaScript emulator for the Apple II
+- [BasiliskII](https://github.com/jsdf/macemu) - An Emscripten Port of BasiliskII ([Demo 1](https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html), [Demo 2](http://macintosh-js-html.herokuapp.com/))
+- [MiniVMac-Em](https://github.com/yksoft1/minivmac-em) - An Emscripten Port of MiniVMac ([Demo](https://www.gryphel.com/c/minivmac/index.html))
 - [Yet Another Apple 2+ in JavaScript](http://www.skibo.net/6502/apple2/) - by Thomas Skibo
 
 ## Atari
@@ -67,6 +69,7 @@ adding them to the collection: the source for this page is available on
 ## Nintendo
 
 - [1964js](https://github.com/schibo/1964js) - JavaScript port of the 1964 N64 emulator for Windows
+- [CfxNES](https://github.com/jpikl/cfxnes) - JavaScript NES Emulator ([Demo](https://cfxnes.herokuapp.com/))
 - [CycloaJS](https://app.7io.org/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
 - [em-fceux](https://bitbucket.org/tsone/em-fceux) - an Emscripten port of FCEUX, an emulator of NES, Famicom, Famicom Disk System (FDS), and Dendy consoles. [Demo site](https://tsone.kapsi.fi/em-fceux/)
 - [GBA.js](https://endrift.github.io/gbajs/) - Game Boy Advance in the Browser ([Source](https://github.com/endrift/gbajs))
@@ -134,11 +137,13 @@ adding them to the collection: the source for this page is available on
 ## PC Emulators
 
 - [Em-DOSBox](https://github.com/dreamlayers/em-dosbox) - An Emscripten port of DOSBox ([Demo](http://playdosgamesonline.com/))
+- [Halfix](https://github.com/nepx/halfix/) - x86 PC emulator that runs both natively and in the browser, via WebAssembly ([Demo 1](https://nepx.github.io/halfix-demo/), [Demo2](https://pixelsuft.github.io/onwin/))
 - [js-dos](https://js-dos.com) - WebAssembly port of DOSBox (fork of Em-DOSBox with better js API) ([Demo](https://js-dos.com/#js-dos-622-demo),[Source](https://github.com/caiiiycuk/js-dos))
 - [JS/Linux](https://bellard.org/jslinux/) - JavaScript PC emulator
 - [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](https://sourceforge.net/projects/jsdosbox/files/))
-- [PCjs](https://www.pcjs.org) - IBM PC Model 5150 emulator
-- [Virtual x86](https://copy.sh/v86/) - An x86 emulator written in JavaScript ([Source](https://github.com/copy/v86))
+- [PCjs](https://www.pcjs.org) - IBM PC Model 5150 emulator ([Source](https://github.com/jeffpar/pcjs))
+- [QemuJS](https://github.com/atrosinenko/qemujs) - An Emscripten port of QEMU ([Demo](https://atrosinenko.github.io/qemujs-demo))
+- [Virtual x86](https://copy.sh/v86/) - x86 virtualization in your browser, recompiling x86 to wasm on the fly ([Source](https://github.com/copy/v86))
 - [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
 - jsbochs - Bochs PC emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
 
