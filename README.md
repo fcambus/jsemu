@@ -31,7 +31,7 @@ adding them to the collection: the source for this page is available on
 - [a2](https://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator
 - [Apple2JS](https://github.com/gmegidish/apple2js) - A JavaScript emulator for the Apple II
 - [BasiliskII](https://github.com/jsdf/macemu) - An Emscripten Port of BasiliskII ([Demo 1](https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html), [Demo 2](http://macintosh-js-html.herokuapp.com/))
-- [MiniVMac-Em](https://github.com/yksoft1/minivmac-em) - An Emscripten Port of MiniVMac ([Demo](https://www.gryphel.com/c/minivmac/index.html))
+- [MiniVMac-Em](https://github.com/yksoft1/minivmac-em) - An Emscripten Port of MiniVMac ([Demo](https://yksoft1.github.io/mvmacdemo.html))
 - [Yet Another Apple 2+ in JavaScript](http://www.skibo.net/6502/apple2/) - by Thomas Skibo
 
 ## Atari
