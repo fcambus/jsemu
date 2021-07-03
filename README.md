@@ -114,6 +114,7 @@ adding them to the collection: the source for this page is available on
 - [ZX Spectrum 128 Tiny Emu](https://floooh.github.io/tiny8bit/zx.html?type=zx128) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 
 ## Sony
+- [eNGE](https://kootstra-rene.github.io/enge-js/) - JavaScript browser based PSX emulator (runs games at full speed) ([Source](https://github.com/kootstra-rene/enge-js))
 - PSeudo - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) (needs boot ROM image, not supplied) ([Source](https://github.com/dkoluris/pseudo))
 - [PCSXjs](https://tjwei.github.io/pcsxjs/) - Modified PCSX-Reloaded compiled with Emscripten ([Source](https://github.com/tjwei/pcsxjs))
 - [WASMpsx](https://github.com/Unzor/WASMpsx) - Easily embeddable fork of PCSXjs
