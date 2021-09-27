@@ -73,6 +73,7 @@ adding them to the collection: the source for this page is available on
 - [CycloaJS](https://app.7io.org/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
 - [em-fceux](https://bitbucket.org/tsone/em-fceux) - an Emscripten port of FCEUX, an emulator of NES, Famicom, Famicom Disk System (FDS), and Dendy consoles. [Demo site](https://tsone.kapsi.fi/em-fceux/)
 - [GBA.js](https://endrift.github.io/gbajs/) - Game Boy Advance in the Browser ([Source](https://github.com/endrift/gbajs))
+- [GLupeN64](https://github.com/gizmo98/GLupeN64) - wasm emulator based from [mupen64plus](https://github.com/mupen64plus/mupen64plus-core) + [RSP-HLE](https://github.com/mupen64plus/mupen64plus-rsp-hle) + [GLideN64](https://github.com/gonetz/GLideN64) + [libretro](http://www.libretro.com/)
 - [IodineGBA](https://taisel.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/taisel/IodineGBA))
 - [gba.ninja](https://gba.ninja/) - JavaScript port of VisualBoyAdvance-M, a GameBoy Advance emulator ([Source](https://github.com/simon-paris/gba.ninja))
 - [JSNES](https://jsnes.org) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
