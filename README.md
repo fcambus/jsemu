@@ -300,7 +300,7 @@ adding them to the collection: the source for this page is available on
 
 ## Adventure Game Engines
 
-- [Emscripten ScummVM](http://clb.demon.fi/html5scummvm/) - Emscripten fork of the ScummVM engine ([Source](https://github.com/juj/emscripten-scummvm))
+- [Emscripten ScummVM](https://github.com/juj/emscripten-scummvm) - Emscripten fork of the ScummVM engine
 - [IFVMS](https://github.com/curiousdannii/ifvms.js) - Infocom/Inform Web interpreter
 - [Parchment](https://github.com/curiousdannii/parchment) - Infocom/Inform Web interpreter
 - [ZZTJS](https://github.com/bstreiff/zztjs) - ZZT game engine in JavaScript
