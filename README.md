@@ -78,6 +78,7 @@ adding them to the collection: the source for this page is available on
 - [JSNES](https://jsnes.org) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - [NESNES](http://koen.kivits.com/nesnes/) - JavaScript NES emulator, also available as a [web component](https://github.com/koenkivits/x-nes) ([Source](https://github.com/koenkivits/nesnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
+- [N64Wasm](https://neilb.net/n64wasm/) - A web based N64 Emulator ([Source](https://github.com/nbarkhina/N64Wasm))
 - [XNES](https://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulators  ([Source](https://github.com/tjwei/xnes))
 - jsGB - A GameBoy emulator in JavaScript ([Source](https://github.com/Two9A/jsGB))
 - [jsGBC](https://ardean.github.io/jsGBC-web/) - GameBoy Color Emulator written in JavaScript ([Source](https://github.com/ardean/jsGBC))
