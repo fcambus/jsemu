@@ -148,6 +148,7 @@ adding them to the collection: the source for this page is available on
 - [Virtual x86](https://copy.sh/v86/) - x86 virtualization in your browser, recompiling x86 to wasm on the fly ([Source](https://github.com/copy/v86))
 - [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
 - jsbochs - Bochs PC emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
+- [Boxedwine](http://www.boxedwine.org/) - An emulator that runs Windows applications using Wine and emulating a Linux kernel and CPU ([Source](https://github.com/danoon2/Boxedwine))
 
 ## Bare CPUs
 
