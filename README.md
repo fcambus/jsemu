@@ -127,6 +127,10 @@ adding them to the collection: the source for this page is available on
 - [TRS-80 Model III Emulator](http://trsjs.48k.ca/trs80.html) a JavaScript emulator for the TRS-80 Model III, by Peter Phillips
 - [JS Mocha](http://www.haplessgenius.com/mocha/) - The HTML5 CoCo 2 Emulator
 
+## VTech
+
+- [Laser 500 Emulator](https://github.com/nippur72/laser500emu) - by nippur72
+
 ## Multi-system Emulators
 
 - [JSMESS examples](https://archive.org/details/historicalsoftware) - The JavaScript MESS (Multi Emulator Super System) ([Source](https://github.com/jsmess/jsmess)) ([Notes](https://github.com/jsmess/jsmess/wiki))
