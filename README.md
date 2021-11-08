@@ -129,7 +129,7 @@ adding them to the collection: the source for this page is available on
 
 ## VTech
 
-- [Laser 500 Emulator](https://github.com/nippur72/laser500emu) - by nippur72
+- [Laser 500 Emulator](https://github.com/nippur72/laser500emu) - A Laser 500 Emulator by nippur72
 
 ## Multi-system Emulators
 
