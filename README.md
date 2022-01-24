@@ -85,6 +85,8 @@ adding them to the collection: the source for this page is available on
 - [mupen64plus](https://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the Web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
 - [n64js](https://hulkholden.github.io/n64js/) - An N64 emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
 - [pinky](https://koute.github.io/pinky-web/) - A Rust based NES emulator ported to the web via WebAssembly ([Source](https://github.com/koute/pinky/tree/master/pinky-web))
+- [DeSmuME-wasm](https://github.com/44670/desmume-wasm) - A WebAssembly port of the DeSmuME Nintendo DS emulator ([Demo](https://ds.44670.org/))
+- [Desmond.js](https://github.com/Unzor/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://unzor.github.io/desmond/))
 
 ## Robotron / VEB Mikroelektronik
 
