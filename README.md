@@ -86,7 +86,7 @@ adding them to the collection: the source for this page is available on
 - [n64js](https://hulkholden.github.io/n64js/) - An N64 emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
 - [pinky](https://koute.github.io/pinky-web/) - A Rust based NES emulator ported to the web via WebAssembly ([Source](https://github.com/koute/pinky/tree/master/pinky-web))
 - [DeSmuME-wasm](https://github.com/44670/desmume-wasm) - A WebAssembly port of the DeSmuME Nintendo DS emulator ([Demo](https://ds.44670.org/))
-- [Desmond.js](https://github.com/Unzor/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://unzor.github.io/desmond/))
+- [Desmond.js](https://github.com/Unzor/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://js-emulators.github.io/desmond/))
 
 ## Robotron / VEB Mikroelektronik
 
@@ -120,7 +120,7 @@ adding them to the collection: the source for this page is available on
 - [eNGE](https://kootstra-rene.github.io/enge-js/) - JavaScript browser based PSX emulator (runs games at full speed) ([Source](https://github.com/kootstra-rene/enge-js))
 - PSeudo - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) (needs boot ROM image, not supplied) ([Source](https://github.com/dkoluris/pseudo))
 - [PCSXjs](https://tjwei.github.io/pcsxjs/) - Modified PCSX-Reloaded compiled with Emscripten ([Source](https://github.com/tjwei/pcsxjs))
-- [WASMpsx](https://github.com/Unzor/WASMpsx) - Easily embeddable fork of PCSXjs
+- [WASMpsx](https://github.com/js-emulators/WASMpsx) - Easily embeddable fork of PCSXjs
 
 ## Tandy
 
