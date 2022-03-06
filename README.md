@@ -174,6 +174,7 @@ adding them to the collection: the source for this page is available on
 - [Mipsdis](http://blog.loadzero.com/demo/mipsdis/demo.html) - MIPS disassembler that runs in the browser
 - [RISC Relay Computer](https://www.enscope.nl/rrca/) - Relay based computer project with a 16 bit RISC CPU. Emulator includes an assembler and source for a calculator program. By RJH. See [website](http://www.enscope.nl/rrc).
 - [RISCVEMU](https://bellard.org/riscvemu/js/) - RISC-V emulator boots 64-bit Linux. By Fabrice Bellard.
+- [RP2040js](https://wokwi.com/arduino/projects/297323005822894602) - Raspberry Pi Pico (RP2040 / Arm Cortex-M0+) emulator with C/C++/MicroPython/CircuitPython support ([Source](https://github.com/wokwi/rp2040js))
 - [Simple 8-bit Assembler Simulator](https://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
 - uARM.wasm - ARMv5TE emulator running Linux in browsers ([Source](https://github.com/TonyLianLong/uARM.wasm))
 - [Unicorn.js](https://alexaltea.github.io/unicorn.js/) - The Unicorn emulator framework, now available for JavaScript ([Source](https://github.com/AlexAltea/unicorn.js))
