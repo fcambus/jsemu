@@ -87,6 +87,8 @@ adding them to the collection: the source for this page is available on
 - [pinky](https://koute.github.io/pinky-web/) - A Rust based NES emulator ported to the web via WebAssembly ([Source](https://github.com/koute/pinky/tree/master/pinky-web))
 - [DeSmuME-wasm](https://github.com/44670/desmume-wasm) - A WebAssembly port of the DeSmuME Nintendo DS emulator ([Demo](https://ds.44670.org/))
 - [Desmond.js](https://github.com/Unzor/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://js-emulators.github.io/desmond/))
+- [SkyEmu](https://github.com/skylersaleh/SkyEmu) - SkyEmu is a low level GameBoy, GameBoy Color and Game Boy Advance emulator
+- [CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml
 
 ## Robotron / VEB Mikroelektronik
 
@@ -121,6 +123,8 @@ adding them to the collection: the source for this page is available on
 - PSeudo - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) (needs boot ROM image, not supplied) ([Source](https://github.com/dkoluris/pseudo))
 - [PCSXjs](https://tjwei.github.io/pcsxjs/) - Modified PCSX-Reloaded compiled with Emscripten ([Source](https://github.com/tjwei/pcsxjs))
 - [WASMpsx](https://github.com/js-emulators/WASMpsx) - Easily embeddable fork of PCSXjs
+- [kpspemu](https://github.com/kpspemu/kpspemu) - PSP Emulator written in Kotlin for JVM, JS and Native
+- [Play!.js](https://playjs.purei.org) - This is a port of Play!, a PlayStation2 emulator, running in a web browser
 
 ## Tandy
 
