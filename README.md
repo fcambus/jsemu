@@ -13,6 +13,7 @@ adding them to the collection: the source for this page is available on
 - [Acorn Atom Emulator](http://econet.network/atom/) - by Phil Mainwaring. Software archive [here](http://econet.network/atom/menu.html). (Older version [here](http://phils-place.co.uk/HTeMuLator/atom/): Type "OLD" for an Easter Egg.)
 - [ElkJS](https://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
 - [JSBeeb](https://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](https://xania.org/Emulation))
+- [JSAtom](https://jsacorn.commandercoder.com/?model=atom) - JavaScript Acorn Atom emulator including Software Archive ([Source](https://github.com/CommanderCoder/JSATOM)) Based on JSBeeb
 
 ## Altair
 - [MITS Altair Simulator](https://s2js.com/altair/) Front panel simulation of the 8080-based Altair, by Ian Davies, built on 8080.js
