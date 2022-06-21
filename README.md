@@ -90,6 +90,7 @@ adding them to the collection: the source for this page is available on
 - [Desmond.js](https://github.com/Unzor/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://js-emulators.github.io/desmond/))
 - [SkyEmu](https://github.com/skylersaleh/SkyEmu) - SkyEmu is a low level GameBoy, GameBoy Color and Game Boy Advance emulator
 - [CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml
+- [TinyGB](https://github.com/Unzor/TinyGB) - A GameBoy emulator that runs only in the terminal written in NodeJS
 
 ## Robotron / VEB Mikroelektronik
 
