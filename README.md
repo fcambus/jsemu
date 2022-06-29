@@ -177,6 +177,7 @@ adding them to the collection: the source for this page is available on
 - [Imaginary 6502](https://www.mdawson.net/asm6502/6502asm.php) - 6502 Emulator and Assembler
 - [Intel 4004 emulator](http://e4004.szyc.org/) - by Maciej Szyc. Includes assembler and disassembler.
 - [Intel 8080 CPU Emulator](https://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
+- [iRISC](https://polysoftit.co.uk/irisc-web/) - Interactive ARMv7 assembly language interpreter and computer architecture simulator ([Source](https://github.com/rtybanana/irisc-web/))
 - [JavaScript 8080 Emulator](https://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
 - [Mipsdis](http://blog.loadzero.com/demo/mipsdis/demo.html) - MIPS disassembler that runs in the browser
 - [RISC Relay Computer](https://www.enscope.nl/rrca/) - Relay based computer project with a 16 bit RISC CPU. Emulator includes an assembler and source for a calculator program. By RJH. See [website](http://www.enscope.nl/rrc).
