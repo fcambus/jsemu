@@ -16,6 +16,7 @@ adding them to the collection: the source for this page is available on
 - [JSAtom](https://jsacorn.commandercoder.com/?model=atom) - JavaScript Acorn Atom emulator including Software Archive ([Source](https://github.com/CommanderCoder/JSATOM)) Based on JSBeeb
 
 ## Altair
+
 - [MITS Altair Simulator](https://s2js.com/altair/) Front panel simulation of the 8080-based Altair, by Ian Davies, built on 8080.js
 
 ## Amstrad
@@ -56,6 +57,7 @@ adding them to the collection: the source for this page is available on
 - [VICE.js](https://vice.janicek.co/c64/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
 
 ## Data General
+
 - [Novas Are Forever](http://www.novasareforever.org/novajs/index.php) - by Wild Hare Computer Systems, for the 50th anniversary.
 
 ## DEC
@@ -122,6 +124,7 @@ adding them to the collection: the source for this page is available on
 - [ZX Spectrum 128 Tiny Emu](https://floooh.github.io/tiny8bit/zx.html?type=zx128) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 
 ## Sony
+
 - [eNGE](https://kootstra-rene.github.io/enge-js/) - JavaScript browser based PSX emulator (runs games at full speed) ([Source](https://github.com/kootstra-rene/enge-js))
 - PSeudo - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) (needs boot ROM image, not supplied) ([Source](https://github.com/dkoluris/pseudo))
 - [PCSXjs](https://tjwei.github.io/pcsxjs/) - Modified PCSX-Reloaded compiled with Emscripten ([Source](https://github.com/tjwei/pcsxjs))
@@ -338,5 +341,3 @@ This resource collection is maintained by Frederic Cambus.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has waived all copyright and related or neighboring rights to this work.
-
-
