@@ -74,24 +74,24 @@ adding them to the collection: the source for this page is available on
 - [CycloaJS](https://app.7io.org/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
 - [em-fceux](https://bitbucket.org/tsone/em-fceux) - an Emscripten port of FCEUX, an emulator of NES, Famicom, Famicom Disk System (FDS), and Dendy consoles. [Demo site](https://tsone.kapsi.fi/em-fceux/)
 - [GBA.js](https://endrift.github.io/gbajs/) - Game Boy Advance in the Browser ([Source](https://github.com/endrift/gbajs))
-- [IodineGBA](https://taisel.github.io/IodineGBA/) - A GameBoy Advance emulator written entirely in JavaScript ([Source](https://github.com/taisel/IodineGBA))
-- [gba.ninja](https://gba.ninja/) - JavaScript port of VisualBoyAdvance-M, a GameBoy Advance emulator ([Source](https://github.com/simon-paris/gba.ninja))
+- [IodineGBA](https://taisel.github.io/IodineGBA/) - A Game Boy Advance emulator written entirely in JavaScript ([Source](https://github.com/taisel/IodineGBA))
+- [gba.ninja](https://gba.ninja/) - JavaScript port of VisualBoyAdvance-M, a Game Boy Advance emulator ([Source](https://github.com/simon-paris/gba.ninja))
 - [JSNES](https://jsnes.org) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - [NESNES](http://koen.kivits.com/nesnes/) - JavaScript NES emulator, also available as a [web component](https://github.com/koenkivits/x-nes) ([Source](https://github.com/koenkivits/nesnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
 - [N64Wasm](https://neilb.net/n64wasm/) - A web based N64 Emulator ([Source](https://github.com/nbarkhina/N64Wasm))
 - [XNES](https://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulators  ([Source](https://github.com/tjwei/xnes))
-- jsGB - A GameBoy emulator in JavaScript ([Source](https://github.com/Two9A/jsGB))
-- [jsGBC](https://ardean.github.io/jsGBC-web/) - GameBoy Color Emulator written in JavaScript ([Source](https://github.com/ardean/jsGBC))
+- jsGB - A Game Boy emulator in JavaScript ([Source](https://github.com/Two9A/jsGB))
+- [jsGBC](https://ardean.github.io/jsGBC-web/) - Game Boy Color Emulator written in JavaScript ([Source](https://github.com/ardean/jsGBC))
 - [mupen64plus](https://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the Web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
 - [n64js](https://hulkholden.github.io/n64js/) - An N64 emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
 - [pinky](https://koute.github.io/pinky-web/) - A Rust based NES emulator ported to the web via WebAssembly ([Source](https://github.com/koute/pinky/tree/master/pinky-web))
 - [DeSmuME-wasm](https://github.com/44670/desmume-wasm) - A WebAssembly port of the DeSmuME Nintendo DS emulator ([Demo](https://ds.44670.org/))
 - [Desmond.js](https://github.com/Unzor/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://js-emulators.github.io/desmond/))
-- [SkyEmu](https://github.com/skylersaleh/SkyEmu) - SkyEmu is a low level GameBoy, GameBoy Color and Game Boy Advance emulator
+- [SkyEmu](https://github.com/skylersaleh/SkyEmu) - SkyEmu is a low level Game Boy, Game Boy Color and Game Boy Advance emulator
 - [CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml
-- [TinyGB](https://github.com/Unzor/TinyGB) - A GameBoy emulator that runs only in the terminal written in NodeJS
-- [Boytacean](https://boytacean.joao.me) - A GameBoy emulator written in Rust that works in the Browser using WebAssembly ([Source](https://github.com/joamag/boytacean))
+- [TinyGB](https://github.com/Unzor/TinyGB) - A Game Boy emulator that runs only in the terminal written in NodeJS
+- [Boytacean](https://boytacean.joao.me) - A Game Boy emulator written in Rust that works in the Browser using WebAssembly ([Source](https://github.com/joamag/boytacean))
 
 ## Robotron / VEB Mikroelektronik
 
@@ -140,7 +140,7 @@ adding them to the collection: the source for this page is available on
 
 - [JSMESS examples](https://archive.org/details/historicalsoftware) - The JavaScript MESS (Multi Emulator Super System) ([Source](https://github.com/jsmess/jsmess)) ([Notes](https://github.com/jsmess/jsmess/wiki))
 - [PCE](https://github.com/jsdf/pce) - PC emulators in JavaScript (Atari ST, [IBM PC 5150](https://jamesfriend.com.au/pce-js/ibmpc-win/), [Macintosh](https://jamesfriend.com.au/pce-js/), RC759 Piccoline)
-- [RetroArch](https://toadking.com/retroarch/) - JavaScript port of RetroArch (bundles Gambatte (Gameboy), Genesis Plus GX, Handy (Lynx), Snes9x Next, VBA Next (GameBoy Advance), Tyrquake and FinalBurn Alpha)
+- [RetroArch](https://toadking.com/retroarch/) - JavaScript port of RetroArch (bundles Gambatte (Game Boy), Genesis Plus GX, Handy (Lynx), Snes9x Next, VBA Next (Game Boy Advance), Tyrquake and FinalBurn Alpha)
 - [RetroWeb](http://retroweb.maclab.org) - collection of JavaScript emulators and boot media, including Apple-IIe (VisiCalc), Macintosh (System 1.0), Atari 1040ST, Commodore 64, Amiga 500 (Workbench 1.3), IBM PC Model 5150 (PC-DOS, CP/M-86, Cassette Basic), IBM PC XT (DOS, GEM 1.2, VisiCalc, Windows 1.01, 8088 Corruption demo), RC759 Piccoline (Eliza, Bil-simulation, Concurrent CP/M-86), TRS-80.
 - [YAKC](https://floooh.github.io/virtualkc/) - Z1013, Z9001, KC85/2 family, Speccy, CPC, Acorn Atom, C64, with integrated debugging UI ([source](https://github.com/floooh/yakc))
 - [Tiny Emulators](https://floooh.github.io/tiny8bit/) -  based on the same chip- and system-emulator source code as YAKC, but as minimal WASM apps without fluff ([source](https://github.com/floooh/chips-test))
