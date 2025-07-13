@@ -148,6 +148,8 @@ adding them to the collection: the source for this page is available on
 - [YAKC](https://floooh.github.io/virtualkc/) - Z1013, Z9001, KC85/2 family, Speccy, CPC, Acorn Atom, C64, with integrated debugging UI ([source](https://github.com/floooh/yakc))
 - [Tiny Emulators](https://floooh.github.io/tiny8bit/) -  based on the same chip- and system-emulator source code as YAKC, but as minimal WASM apps without fluff ([source](https://github.com/floooh/chips-test))
 - [EmulatorJS](https://emulatorjs.netlify.app/) -  RetroArch compiled to emscripten with a nice wrapper ([source](https://github.com/emulatorjs/emulatorjs))
+- [webretro](https://binbashbanana.github.io/webretro/) -  Another WebAssembly port of RetroArch ([source](https://github.com/BinBashBanana/webretro))
+- [RetroArch Web Player](web.libretro.com) -  Official WebAssembly build of RetroArch ([source](https://github.com/libretro/RetroArch))
 
 ## PC Emulators
 
