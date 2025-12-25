@@ -147,7 +147,7 @@ adding them to the collection: the source for this page is available on
 - [RetroWeb](http://retroweb.maclab.org) - collection of JavaScript emulators and boot media, including Apple-IIe (VisiCalc), Macintosh (System 1.0), Atari 1040ST, Commodore 64, Amiga 500 (Workbench 1.3), IBM PC Model 5150 (PC-DOS, CP/M-86, Cassette Basic), IBM PC XT (DOS, GEM 1.2, VisiCalc, Windows 1.01, 8088 Corruption demo), RC759 Piccoline (Eliza, Bil-simulation, Concurrent CP/M-86), TRS-80.
 - [YAKC](https://floooh.github.io/virtualkc/) - Z1013, Z9001, KC85/2 family, Speccy, CPC, Acorn Atom, C64, with integrated debugging UI ([source](https://github.com/floooh/yakc))
 - [Tiny Emulators](https://floooh.github.io/tiny8bit/) -  based on the same chip- and system-emulator source code as YAKC, but as minimal WASM apps without fluff ([source](https://github.com/floooh/chips-test))
-- [EmulatorJS](https://emulatorjs.netlify.app/) -  RetroArch compiled to emscripten with a nice wrapper ([source](https://github.com/emulatorjs/emulatorjs))
+- [EmulatorJS](https://emulatorjs.org/) -  RetroArch compiled to emscripten with a nice wrapper ([source](https://github.com/emulatorjs/emulatorjs))
 
 ## PC Emulators
 
