@@ -90,7 +90,7 @@ adding them to the collection: the source for this page is available on
 - [pinky](https://koute.github.io/pinky-web/) - A Rust based NES emulator ported to the web via WebAssembly ([Source](https://github.com/koute/pinky/tree/master/pinky-web))
 - [DeSmuME-wasm](https://github.com/44670/desmume-wasm) - A WebAssembly port of the DeSmuME Nintendo DS emulator ([Demo](https://ds.44670.org/))
 - [Desmond.js](https://github.com/Unzor/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://js-emulators.github.io/desmond/))
-- [SkyEmu](https://github.com/skylersaleh/SkyEmu) - SkyEmu is a low level Game Boy, Game Boy Color and Game Boy Advance emulator
+- [SkyEmu](https://github.com/skylersaleh/SkyEmu) - SkyEmu is a low level Game Boy, Game Boy Color, Game Boy Advance, and Nintendo DS emulator
 - [CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml
 - [TinyGB](https://github.com/Unzor/TinyGB) - A Game Boy emulator that runs only in the terminal written in NodeJS
 - [Boytacean](https://boytacean.joao.me) - A Game Boy emulator written in Rust that works in the Browser using WebAssembly ([Source](https://github.com/joamag/boytacean))
@@ -148,6 +148,8 @@ adding them to the collection: the source for this page is available on
 - [YAKC](https://floooh.github.io/virtualkc/) - Z1013, Z9001, KC85/2 family, Speccy, CPC, Acorn Atom, C64, with integrated debugging UI ([source](https://github.com/floooh/yakc))
 - [Tiny Emulators](https://floooh.github.io/tiny8bit/) -  based on the same chip- and system-emulator source code as YAKC, but as minimal WASM apps without fluff ([source](https://github.com/floooh/chips-test))
 - [EmulatorJS](https://emulatorjs.org/) -  RetroArch compiled to emscripten with a nice wrapper ([source](https://github.com/emulatorjs/emulatorjs))
+- [webretro](https://binbashbanana.github.io/webretro/) -  Another WebAssembly port of RetroArch ([source](https://github.com/BinBashBanana/webretro))
+- [RetroArch Web Player](web.libretro.com) -  Official WebAssembly build of RetroArch ([source](https://github.com/libretro/RetroArch))
 
 ## PC Emulators
 
