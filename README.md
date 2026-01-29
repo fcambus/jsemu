@@ -247,6 +247,7 @@ adding them to the collection: the source for this page is available on
 - [TI-57 Programmable Calculator](https://www.pcjs.org/devices/ti57/machine/) by Jeff Parsons (PCjs)
 - [TI-92 Plus emulator](https://www.ocf.berkeley.edu/~pad/emu/v11.html) - JavaScript emulator for the TI-92 Plus
 - [JavaScript TI-89 / TI-92+ / TI-V200 / TI-89T emulator](https://tiplanet.org/emu68k_fork/) - by Patrick Davidson and Lionel Debroux
+- [Firebird](https://nspire-emus.github.io/firebird/wasm/) - Emulator of TI Nspire calculators ([Source](https://github.com/nspire-emus/firebird))
 
 ### Workalike calculators
 
