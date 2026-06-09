@@ -72,7 +72,7 @@ adding them to the collection: the source for this page is available on
 ## Nintendo
 
 - [1964js](https://github.com/schibo/1964js) - JavaScript port of the 1964 N64 emulator for Windows
-- [CfxNES](https://github.com/jpikl/cfxnes) - JavaScript NES Emulator ([Demo](https://cfxnes.herokuapp.com/))
+- [CfxNES](https://github.com/jpikl/cfxnes) - JavaScript NES Emulator ([Demo](https://jpikl.github.io/cfxnes))
 - [CycloaJS](https://app.7io.org/CycloaJS/) - JavaScript NES Emulator ([Source](https://github.com/ledyba/CycloaJS))
 - [em-fceux](https://bitbucket.org/tsone/em-fceux) - an Emscripten port of FCEUX, an emulator of NES, Famicom, Famicom Disk System (FDS), and Dendy consoles. [Demo site](https://tsone.kapsi.fi/em-fceux/)
 - [GBA.js](https://endrift.github.io/gbajs/) - Game Boy Advance in the Browser ([Source](https://github.com/endrift/gbajs))
