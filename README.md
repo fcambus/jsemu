@@ -52,7 +52,7 @@ adding them to the collection: the source for this page is available on
 - [c64js](https://mborgbrant.github.io/c64js/) - Commodore 64 emulator written in JavaScript by Mikael Borgbrant ([Source](https://github.com/mborgbrant/c64js))
 - [C64 Tiny Emu](https://floooh.github.io/tiny8bit/c64.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
-- [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
+- [SAE](https://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
 - [VIC-20 Emulator](https://www.mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
 - [VICE.js](https://vice.janicek.co/c64/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
 
@@ -137,7 +137,7 @@ adding them to the collection: the source for this page is available on
 - [CloudT TRS-80 Model 100 Emulator](https://bitchin100.com/CloudT/#/M100Display) - by John R. Hogerhuis ([Announcement](https://www.mail-archive.com/m100@lists.bitchin100.com/msg02714.html))
 - [MC-10 Emulator](http://mc-10.com/) - Emulator for the TRS-80 MC-10 microcomputer
 - [TRS-80 Model III Emulator](http://trsjs.48k.ca/trs80.html) a JavaScript emulator for the TRS-80 Model III, by Peter Phillips
-- [JS Mocha](http://www.haplessgenius.com/mocha/) - The HTML5 CoCo 2 Emulator
+- [JS Mocha](https://www.haplessgenius.com/mocha/) - The HTML5 CoCo 2 Emulator
 
 ## Multi-system Emulators
 
@@ -157,7 +157,7 @@ adding them to the collection: the source for this page is available on
 - [Halfix](https://github.com/nepx/halfix/) - x86 PC emulator that runs both natively and in the browser, via WebAssembly ([Demo 1](https://nepx.github.io/halfix-demo/), [Demo2](https://pixelsuft.github.io/onwin/))
 - [js-dos](https://js-dos.com) - WebAssembly port of DOSBox (fork of Em-DOSBox with better js API) ([Demo](https://js-dos.com/#js-dos-622-demo),[Source](https://github.com/caiiiycuk/js-dos))
 - [JS/Linux](https://bellard.org/jslinux/) - JavaScript PC emulator
-- [JsDOSBox](http://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](https://sourceforge.net/projects/jsdosbox/files/))
+- [JsDOSBox](https://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](https://sourceforge.net/projects/jsdosbox/files/))
 - [PCjs](https://www.pcjs.org) - IBM PC Model 5150 emulator ([Source](https://github.com/jeffpar/pcjs))
 - [QemuJS](https://github.com/atrosinenko/qemujs) - An Emscripten port of QEMU ([Demo](https://atrosinenko.github.io/qemujs-demo))
 - [Virtual x86](https://copy.sh/v86/) - x86 virtualization in your browser, recompiling x86 to wasm on the fly ([Source](https://github.com/copy/v86))
@@ -205,7 +205,7 @@ adding them to the collection: the source for this page is available on
 
 ## Early machines
 
-- [Babbage's Difference Engine](http://ed-thelen.org/bab/bab-diff-JavaScript.html) (First funded 1823, first full build in 1855, first full rebuild in 1991)
+- [Babbage's Difference Engine](https://ed-thelen.org/bab/bab-diff-JavaScript.html) (First funded 1823, first full build in 1855, first full rebuild in 1991)
 - [Babbage's Analytical Engine](https://www.fourmilab.ch/babbage/aem/) in JavaScript, by John Walker. (First described 1837, never completed, not yet rebuilt.) ([Documentation](https://www.fourmilab.ch/babbage/emulator.html))
 - [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information. (1936)
 - [Z1 machine's adder in 3D](http://zuse-z1.zib.de/simulations/z1/adders/wgl/) JavaScript/WebGL interactive simulation of the mechanical adder of Zuse's first machine. By Jakob Mischek ([Source](https://github.com/daign/zuse-z1.js)) (1938)
@@ -228,7 +228,7 @@ adding them to the collection: the source for this page is available on
 - [BESM-6](http://www.mailcom.com/besm6/runitnew.cgi) - with examples in Algol, Fortran, and assembler. By Leonid A. Broukhis and Michael Yaroslavtsev. More [here](http://www.mailcom.com/besm6/). (1968)
 - [CARDIAC](https://www.cs.drexel.edu/~bls96/museum/cardsim.html) - Bell Labs' CARDIAC cardboard computer from 1969. [Instructions](https://www.cs.drexel.edu/~bls96/museum/cardiac.html) (1969)
 - [Kenbak-1](http://www.neocomputer.org/kenbak/kenbak1-JS.html) - John Blankenbaker's TTL-based 256byte personal computer. [More information](http://www.neocomputer.org/kenbak/) (1970)
-- [Ordinapoche](http://nguyen.univ-tln.fr/share/Archi/ordinapoche.html) - A paper computer from France, invented 1969, popularised in 1981 and 1985. ([More here](http://nguyen.univ-tln.fr/ordinapoche.html) and [see also the 1981 magazine](https://www.abandonware-magazines.org/affiche_mag.php?mag=85&num=3809&album=oui))
+- [Ordinapoche](https://nguyen.univ-tln.fr/share/Archi/ordinapoche.html) - A paper computer from France, invented 1969, popularised in 1981 and 1985. ([More here](https://nguyen.univ-tln.fr/ordinapoche.html) and [see also the 1981 magazine](https://www.abandonware-magazines.org/affiche_mag.php?mag=85&num=3809&album=oui))
 - [BullGammaTor](https://www.aconit.org/histoire/Gamma-3/Simulateur/) - A JavaScript emulator for the Bull Gamma 3 ET computer ([Source](https://github.com/lutrampal/bullgammator/)) (1952)
 
 ## Calculator emulators
@@ -241,7 +241,7 @@ adding them to the collection: the source for this page is available on
 - [HP-45](http://members.aon.at/nkehrer/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
 - [jsEmu48](https://jadegame.com/jsemu48/) - emscripten port by Julien Meyer of HP EMU By Daniel Nilsson. ([Source](https://github.com/brizzly/jsEmu48))
 - [HP-55](https://www.sydneysmith.com/products/hp55u/run/), [HP-65](https://www.sydneysmith.com/wordpress/hp65/) and [HP-67](https://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
-- [мк-61](http://mk-61.moy.su/emulator.html) - Elektronika's programmable calculators MK-61, Б3-34, МК-54, and МК-56, also the Феликс-М (Felix M) arithmometer, a slide rule and an abacus. By Felix Lazarev, Andrey_emu, Sergey Tarasov and others.
+- [мк-61](https://mk-61.moy.su/emulator.html) - Elektronika's programmable calculators MK-61, Б3-34, МК-54, and МК-56, also the Феликс-М (Felix M) arithmometer, a slide rule and an abacus. By Felix Lazarev, Andrey_emu, Sergey Tarasov and others.
 - [Sinclair Scientific](https://files.righto.com/sinclair) and [TI-1500](https://files.righto.com/ti) - calculator simulations including full description of the algorithms and the reverse-engineering process. By Ken Shirriff. Further work by Phil Mainwaring shows [Sinclair Cambridge](http://phils-place.co.uk/calculators/?calc=sc), [TI-1500](http://phils-place.co.uk/calculators/?calc=ti) and [Sinclair Scientific](http://phils-place.co.uk/calculators/?calc=sc), each using different customisations of TI's 080x chip.
 - [TI-42 "MBA" Programmable Calculator](https://www.pcjs.org/devices/ti42/machine/) by Jeff Parsons (PCjs)
 - [TI-55](https://www.pcjs.org/devices/ti55/) by Jeff Parsons (PCjs)
@@ -255,13 +255,13 @@ adding them to the collection: the source for this page is available on
 - [HP-11C](https://stendec.io/ctb/hp11c.html), [HP-12C Platinum](https://stendec.io/ctb/hp12c-platinum.html), [HP-16C](https://stendec.io/ctb/hp16c.html) - by Elvis Pfützenreuter
 - [HP-16C (Jovial RPN)](https://jrpn.jovial.com/) - by Bill Foote
 - [HP-15C](https://hp15c.com/web/hp15c.html) - by Greg Hewgill. ([Source](https://github.com/ghewgill/hp15c))
-- [HP-21](http://www.sydneysmith.com/products/gss-hp21/run/index.html#) and [HP-29](http://www.sydneysmith.com/products/gss-hp29/run/index.html#) by Greg Sydney-Smith (See [here](http://www.sydneysmith.com/wordpress/hp21/) and [here](http://www.sydneysmith.com/wordpress/hp29/))
+- [HP-21](https://www.sydneysmith.com/products/gss-hp21/run/index.html) and [HP-29](https://www.sydneysmith.com/products/gss-hp29/run/index.html) by Greg Sydney-Smith (See [here](https://www.sydneysmith.com/wordpress/hp21/) and [here](https://www.sydneysmith.com/wordpress/hp29/))
 - [HP-25](http://www.jcczone.net/hp-25.html) - by John Clenance
 - [HP-35](https://neil.fraser.name/software/hp-35/) - JavaScript emulator by Neil Fraser
-- [HP-35 SOS](http://hansklav.home.xs4all.nl/rpn/hp35sos.html) - modified HP-35 with stack overflow sensing LED, by Hans Klaver, based on Fraser's work
+- [HP-35 SOS](https://hansklav.home.xs4all.nl/rpn/hp35sos.html) - modified HP-35 with stack overflow sensing LED, by Hans Klaver, based on Fraser's work
 - [HP-48](http://www.poleyland.com/hp48/index.html) - JavaScript implementation of the most commonly used HP-48 functions. More info [here](http://www.poleyland.com/hp48/help.html), by Josh Poley
 - [Olivetti Programma 101](https://biged.github.io/P101/p101viewport.html) - JavaScript emulation of the first commercial programmable desktop computer, by "Fabioamd87". [Source on GitHub](https://github.com/Fabioamd87/P101)
-- [Sinclair Cambridge Programmable](http://www.caffnib.co.uk/calculators/sinclair_prog.html) by Nigel Bromley. (Source [here](http://www.caffnib.co.uk/calculators/sinclair_prog.js).)
+- [Sinclair Cambridge Programmable](https://www.caffnib.co.uk/calculators/sinclair_prog.html) by Nigel Bromley. (Source [here](https://www.caffnib.co.uk/calculators/sinclair_prog.js).)
 
 ## Miscellaneous
 
@@ -277,7 +277,7 @@ adding them to the collection: the source for this page is available on
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
 - [Compukit UK101](http://www.avoncliff.com/uk101/) - by David Stevenson
 - [ContrAltoJS](https://archives.loomcom.com/contraltojs/) - Pure JavaScript implementation of the ContrAlto Xerox Alto emulator ([Source](https://github.com/sethm/ContrAltoJS))
-- [COSMAC Elf-ish](http://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
+- [COSMAC Elf-ish](https://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Dodo Playground](https://play.dodolabs.io/?code=51447f62) - IDE and simulator for 6502-based Dodo homebrew game system by Peter Noyes
 - [EMF Dragon](http://em.ulat.es/machines/Dragon32) - EMF-based Dragon Emulator - by Steven Goodwin (@MarquisdeGeek)
@@ -291,7 +291,7 @@ adding them to the collection: the source for this page is available on
 - [JS99'er](https://js99er.net/) - TI-99/4A emulator written in JavaScript ([Source](https://github.com/Rasmus-M/Js99er))
 - [jsH89](http://heathkit.garlanger.com/emulator/jsH89/) - Heathkit H89 emulator (runs CP/M) by Mark Garlanger
 - JSGS - Experimental JavaScript implementation of the Pico-8 fantasy console ([Source](https://github.com/burakcan/jsgs))
-- [jsMSX](http://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
+- [jsMSX](https://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
 - [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [jupiler](http://jupiler.zxtres.com) - Jupiter Ace emulator written in JavaScript ([Source](https://sourceforge.net/p/emuscriptoria/code/HEAD/tree/jupiler.js))
