@@ -12,8 +12,8 @@ adding them to the collection: the source for this page is available on
 - [Atom Tiny Emu](https://floooh.github.io/tiny8bit/atom.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [Acorn Atom Emulator](http://econet.network/atom/) - by Phil Mainwaring. Software archive [here](http://econet.network/atom/menu.html). (Older version [here](http://phils-place.co.uk/HTeMuLator/atom/): Type "OLD" for an Easter Egg.)
 - [ElkJS](https://elkjs.azurewebsites.net/) - JavaScript based Acorn Electron emulator ([Source](https://github.com/dmcoles/elkjs))
-- [JSBeeb](https://bbc.godbolt.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](https://xania.org/Emulation))
-- [JSAtom](https://jsacorn.commandercoder.com/?model=atom) - JavaScript Acorn Atom emulator including Software Archive ([Source](https://github.com/CommanderCoder/JSATOM)) Based on JSBeeb
+- [JSBeeb](https://bbc.xania.org) - JavaScript BBC Micro emulator ([Source](https://github.com/mattgodbolt/jsbeeb)) ([Development blog](https://xania.org/Emulation))
+- [JSAtom](https://atom.commandercoder.com/?model=atom) - JavaScript Acorn Atom emulator including Software Archive ([Source](https://github.com/CommanderCoder/JSATOM)) Based on JSBeeb
 
 ## Altair
 
@@ -89,7 +89,7 @@ adding them to the collection: the source for this page is available on
 - [n64js](https://hulkholden.github.io/n64js/) - An N64 emulator in JavaScript ([Source](https://github.com/hulkholden/n64js))
 - [pinky](https://koute.github.io/pinky-web/) - A Rust based NES emulator ported to the web via WebAssembly ([Source](https://github.com/koute/pinky/tree/master/pinky-web))
 - [DeSmuME-wasm](https://github.com/44670/desmume-wasm) - A WebAssembly port of the DeSmuME Nintendo DS emulator ([Demo](https://ds.44670.org/))
-- [Desmond.js](https://github.com/Unzor/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://js-emulators.github.io/desmond/))
+- [Desmond.js](https://github.com/js-emulators/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://js-emulators.github.io/desmond/))
 - [SkyEmu](https://github.com/skylersaleh/SkyEmu) - SkyEmu is a low level Game Boy, Game Boy Color, Game Boy Advance, and Nintendo DS emulator
 - [CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml
 - [TinyGB](https://github.com/Unzor/TinyGB) - A Game Boy emulator that runs only in the terminal written in NodeJS
@@ -117,8 +117,8 @@ adding them to the collection: the source for this page is available on
 - [JtyOne Online ZX81 Emulator](http://www.zx81stuff.org.uk/zx81/jtyone.html) - by Simon Holdsworth
 - [Qaop/JS](http://torinak.com/qaop) - ZX Spectrum emulator
 - [ZX80 Emulator](https://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
-- [EMF ZX80](http://em.ulat.es/machines/SinclairZX80) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx80))
-- [EMF ZX81](http://em.ulat.es/machines/SinclairZX81) - EMF-based ZX81 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx81))
+- [EMF ZX80](http://em.ulat.es/machines/SinclairZX80/) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx80))
+- [EMF ZX81](http://em.ulat.es/machines/SinclairZX81/) - EMF-based ZX81 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx81))
 - [Science of Cambridge MK14 simulator](http://www.dougrice.plus.com/dev/seg_mk14.htm) - by Doug Rice, based on Paul Robson's offline emulator.
 - [ZX Spectrum 48K Tiny Emy](https://floooh.github.io/tiny8bit/zx.html?type=zx48k) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [ZX Spectrum 128 Tiny Emu](https://floooh.github.io/tiny8bit/zx.html?type=zx128) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
@@ -126,7 +126,7 @@ adding them to the collection: the source for this page is available on
 ## Sony
 
 - [eNGE](https://kootstra-rene.github.io/enge-js/) - JavaScript browser based PSX emulator (runs games at full speed) ([Source](https://github.com/kootstra-rene/enge-js))
-- PSeudo - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) (needs boot ROM image, not supplied) ([Source](https://github.com/dkoluris/pseudo))
+- PSeudo - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) (needs boot ROM image, not supplied) ([Source](https://github.com/koluris/pseudo))
 - [PCSXjs](https://tjwei.github.io/pcsxjs/) - Modified PCSX-Reloaded compiled with Emscripten ([Source](https://github.com/tjwei/pcsxjs))
 - [WASMpsx](https://github.com/js-emulators/WASMpsx) - Easily embeddable fork of PCSXjs
 - [kpspemu](https://github.com/kpspemu/kpspemu) - PSP Emulator written in Kotlin for JVM, JS and Native
@@ -159,7 +159,7 @@ adding them to the collection: the source for this page is available on
 - [JS/Linux](https://bellard.org/jslinux/) - JavaScript PC emulator
 - [JsDOSBox](https://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](https://sourceforge.net/projects/jsdosbox/files/))
 - [PCjs](https://www.pcjs.org) - IBM PC Model 5150 emulator ([Source](https://github.com/jeffpar/pcjs))
-- [QemuJS](https://github.com/atrosinenko/qemujs) - An Emscripten port of QEMU ([Demo](https://atrosinenko.github.io/qemujs-demo))
+- [QemuJS](https://github.com/atrosinenko/qemujs) - An Emscripten port of QEMU ([Demo](https://atrosinenko.github.io/qemujs-demo/))
 - [Virtual x86](https://copy.sh/v86/) - x86 virtualization in your browser, recompiling x86 to wasm on the fly ([Source](https://github.com/copy/v86))
 - [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
 - jsbochs - Bochs PC emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
@@ -170,24 +170,24 @@ adding them to the collection: the source for this page is available on
 - [8008 running SCELBAL](http://www.xlnsresearch.com/scelbal.htm) by Mark G. Arnold. ("SCELBAL is the only open-source, floating-point, high-level language ever implemented on the 8008")
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
 - [AVR8js](https://wokwi.com/arduino/projects/297787059514376717) - AVR architecture emulator, capable of running Arduino code ([source](https://github.com/wokwi/avr8js))
-- [EMF Arcade Invaders](http://em.ulat.es/machines/TaitoSpaceInvaders) - EMF-based 8080 Emulator with Space Invaders ROM - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-arcade_invaders))
-- [8086tiny running FreeDOS](https://www.netpipe.ca/apps/8086tiny/8086tiny.html) - An Emscriptem port of Adrian Cable's 8086tiny. Source, and other emulators ported by Clay Shippy, at [https://github.com/tecan/emscripten-projects](emscripten-projects).
-- [Angel](https://github.com/riscv/riscv-angel) - JavaScript RISC-V ISA simulator booting Linux in a web-browser
+- [EMF Arcade Invaders](http://em.ulat.es/machines/TaitoSpaceInvaders/) - EMF-based 8080 Emulator with Space Invaders ROM - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-arcade_invaders))
+- [8086tiny running FreeDOS](https://www.netpipe.ca/apps/8086tiny/8086tiny.html) - An Emscriptem port of Adrian Cable's 8086tiny. Source, and other emulators ported by Clay Shippy, at [https://github.com/netpipe/emscripten-projects](emscripten-projects).
+- [Angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA simulator booting Linux in a web-browser
 - [Angular 2 6502](https://github.com/JeremyLikness/6502emulator#readme) written with TypeScript and Angular 2, by Jeremy Likness
 - [ARM-js](https://biged.github.io/arm-js/arm-js.html) - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
 - [ASM80](https://www.asm80.com) - Online assembler for 8-bit microprocessors by Martin Malý. Includes emulation of several machines: 8080, Z80, 6502, 6809. ([Sources](https://github.com/maly))
 - Basic MIPS functional simulator by Mianzhi Wang (morriswmz). ([Source](https://github.com/morriswmz/SimpleMIPS.js))
 - [Easy6502](https://skilldrick.github.io/easy6502/) - JavaScript 6502 tutorial and emulator ([Source](https://github.com/skilldrick/easy6502))
-- [EduMIPS64](https://web.edumips.org/) - [Educational MIPS64 CPU](https://www.edumips.org/), ported from Java by Andrea Spadaccini using GWT (see blog [here](http://edumips64.blogspot.com/2016/06/towards-javascript-port-of-edumips64.html).) ([Source](https://github.com/lupino3/edumips64))
-- [FRISCjs](http://ivanzuzak.info/FRISCjs/webapp/) - an 8-register educational RISC from the University of Zagreb, with both assembler and front panel, by Ivan Žužak. [Source](https://github.com/izuzak/FRISCjs)
+- [EduMIPS64](https://edumips.org/) - [Educational MIPS64 CPU](https://edumips.org/), ported from Java by Andrea Spadaccini using GWT (see blog [here](https://edumips64.blogspot.com/2016/06/towards-javascript-port-of-edumips64.html).) ([Source](https://github.com/EduMIPS64/edumips64))
+- [FRISCjs](https://ivanzuzak.info/FRISCjs/webapp/) - an 8-register educational RISC from the University of Zagreb, with both assembler and front panel, by Ivan Žužak. [Source](https://github.com/izuzak/FRISCjs)
 - [Imaginary 6502](https://www.mdawson.net/asm6502/6502asm.php) - 6502 Emulator and Assembler
 - [Intel 4004 emulator](http://e4004.szyc.org/) - by Maciej Szyc. Includes assembler and disassembler.
 - [Intel 8080 CPU Emulator](https://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [iRISC](https://polysoftit.co.uk/irisc-web/) - Interactive ARMv7 assembly language interpreter and computer architecture simulator ([Source](https://github.com/rtybanana/irisc-web/))
 - [JavaScript 8080 Emulator](https://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
-- [Mipsdis](http://blog.loadzero.com/demo/mipsdis/demo.html) - MIPS disassembler that runs in the browser
+- [Mipsdis](https://blog.loadzero.com/demo/mipsdis/demo.html) - MIPS disassembler that runs in the browser
 - [PicoBlaze assembler and emulator in JavaScript](https://picoblaze-simulator.sourceforge.io/) - An assembler and an emulator for the [Xilinx PicoBlaze soft-processor](https://en.wikipedia.org/wiki/PicoBlaze), made by Teo Samaržija, Agustín Izaguirre, and Abidin Durdu ([Source](https://github.com/FlatAssembler/PicoBlaze_Simulator_in_JS))
-- [RISC Relay Computer](https://www.enscope.nl/rrca/) - Relay based computer project with a 16 bit RISC CPU. Emulator includes an assembler and source for a calculator program. By RJH. See [website](http://www.enscope.nl/rrc).
+- [RISC Relay Computer](https://www.enscope.nl/rrca/) - Relay based computer project with a 16 bit RISC CPU. Emulator includes an assembler and source for a calculator program. By RJH. See [website](http://www.enscope.nl/rrc/).
 - [RISCVEMU](https://bellard.org/riscvemu/js/) - RISC-V emulator boots 64-bit Linux. By Fabrice Bellard.
 - [RP2040js](https://wokwi.com/arduino/projects/297323005822894602) - Raspberry Pi Pico (RP2040 / Arm Cortex-M0+) emulator with C/C++/MicroPython/CircuitPython support ([Source](https://github.com/wokwi/rp2040js))
 - [Simple 8-bit Assembler Simulator](https://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
@@ -198,7 +198,7 @@ adding them to the collection: the source for this page is available on
 - [Visual 6800](http://www.visual6502.org/JSSim/expert-6800.html?steps=10) - JavaScript simulator for the Motorola 6800 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
 - [Visual Z80](http://www.visual6502.org/JSSim/expert-z80.html) - JavaScript simulator for the Z80 CPU, modelling thousands of transistors at switch level and animating the original chip layout.
 - [Visulator](http://thlorenz.com/visulator/) - x86 machine emulator that visualizes how each instruction is processed ([Source](https://github.com/thlorenz/visulator))
-- [YAMD](http://yamd.xuanji.li) - Yet Another MIPS Debugger ([Source](https://github.com/zodiac/yamd))
+- [YAMD](http://yamd.xuanji.li) - Yet Another MIPS Debugger ([Source](https://github.com/ldct/yamd))
 - [jor1k](https://s-macke.github.io/jor1k/) - OpenRISC OR1K JavaScript emulator running Linux with network support ([Source](https://github.com/s-macke/jor1k/))
 - [jslm32](https://www.ubercomp.com/jslm32/src/) - JavaScript LatticeMico32 emulator running Linux ([Source](https://github.com/ubercomp/jslm32/))
 - [ZUSIE](http://www.nablaman.com/relay/sim/zusie.html) - JavaScript simulation of [Fredrik Andersson's homebrew relay machine](http://www.nablaman.com/relay/) inspired by Zuse's machines.
@@ -208,20 +208,20 @@ adding them to the collection: the source for this page is available on
 - [Babbage's Difference Engine](https://ed-thelen.org/bab/bab-diff-JavaScript.html) (First funded 1823, first full build in 1855, first full rebuild in 1991)
 - [Babbage's Analytical Engine](https://www.fourmilab.ch/babbage/aem/) in JavaScript, by John Walker. (First described 1837, never completed, not yet rebuilt.) ([Documentation](https://www.fourmilab.ch/babbage/emulator.html))
 - [Turing machine](http://rendell-attic.org/gol/TMapplet/index.htm) simulated in JavaScript. See [here](http://rendell-attic.org/gol/utm/) for more information. (1936)
-- [Z1 machine's adder in 3D](http://zuse-z1.zib.de/simulations/z1/adders/wgl/) JavaScript/WebGL interactive simulation of the mechanical adder of Zuse's first machine. By Jakob Mischek ([Source](https://github.com/daign/zuse-z1.js)) (1938)
+- [Z1 machine's adder in 3D](https://zuse-z1.zib.de/simulations/z1/adders/wgl/) JavaScript/WebGL interactive simulation of the mechanical adder of Zuse's first machine. By Jakob Mischek ([Source](https://github.com/daign/zuse-z1.js)) (1938)
 - [Z3 machine's adder](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/addition/addition.htm) - ripple-carry electromechanical adder simulated in JavaScript, by Henry Raymond, Patrick Seewald and Vijeinath Tissaveerasingham. [Explanation](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/simu.htm) (1941)
 - [JsSSEM](http://edmundgriffiths.com/jsssem.html) - Manchester Small-Scale Experimental Machine emulator (Also check [Computer/zero](http://www.edmundgriffiths.com/czero.html) which is very loosely based on the SSEM, and its [tutorial](http://www.edmundgriffiths.com/degreezero.html)) (1948)
 - [EMF Manchester Baby](https://github.com/MarquisdeGeek/ManchesterBaby) - aka SSEM (Small-Scale Experimental Machine) emulator, using the EMF framework. Live version at (https://em.ulat.es/machines/ManchesterBaby/#)
 - [C88](https://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931)) (1948)
 - [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](https://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf)) (1949)
-- [EMF Elliott](http://em.ulat.es/machines/Elliott903) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-elliott-903))
-- WITCH Emulator - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/jsking/witch-e)) (1951)
+- [EMF Elliott](http://em.ulat.es/machines/Elliott903/) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-elliott-903))
+- WITCH Emulator - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/technobaboo/witch-e)) (1951)
 - [UNIVAC I emulator](https://www.masswerk.at/virtualunivac/) - JavaScript emulator by Norbert Landsteiner (1951)
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData-205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
 - [TX-0](https://www.wizforest.com/tech/tx-0/#) emulator by @wizforest, including several programs from the time. ([Instructions](https://www.wizforest.com/tech/tx-0/manual.html)) (1956)
 - [Mailüfterl](http://members.aon.at/nkehrer/mailuefterl/mailuefterl.html) - JavaScript emulator by Norbert Kehrer (1958)
 - [Setun (Russian)](http://trinary.ru/projects/setunws/) and [English (archived)](https://web.archive.org/web/20170114102246/http://en.trinary.ru/projects/setunws/) - JavaScript emulator by Обухов Александр. Ternary machine from Soviet Union (1958)
-- [Digi-Comp 1](http://digicomp-1.appspot.com) ([previously](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1)) - educational sliding-rods plastic computer. Emulator by Larry Groebe and Kevin Williams. (1963)
+- [Digi-Comp 1](https://digicomp-1.appspot.com) ([previously](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1)) - educational sliding-rods plastic computer. Emulator by Larry Groebe and Kevin Williams. (1963)
 - [Digi-Comp II](https://museum.syssrc.com/joda/) - educational falling-marbles computer. Emulator by Joda Redfearn. (1965)
 - [Burroughs B5500 emulator](https://retro-b5500.blogspot.com) - Burroughs B5500 emulator in JavaScript ([Source](https://github.com/pkimpel/retro-b5500)) (1964)
 - [Apollo Guidance Computer](http://svtsim.com/moonjs/agc.html) - Moonjs a port by Shahriar Iravanian of Ronald Burkey's Virtual AGC. (1966)
@@ -267,12 +267,12 @@ adding them to the collection: the source for this page is available on
 
 - [C1Pjs](https://www.pcjs.org/docs/c1pjs/) - JavaScript simulation of the Challenger 1P (PCjs)
 - [Canon Cat (in JSMess)](https://archive.org/details/canoncat) - Jef Raskin's Forth-capable 68000-based word processor. ([Instructions](https://github.com/mamedev/mame/blob/master/src/mame/drivers/cat.cpp#L16) and [more info](http://www.canoncat.net/))
-- [CFT](https://www.bedroomlan.org/hardware/cft/microcode-emulator) - JavaScript simulation of Alexios Chouchoulas' 16-bit homebrew TTL machine. ([More information](https://www.bedroomlan.org/hardware/cft/) including documentation and a video.)
+- [CFT](https://www.bedroomlan.org/hardware/cft/microcode-emulator/) - JavaScript simulation of Alexios Chouchoulas' 16-bit homebrew TTL machine. ([More information](https://www.bedroomlan.org/hardware/cft/) including documentation and a video.)
 - [Chip-8 virtual machine](https://biged.github.io/Chip-8-Emulator/) by Alexander Dickson - see [blog entry](http://blog.alexanderdickson.com/javascript-chip-8-emulator)
 - [Chip-8 virtual machine](http://pachisystems.com/JSEmu/chip8.html) by Brian Milton ([Source](https://github.com/PachiSystems/JSEmu) may target several CPUs)
 - [Chip8 1k](https://xem.github.io/chip8/) - a code-golfed chip 8 emulator in 1k by Maxime Euzière and others
-- [EMF Chip 8](http://em.ulat.es/machines/Chip8) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-chip-8))
-- [EMF Megaprocessor](http://em.ulat.es/machines/Megaprocessor) - EMF-based Megaprocessor Emulator - by Steven Goodwin (@MarquisdeGeek) of the room-sized machine built by James Newman and housed in the Museum of Computing History, in Cambridge, England. ([Source](https://github.com/MarquisdeGeek/emf-emulator-megaprocessor))
+- [EMF Chip 8](http://em.ulat.es/machines/Chip8/) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-chip-8))
+- [EMF Megaprocessor](http://em.ulat.es/machines/Megaprocessor/) - EMF-based Megaprocessor Emulator - by Steven Goodwin (@MarquisdeGeek) of the room-sized machine built by James Newman and housed in the Museum of Computing History, in Cambridge, England. ([Source](https://github.com/MarquisdeGeek/emf-emulator-megaprocessor))
 - [Merry8](https://github.com/doodlewind/merry8) - JavaScript Chip-8 emulator by Yifeng Wang
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
 - [Compukit UK101](http://www.avoncliff.com/uk101/) - by David Stevenson
@@ -280,12 +280,12 @@ adding them to the collection: the source for this page is available on
 - [COSMAC Elf-ish](https://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
 - [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Dodo Playground](https://play.dodolabs.io/?code=51447f62) - IDE and simulator for 6502-based Dodo homebrew game system by Peter Noyes
-- [EMF Dragon](http://em.ulat.es/machines/Dragon32) - EMF-based Dragon Emulator - by Steven Goodwin (@MarquisdeGeek)
-- [EMF Jupiter Ace](http://em.ulat.es/machines/JupiterAce) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-jupiter-ace))
+- [EMF Dragon](http://em.ulat.es/machines/Dragon32/) - EMF-based Dragon Emulator - by Steven Goodwin (@MarquisdeGeek)
+- [EMF Jupiter Ace](http://em.ulat.es/machines/JupiterAce/) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-jupiter-ace))
 - [Enterprise-128 JavaScript Emulator](http://ep.lgb.hu/jsep/demo/?autostart=yes) - by Gábor Lénárt "LGB", based on JSSpeccy
 - [ESP8266 Game Engine](https://corax89.github.io/esp8266Game/index.html) - a console-game-oriented virtual machine running on ESP8266, by Corax. ([Source](https://github.com/corax89/esp8266_game_engine))
 - [Gigatron](https://gigatron.io/emu/) - emulator of the present-day TTL console computer with Tiny Basic and games. Also Wozmon on a nested emulation of 6502. ([Website](https://gigatron.io/))
-- [Hack](https://diversen.github.io/hack-emulator-js/) - emulator of the computer from [nand2tetris](https://nand2tetris.org), by diversen. ([Source](https://github.com/diversen/hack-emulator-js).)
+- [Hack](https://diversen.github.io/hack-emulator-js/) - emulator of the computer from [nand2tetris](https://www.nand2tetris.org), by diversen. ([Source](https://github.com/diversen/hack-emulator-js).)
 - [Heathkit ET3400](http://phils-place.co.uk/demos/et3400/) - by Phil Mainwaring. Click "Do" then "0000". ([Instructions](http://phils-place.co.uk/demos/et3400/heathkit_3400_trainer_manual_pages_46_to_104_edit_1.txt))
 - [IBM 5110 Emulator](https://norbertkehrer.github.io/ibm_5110/emu5110.html) by Norbert Kehrer runs Basic or APL.
 - [JS99'er](https://js99er.net/) - TI-99/4A emulator written in JavaScript ([Source](https://github.com/Rasmus-M/Js99er))
