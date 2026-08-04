@@ -58,7 +58,7 @@ adding them to the collection: the source for this page is available on
 
 ## Data General
 
-- [Novas Are Forever](http://www.novasareforever.org/novajs/index.php) - by Wild Hare Computer Systems, for the 50th anniversary.
+- [Nova Emulator](https://www.novasareforever.org/emulators/nova-emulator) - by Wild Hare Computer Systems, for the 50th anniversary.
 
 ## DEC
 
