@@ -318,7 +318,7 @@ adding them to the collection: the source for this page is available on
 - [Turbo Pascal](https://github.com/lkesteloot/turbopascal) - A web-based Pascal compiler that runs a subset of Turbo Pascal 5.5 code
 - [Vector06js](http://sensi.org/scalar/ware/468/) - Vector-06C (AKA Вектор-06Ц) JavaScript emulator by Viacheslav Slavinsky. Also runnable [here](https://svofski.github.io/vector06js/). ([Source](https://github.com/svofski/vector06js).)
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
-- [Visual Computer](http://www1.idc.ac.il/vic/software/computer/) a minimal CPU for teaching by Shimon Schocken. ([Web site](https://sites.google.com/site/schocken/thevisualcomputer))
+- [Visual Computer](https://faculty.runi.ac.il/vic/software/computer/) a minimal CPU for teaching by Shimon Schocken. ([Web site](https://sites.google.com/site/schocken/thevisualcomputer))
 - [WebMSX](https://webmsx.org/) - WebMSX, or simply WMSX, is a new MSX emulator designed for the Web ([Source](https://github.com/ppeccin/webmsx))
 - [Wireworld computer](https://dested.com/projects/wire/) - JavaScript port by Salvatore Aiello of the prime-generating computer implemented in the Wireworld cellular automaton, as described [here](https://www.quinapalus.com/wi-index.html).
 - [WPCEmu](https://github.com/neophob/wpc-emu) - Williams Pinball Emulator by Michael Vogt
