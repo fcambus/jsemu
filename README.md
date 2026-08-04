@@ -153,9 +153,9 @@ adding them to the collection: the source for this page is available on
 
 ## PC Emulators
 
-- [Em-DOSBox](https://github.com/dreamlayers/em-dosbox) - An Emscripten port of DOSBox ([Demo](http://playdosgamesonline.com/))
 - [Halfix](https://github.com/nepx/halfix/) - x86 PC emulator that runs both natively and in the browser, via WebAssembly ([Demo 1](https://nepx.github.io/halfix-demo/), [Demo2](https://pixelsuft.github.io/onwin/))
 - [js-dos](https://js-dos.com) - WebAssembly port of DOSBox (fork of Em-DOSBox with better js API) ([Demo](https://js-dos.com/#js-dos-622-demo),[Source](https://github.com/caiiiycuk/js-dos))
+- [Em-DOSBox](https://github.com/dreamlayers/em-dosbox) - An Emscripten port of DOSBox
 - [JS/Linux](https://bellard.org/jslinux/) - JavaScript PC emulator
 - [JsDOSBox](https://jsdosbox.sourceforge.net) - JavaScript PC DOS emulator ([Source](https://sourceforge.net/projects/jsdosbox/files/))
 - [PCjs](https://www.pcjs.org) - IBM PC Model 5150 emulator ([Source](https://github.com/jeffpar/pcjs))
