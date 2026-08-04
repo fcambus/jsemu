@@ -51,7 +51,7 @@ adding them to the collection: the source for this page is available on
 - [JSC64](https://www.kingsquare.nl/jsc64/) - Commodore 64 emulator written in JavaScript ([Source](https://github.com/Reggino/jsc64))
 - [c64js](https://mborgbrant.github.io/c64js/) - Commodore 64 emulator written in JavaScript by Mikael Borgbrant ([Source](https://github.com/mborgbrant/c64js))
 - [C64 Tiny Emu](https://floooh.github.io/tiny8bit/c64.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
-- [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
+- Kim1 - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
 - [SAE](https://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
 - [VIC-20 Emulator](https://www.mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
 - [VICE.js](https://vice.janicek.co/c64/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
@@ -79,7 +79,7 @@ adding them to the collection: the source for this page is available on
 - [IodineGBA](https://taisel.github.io/IodineGBA/) - A Game Boy Advance emulator written entirely in JavaScript ([Source](https://github.com/taisel/IodineGBA))
 - [gba.ninja](https://gba.ninja/) - JavaScript port of VisualBoyAdvance-M, a Game Boy Advance emulator ([Source](https://github.com/simon-paris/gba.ninja))
 - [JSNES](https://jsnes.org) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
-- [NESNES](http://koen.kivits.com/nesnes/) - JavaScript NES emulator, also available as a [web component](https://github.com/koenkivits/x-nes) ([Source](https://github.com/koenkivits/nesnes))
+- NESNES - JavaScript NES emulator, also available as a [web component](https://github.com/koenkivits/x-nes) ([Source](https://github.com/koenkivits/nesnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
 - [N64Wasm](https://neilb.net/n64wasm/) - A web based N64 Emulator ([Source](https://github.com/nbarkhina/N64Wasm))
 - [XNES](https://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulators  ([Source](https://github.com/tjwei/xnes))
