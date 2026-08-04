@@ -304,7 +304,7 @@ adding them to the collection: the source for this page is available on
 - [Machine in a machine](https://js1k.com/2010-first/details/455) - Turing Machine Implementation in 1k from the [JS1k competition](https://js1k.com/)
 - [Marmmodore-1K](https://js1k.com/2016-elemental/details/2415) - minimal 8-bit computer in 1k by Felipe Alfonso
 - [NanoWasp](http://nanowasp.org) - A MicroBee emulator
-- [Nascom 2 emulator](http://thorn.ws/jsnascom/jsnascom.html) by Tommy Thorn. (J to start Basic) ([Source](https://github.com/tommythorn/jsnascom))
+- [Nascom 2 emulator](https://github.com/tommythorn/jsnascom) by Tommy Thorn. (J to start Basic)
 - [One Instruction Set Computer (OISC)](https://www.cs.drexel.edu/~bls96/oisc/OISC.html) by Peter Crampton, presented by Brian L. Stuart. ([Explanation](https://www.cs.drexel.edu/~bls96/oisc/))
 - [Orao](http://orao.hrvoje.org/) - Orao emulator by Hrvoje Cavrak ([More information](https://github.com/hrvach/OraoJs))
 - [Oricutron](https://torguet.net/oric/Oricutron.html) - An emulator for the ORIC series of home computers, by Peter Gordon ([Source](https://github.com/pete-gordon/oricutron))
