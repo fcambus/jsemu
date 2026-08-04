@@ -333,7 +333,7 @@ adding them to the collection: the source for this page is available on
 
 ## See also (lists of JavaScript emulators elsewhere)
 
-- [A Big List of Browser-Based Emulators](https://archive.vg/blog/a-big-list-of-browser-based-emulators-and-ports-of-classic-games) by Richard Moss
+- [A Big List of Browser-Based Emulators](https://web.archive.org/web/20220209142544/https://archive.vg/blog/a-big-list-of-browser-based-emulators-and-ports-of-classic-games) by Richard Moss (archived)
 - [Qaop/JS – Emulator links](http://torinak.com/qaop/links) by Jan Bobrowski
 
 ## Additional Information
