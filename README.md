@@ -81,8 +81,8 @@ adding them to the collection: the source for this page is available on
 - [JSNES](https://jsnes.org) - A JavaScript NES emulator ([Source](https://github.com/bfirsh/jsnes))
 - NESNES - JavaScript NES emulator, also available as a [web component](https://github.com/koenkivits/x-nes) ([Source](https://github.com/koenkivits/nesnes))
 - [Nezulator](http://zelex.net/nezulator/) - A NES emulator in JavaScript
-- [N64Wasm](https://neilb.net/n64wasm/) - A web based N64 Emulator ([Source](https://github.com/nbarkhina/N64Wasm))
-- [XNES](https://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulators  ([Source](https://github.com/tjwei/xnes))
+- [N64Wasm](https://neilb.net/n64wasm/) - A web-based N64 emulator ([Source](https://github.com/nbarkhina/N64Wasm))
+- [XNES](https://tjwei.github.io/xnes/) - Experimental JavaScript Super Nintendo emulator ([Source](https://github.com/tjwei/xnes))
 - jsGB - A Game Boy emulator in JavaScript ([Source](https://github.com/Two9A/jsGB))
 - [jsGBC](https://ardean.github.io/jsGBC-web/) - Game Boy Color Emulator written in JavaScript ([Source](https://github.com/ardean/jsGBC))
 - [mupen64plus](https://jquesnelle.github.io/mupen64plus-ui-console/) - A port of the popular Nintendo 64 emulator for the Web ([Source](https://github.com/jquesnelle/mupen64plus-ui-console/))
@@ -120,7 +120,7 @@ adding them to the collection: the source for this page is available on
 - [EMF ZX80](http://em.ulat.es/machines/SinclairZX80/) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx80))
 - [EMF ZX81](http://em.ulat.es/machines/SinclairZX81/) - EMF-based ZX81 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx81))
 - [Science of Cambridge MK14 simulator](http://www.dougrice.plus.com/dev/seg_mk14.htm) - by Doug Rice, based on Paul Robson's offline emulator.
-- [ZX Spectrum 48K Tiny Emy](https://floooh.github.io/tiny8bit/zx.html?type=zx48k) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
+- [ZX Spectrum 48K Tiny Emu](https://floooh.github.io/tiny8bit/zx.html?type=zx48k) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [ZX Spectrum 128 Tiny Emu](https://floooh.github.io/tiny8bit/zx.html?type=zx128) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 
 ## Sony
