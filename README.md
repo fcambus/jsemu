@@ -64,7 +64,7 @@ adding them to the collection: the source for this page is available on
 
 - [PDP-1 running the SpaceWar game](https://www.masswerk.at/spacewar/) and the [Minskytron demo](https://www.masswerk.at/minskytron/) - by Norbert Landsteiner
 - [PDP-8](https://programmer209.wordpress.com/2011/01/30/pdp-8-assembly-language-part-2/) and [PDP-11](https://programmer209.wordpress.com/2011/08/14/pdp-11-assembly-language-simulator/) simulators with assembly language interfaces (explanatory articles with full source, not live site) - by programmer209
-- [JavaScript PDP 11](https://skn.noip.me/pdp11/pdp11.html) - PDP-11/70 emulator with simulated front panel and a choice of operating systems. By Paul Nankervis
+- [JavaScript PDP-11](https://paulnank.github.io/pdp11-js/pdp11.html) - PDP-11/70 emulator with a simulated front panel and a choice of operating systems, by Paul Nankervis ([Source](https://github.com/paulnank/pdp11-js))
 - [PDP-11 Emulator](http://pdp11.aiju.de/) - A JavaScript PDP-11 emulator running UNIX Sixth Edition. By Julius Schmidt
   - [with teletype](https://pavel-krivanek.github.io/pdp11/) - PDP-11 emulator with teletype interface
 - [pdp11-js](https://takahirox.github.io/pdp11-js/unixv6.html) - PDP-11 emulator with UNIX V6. By Takahiro Aoyagi ([Source](https://github.com/takahirox/pdp11-js))
