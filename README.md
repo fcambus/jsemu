@@ -212,7 +212,7 @@ adding them to the collection: the source for this page is available on
 - [Z3 machine's adder](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/addition/addition.htm) - ripple-carry electromechanical adder simulated in JavaScript, by Henry Raymond, Patrick Seewald and Vijeinath Tissaveerasingham. [Explanation](http://gymoberwil.educanet2.ch/a.hu/projektarbeit/zuse/simu.htm) (1941)
 - [JsSSEM](http://edmundgriffiths.com/jsssem.html) - Manchester Small-Scale Experimental Machine emulator (Also check [Computer/zero](http://www.edmundgriffiths.com/czero.html) which is very loosely based on the SSEM, and its [tutorial](http://www.edmundgriffiths.com/degreezero.html)) (1948)
 - [EMF Manchester Baby](https://github.com/MarquisdeGeek/ManchesterBaby) - aka SSEM (Small-Scale Experimental Machine) emulator, using the EMF framework. Live version at (https://em.ulat.es/machines/ManchesterBaby/#)
-- [C88](https://danieljabailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931)) (1948)
+- [C88](https://lexbailey.github.io/c88-js/) - C88 computer simulation ([The Homebrew CPU inspired by the SSEM](http://bitofahack.com/post/1434913931)) (1948)
 - [EDSAC on Browser](http://nhiro.org/learn_language/repos/EDSAC-on-browser/index.html) - by NISHIO Hirokazu ([Programming guide](https://www.dcs.warwick.ac.uk/~edsac/Software/EdsacTG.pdf)) (1949)
 - [EMF Elliott](http://em.ulat.es/machines/Elliott903/) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-elliott-903))
 - WITCH Emulator - The Harwell Dekatron Machine, by Justin King. ([Source and example programs](https://github.com/technobaboo/witch-e)) (1951)
