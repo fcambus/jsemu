@@ -319,7 +319,7 @@ adding them to the collection: the source for this page is available on
 - Virt.js - JavaScript emulation library ([Source](https://github.com/arcanis/virtjs))
 - [Visual Computer](https://faculty.runi.ac.il/vic/software/computer/) a minimal CPU for teaching by Shimon Schocken. ([Web site](https://sites.google.com/site/schocken/thevisualcomputer))
 - [WebMSX](https://webmsx.org/) - WebMSX, or simply WMSX, is a new MSX emulator designed for the Web ([Source](https://github.com/ppeccin/webmsx))
-- [Wireworld computer](https://dested.com/projects/wire/) - JavaScript port by Salvatore Aiello of the prime-generating computer implemented in the Wireworld cellular automaton, as described [here](https://www.quinapalus.com/wi-index.html).
+- [Wireworld computer](https://wireworld.dested.com/) - JavaScript port by Salvatore Aiello of the prime-generating computer implemented in the Wireworld cellular automaton, as described [here](https://www.quinapalus.com/wi-index.html).
 - [WPCEmu](https://github.com/neophob/wpc-emu) - Williams Pinball Emulator by Michael Vogt
 
 ## Adventure Game Engines
