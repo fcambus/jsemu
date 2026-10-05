@@ -293,7 +293,7 @@ adding them to the collection: the source for this page is available on
 - [JS99'er](https://js99er.net/) - TI-99/4A emulator written in TypeScript ([Source](https://github.com/Rasmus-M/js99er-angular))
 - JSGS - Experimental JavaScript implementation of the Pico-8 fantasy console ([Source](https://github.com/burakcan/jsgs))
 - [jsMSX](https://jsmsx.sourceforge.net/) - The first MSX emulator 100% written in JavaScript
-- [JsPspEmu](http://jspspemu.com) - JavaScript PSP emulator ([Source](https://github.com/jspspemu/jspspemu))
+- JsPspEmu - JavaScript PSP emulator ([Source](https://github.com/soywiz-archive/jspspemu))
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [jupiler](http://jupiler.zxtres.com) - Jupiter Ace emulator written in JavaScript ([Source](https://sourceforge.net/p/emuscriptoria/code/HEAD/tree/jupiler.js))
 - [KM-Z80 web](http://hp.vector.co.jp/authors/VA016157/kmz80web10/kmz80web.html) emulator for Sharp MZ-80K, by Katsumi Morimatsu. GOTO $1200 to start KM-BASIC. ([More information](http://hp.vector.co.jp/authors/VA016157/kmz80web10/))
