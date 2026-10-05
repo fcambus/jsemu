@@ -129,7 +129,7 @@ adding them to the collection: the source for this page is available on
 - PSeudo - JavaScript/WebGL/WebAudio browser based PLAYSTATION emulator (aka PSX) (needs boot ROM image, not supplied) ([Source](https://github.com/koluris/pseudo))
 - [PCSXjs](https://tjwei.github.io/pcsxjs/) - Modified PCSX-Reloaded compiled with Emscripten ([Source](https://github.com/tjwei/pcsxjs))
 - [WASMpsx](https://github.com/js-emulators/WASMpsx) - Easily embeddable fork of PCSXjs
-- [kpspemu](https://github.com/kpspemu/kpspemu) - PSP Emulator written in Kotlin for JVM, JS and Native
+- [kpspemu](https://github.com/soywiz-archive/kpspemu) - PSP emulator written in Kotlin for JVM, JavaScript, and native platforms
 - [Play!.js](https://playjs.purei.org) - This is a port of Play!, a PlayStation2 emulator, running in a web browser
 
 ## Tandy
