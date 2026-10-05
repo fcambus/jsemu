@@ -149,7 +149,7 @@ adding them to the collection: the source for this page is available on
 - [Tiny Emulators](https://floooh.github.io/tiny8bit/) -  based on the same chip- and system-emulator source code as YAKC, but as minimal WASM apps without fluff ([source](https://github.com/floooh/chips-test))
 - [EmulatorJS](https://emulatorjs.org/) -  RetroArch compiled to emscripten with a nice wrapper ([source](https://github.com/emulatorjs/emulatorjs))
 - [webretro](https://binbashbanana.github.io/webretro/) -  Another WebAssembly port of RetroArch ([source](https://github.com/BinBashBanana/webretro))
-- [RetroArch Web Player](web.libretro.com) -  Official WebAssembly build of RetroArch ([source](https://github.com/libretro/RetroArch))
+- [RetroArch Web Player](https://web.libretro.com/) - Official WebAssembly build of RetroArch ([source](https://github.com/libretro/RetroArch))
 
 ## PC Emulators
 
