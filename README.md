@@ -278,7 +278,7 @@ adding them to the collection: the source for this page is available on
 - [Compukit UK101](http://www.avoncliff.com/uk101/) - by David Stevenson
 - [ContrAltoJS](https://archives.loomcom.com/contraltojs/) - Pure JavaScript implementation of the ContrAlto Xerox Alto emulator ([Source](https://github.com/sethm/ContrAltoJS))
 - [COSMAC Elf-ish](https://www.donnelly-house.net/programming/cdp1802/simelf/) - simulator by William Donnelly
-- [DCMO5 Online](http://dcmo5.free.fr/online/) - Thomson MO5 JavaScript emulator
+- [DCMO5 Online](https://dcmo5.pages-perso.free.fr/online/) - Thomson MO5 JavaScript emulator
 - [Dodo Playground](https://play.dodolabs.io/?code=51447f62) - IDE and simulator for 6502-based Dodo homebrew game system by Peter Noyes
 - [EMF Dragon](http://em.ulat.es/machines/Dragon32/) - EMF-based Dragon Emulator - by Steven Goodwin (@MarquisdeGeek)
 - [EMF Jupiter Ace](http://em.ulat.es/machines/JupiterAce/) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-jupiter-ace))
