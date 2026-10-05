@@ -114,7 +114,7 @@ adding them to the collection: the source for this page is available on
 
 - [JSSpeccy](http://jsspeccy.zxdemo.org) - A ZX Spectrum emulator in JavaScript ([Source](https://github.com/gasman/jsspeccy2))
 - [JtyOne Online ZX81 Emulator](http://www.zx81stuff.org.uk/zx81/jtyone.html) - by Simon Holdsworth
-- [Qaop/JS](http://torinak.com/qaop) - ZX Spectrum emulator
+- [Qaop/JS](https://torinak.com/qaop/) - ZX Spectrum emulator
 - [ZX80 Emulator](https://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
 - [EMF ZX80](http://em.ulat.es/machines/SinclairZX80/) - EMF-based ZX80 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx80))
 - [EMF ZX81](http://em.ulat.es/machines/SinclairZX81/) - EMF-based ZX81 Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-sinclair-zx81))
