@@ -108,7 +108,7 @@ adding them to the collection: the source for this page is available on
 ## Sega
 
 - [jsSMS](https://gmarty.github.io/jsSMS/) - JavaScript Sega Master System & Game Gear emulator ([Source](https://github.com/gmarty/jsSMS))
-- [Miracle](https://xania.org/miracle/miracle.html) - Sega Master System emulator ([Source](https://github.com/mattgodbolt/Miracle))
+- [Miracle](https://miracle.xania.org/) - Sega Master System emulator ([Source](https://github.com/mattgodbolt/Miracle))
 
 ## Sinclair
 
