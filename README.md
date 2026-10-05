@@ -92,7 +92,6 @@ adding them to the collection: the source for this page is available on
 - [Desmond.js](https://github.com/js-emulators/desmond) - A portable/embeddable version of DeSmuME-wasm ([Demo](https://js-emulators.github.io/desmond/))
 - [SkyEmu](https://github.com/skylersaleh/SkyEmu) - A low-level Game Boy, Game Boy Color, Game Boy Advance, and Nintendo DS emulator
 - [CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator that runs in your browser written in OCaml
-- [TinyGB](https://github.com/Unzor/TinyGB) - A Game Boy emulator that runs only in the terminal written in NodeJS
 - [Boytacean](https://boytacean.joao.me) - A Game Boy emulator written in Rust that works in the Browser using WebAssembly ([Source](https://github.com/joamag/boytacean))
 
 ## Robotron / VEB Mikroelektronik
