@@ -112,7 +112,7 @@ adding them to the collection: the source for this page is available on
 
 ## Sinclair
 
-- [JSSpeccy](http://jsspeccy.zxdemo.org) - A ZX Spectrum emulator in JavaScript ([Source](https://github.com/gasman/jsspeccy2))
+- [JSSpeccy](https://jsspeccy.zxdemo.org/) - A ZX Spectrum emulator in JavaScript ([Source](https://github.com/gasman/jsspeccy3))
 - [JtyOne Online ZX81 Emulator](http://www.zx81stuff.org.uk/zx81/jtyone.html) - by Simon Holdsworth
 - [Qaop/JS](https://torinak.com/qaop/) - ZX Spectrum emulator
 - [ZX80 Emulator](https://nocanvas.zame-dev.org/0004/) - JavaScript ZX80 Emulator
