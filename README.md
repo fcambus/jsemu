@@ -219,7 +219,7 @@ adding them to the collection: the source for this page is available on
 - [UNIVAC I emulator](https://www.masswerk.at/virtualunivac/) - JavaScript emulator by Norbert Landsteiner (1951)
 - [ElectroData/Burroughs Datatron 205 Emulator](http://www.phkimpel.us/ElectroData-205/webUI/D205.html) - by Paul Kimpel ([Source](https://github.com/pkimpel/retro-205)) (1954)
 - [TX-0](https://www.wizforest.com/tech/tx-0/#) emulator by @wizforest, including several programs from the time. ([Instructions](https://www.wizforest.com/tech/tx-0/manual.html)) (1956)
-- [Mailüfterl](http://members.aon.at/nkehrer/mailuefterl/mailuefterl.html) - JavaScript emulator by Norbert Kehrer (1958)
+- [Mailüfterl](https://norbertkehrer.github.io/mailuefterl/mailuefterl.html) - JavaScript emulator by Norbert Kehrer (1958)
 - [Setun (Russian)](http://trinary.ru/projects/setunws/) and [English (archived)](https://web.archive.org/web/20170114102246/http://en.trinary.ru/projects/setunws/) - JavaScript emulator by Обухов Александр. Ternary machine from Soviet Union (1958)
 - [Digi-Comp 1](https://digicomp-1.appspot.com) ([previously](https://web.archive.org/web/20140222193139/http://www.scoopsfolks.com/digicomp1)) - educational sliding-rods plastic computer. Emulator by Larry Groebe and Kevin Williams. (1963)
 - [Digi-Comp II](https://museum.syssrc.com/joda/) - educational falling-marbles computer. Emulator by Joda Redfearn. (1965)
