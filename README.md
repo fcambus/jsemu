@@ -271,7 +271,7 @@ adding them to the collection: the source for this page is available on
 - [Chip-8 virtual machine](https://biged.github.io/Chip-8-Emulator/) by Alexander Dickson - see [blog entry](http://blog.alexanderdickson.com/javascript-chip-8-emulator)
 - [Chip-8 virtual machine](http://pachisystems.com/JSEmu/chip8.html) by Brian Milton ([Source](https://github.com/PachiSystems/JSEmu) may target several CPUs)
 - [Chip8 1k](https://xem.github.io/chip8/) - a code-golfed chip 8 emulator in 1k by Maxime Euzière and others
-- [EMF Chip 8](http://em.ulat.es/machines/Chip8/) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-chip-8))
+- [EMF Chip 8](http://em.ulat.es/machines/Chip8/) - EMF-based Elliott Emulator - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-chip8))
 - [EMF Megaprocessor](http://em.ulat.es/machines/Megaprocessor/) - EMF-based Megaprocessor Emulator - by Steven Goodwin (@MarquisdeGeek) of the room-sized machine built by James Newman and housed in the Museum of Computing History, in Cambridge, England. ([Source](https://github.com/MarquisdeGeek/emf-emulator-megaprocessor))
 - [Merry8](https://github.com/doodlewind/merry8) - JavaScript Chip-8 emulator by Yifeng Wang
 - [Compucolor II Emulator](http://compucolor.org/emu/ccemu.html) - JavaScript Compucolor II Emulator
