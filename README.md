@@ -266,7 +266,7 @@ adding them to the collection: the source for this page is available on
 ## Miscellaneous
 
 - [C1Pjs](https://www.pcjs.org/machines/osi/c1p/) - JavaScript simulation of the Challenger 1P (PCjs)
-- [Canon Cat (in JSMess)](https://archive.org/details/canoncat) - Jef Raskin's Forth-capable 68000-based word processor. ([Instructions](https://github.com/mamedev/mame/blob/master/src/mame/drivers/cat.cpp#L16) and [more info](http://www.canoncat.net/))
+- [Canon Cat (in JSMess)](https://archive.org/details/canoncat) - Jef Raskin's Forth-capable 68000-based word processor. ([Instructions](https://github.com/mamedev/mame/blob/master/src/mame/canon/cat.cpp#L18) and [more info](http://www.canoncat.net/))
 - [CFT](https://www.bedroomlan.org/hardware/cft/microcode-emulator/) - JavaScript simulation of Alexios Chouchoulas' 16-bit homebrew TTL machine. ([More information](https://www.bedroomlan.org/hardware/cft/) including documentation and a video.)
 - [Chip-8 virtual machine](https://biged.github.io/Chip-8-Emulator/) by Alexander Dickson - see [blog entry](http://blog.alexanderdickson.com/javascript-chip-8-emulator)
 - [Chip-8 virtual machine](http://pachisystems.com/JSEmu/chip8.html) by Brian Milton ([Source](https://github.com/PachiSystems/JSEmu) may target several CPUs)
