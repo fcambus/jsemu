@@ -169,7 +169,7 @@ adding them to the collection: the source for this page is available on
 
 - [8008 running SCELBAL](http://www.xlnsresearch.com/scelbal.htm) by Mark G. Arnold. ("SCELBAL is the only open-source, floating-point, high-level language ever implemented on the 8008")
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
-- [AVR8js](https://wokwi.com/arduino/projects/297787059514376717) - AVR architecture emulator, capable of running Arduino code ([source](https://github.com/wokwi/avr8js))
+- [AVR8js](https://github.com/wokwi/avr8js) - AVR architecture emulator, capable of running Arduino code ([Demo](https://wokwi.com/projects/297787059514376717))
 - [EMF Arcade Invaders](http://em.ulat.es/machines/TaitoSpaceInvaders/) - EMF-based 8080 Emulator with Space Invaders ROM - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-arcade_invaders))
 - [8086tiny running FreeDOS](https://www.netpipe.ca/apps/8086tiny/8086tiny.html) - An Emscriptem port of Adrian Cable's 8086tiny. Source, and other emulators ported by Clay Shippy, at [emscripten-projects](https://github.com/netpipe/emscripten-projects).
 - [Angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA simulator booting Linux in a web-browser
