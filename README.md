@@ -238,7 +238,7 @@ adding them to the collection: the source for this page is available on
 - [HP21u](https://www.sydneysmith.com/products/hp21u/run/index.html), [HP25u](https://www.sydneysmith.com/products/hp25u/run/index.html), and [HP29u](https://www.sydneysmith.com/products/hp29u/run/index.html) - by Greg Sydney-Smith
 - [HP-35](https://ashleyf.github.io/HP35/) - bug-compatible emulator by Ashley Feniello [explained here](https://blogs.msdn.microsoft.com/ashleyf/2010/09/25/microcode-level-hp-35-emulator-in-javascript/) using [Eric Smith](https://nonpareil.brouhaha.com/)'s and [Jacques Laporte](https://web.archive.org/web/20210601085601/http://home.citycable.ch/pierrefleur/Jacques-Laporte/)'s work
 - [HP-35, HP-45, HP-55, HP-65, HP-80](https://torotrak.wordpress.com/hp-classic/) - collection of HP Classics, based on Feniello's work, by Francois Roulet
-- [HP-45](http://members.aon.at/nkehrer/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
+- [HP-45](https://norbertkehrer.github.io/hp45_js/hp45.html) - statically recompiled ROM by Norbert Kehrer
 - [jsEmu48](https://jadegame.com/jsemu48/) - emscripten port by Julien Meyer of HP EMU By Daniel Nilsson. ([Source](https://github.com/brizzly/jsEmu48))
 - [HP-55](https://www.sydneysmith.com/products/hp55u/run/), [HP-65](https://www.sydneysmith.com/wordpress/hp65/) and [HP-67](https://www.sydneysmith.com/wordpress/1178/hp67-microcode-emulator/) - with extra debug menu, by Greg Sydney-Smith
 - [мк-61](https://mk-61.moy.su/emulator.html) - Elektronika's programmable calculators MK-61, Б3-34, МК-54, and МК-56, also the Феликс-М (Felix M) arithmometer, a slide rule and an abacus. By Felix Lazarev, Andrey_emu, Sergey Tarasov and others.
