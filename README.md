@@ -252,7 +252,7 @@ adding them to the collection: the source for this page is available on
 
 ### Workalike calculators
 
-- [HP-11C](https://stendec.io/ctb/hp11c.html), [HP-12C Platinum](https://stendec.io/ctb/hp12c-platinum.html), [HP-16C](https://stendec.io/ctb/hp16c.html) - by Elvis Pfützenreuter
+- [HP-11C](https://stendec.io/ctb/scientific/), [HP-12C Platinum](https://stendec.io/ctb/financial-advanced/), [HP-16C](https://stendec.io/ctb/programmer/) - by Elvis Pfützenreuter
 - [HP-16C (Jovial RPN)](https://jrpn.jovial.com/) - by Bill Foote
 - [HP-15C](https://hp15c.com/web/hp15c.html) - by Greg Hewgill. ([Source](https://github.com/ghewgill/hp15c))
 - [HP-21](https://www.sydneysmith.com/products/gss-hp21/run/index.html) and [HP-29](https://www.sydneysmith.com/products/gss-hp29/run/index.html) by Greg Sydney-Smith (See [here](https://www.sydneysmith.com/wordpress/hp21/) and [here](https://www.sydneysmith.com/wordpress/hp29/))
