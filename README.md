@@ -171,7 +171,7 @@ adding them to the collection: the source for this page is available on
 - [8080 CPU emulator](http://typedarray.org/wp-content/projects/Intel8080/index.html) - Intel 8080 CPU emulator running Space Invaders ROM ([Source](https://github.com/thibaultimbert/Intel8080))
 - [AVR8js](https://wokwi.com/arduino/projects/297787059514376717) - AVR architecture emulator, capable of running Arduino code ([source](https://github.com/wokwi/avr8js))
 - [EMF Arcade Invaders](http://em.ulat.es/machines/TaitoSpaceInvaders/) - EMF-based 8080 Emulator with Space Invaders ROM - by Steven Goodwin (@MarquisdeGeek)  ([Source](https://github.com/MarquisdeGeek/emf-emulator-arcade_invaders))
-- [8086tiny running FreeDOS](https://www.netpipe.ca/apps/8086tiny/8086tiny.html) - An Emscriptem port of Adrian Cable's 8086tiny. Source, and other emulators ported by Clay Shippy, at [https://github.com/netpipe/emscripten-projects](emscripten-projects).
+- [8086tiny running FreeDOS](https://www.netpipe.ca/apps/8086tiny/8086tiny.html) - An Emscriptem port of Adrian Cable's 8086tiny. Source, and other emulators ported by Clay Shippy, at [emscripten-projects](https://github.com/netpipe/emscripten-projects).
 - [Angel](https://github.com/riscv-software-src/riscv-angel) - JavaScript RISC-V ISA simulator booting Linux in a web-browser
 - [Angular 2 6502](https://github.com/JeremyLikness/6502emulator#readme) written with TypeScript and Angular 2, by Jeremy Likness
 - [ARM-js](https://biged.github.io/arm-js/arm-js.html) - An ARM emulator written in JavaScript ([Source](https://github.com/ozaki-r/arm-js))
