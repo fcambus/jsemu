@@ -163,7 +163,7 @@ adding them to the collection: the source for this page is available on
 - [jemul8](http://jemul8.com) - An object-oriented JavaScript x86 emulator for Node.js and the Browser ([Source](https://github.com/asmblah/jemul8))
 - jsbochs - Bochs PC emulator for the Browser ([Source](https://github.com/codinguncut/jsbochs))
 - [Boxedwine](http://www.boxedwine.org/) - An emulator that runs Windows applications using Wine and emulating a Linux kernel and CPU ([Source](https://github.com/danoon2/Boxedwine))
-- [wine-assembly](https://wine-assembly.berrry.app) - Runs Win32 PE executables in the browser via a WAT-native x86 interpreter ([Source](https://github.com/vgrichina/wine-assembly))
+- [berrry.wine](https://berrry.wine) - Runs unmodified Win32 executables in the browser via an x86 interpreter written in WebAssembly Text, no OS image (StarCraft, Diablo, Quake II demos; [compatibility list](https://berrry.wine/compat/)) ([Source](https://github.com/vgrichina/berrry-wine))
 
 ## Bare CPUs
 
